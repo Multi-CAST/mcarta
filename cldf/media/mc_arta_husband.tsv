@@ -1,4 +1,4 @@
-corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 arta	husband	0001	#	#	##	##				
 arta	husband	0001	Asawa	husband	np.h:s_other	np	h	s_other		
 arta	husband	0001	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
