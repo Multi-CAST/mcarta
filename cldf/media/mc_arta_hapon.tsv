@@ -1,0 +1,1017 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+arta	hapon	0001	#	#	##	##				
+arta	hapon	0001	Aydi:ti	before	other	other				
+arta	hapon	0002	historia	story	np:pred	np		pred		
+arta	hapon	0002	na	GEN	rn	rn				
+arta	hapon	0002	ama	father	rn_np.h:poss	rn_np	h	poss		
+arta	hapon	0002	=ko	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	hapon	0002	=ti	=SPC	=rn	=rn				
+arta	hapon	0002	aydi:ti	before	other	other				
+arta	hapon	0002	ta	OBL	ln	ln				
+arta	hapon	0002	tyempo	time	np:other	np		other		
+arta	hapon	0002	na	GEN	rn	rn				
+arta	hapon	0002	hapon	Japan(ese)	rn_np.h:poss	rn_np	h	poss		
+arta	hapon	0003	#	#	##	##				
+arta	hapon	0003	tyempo	time	np:pred	np		pred		
+arta	hapon	0003	na	GEN	rn	rn				
+arta	hapon	0003	hapon	Japan(ese)	rn_np.h:poss	rn_np	h	poss		
+arta	hapon	0003	=di:ti	=before	=other	=other				
+arta	hapon	0004	#	#	##neg	##neg				
+arta	hapon	0004	#	#	#ac	#ac				
+arta	hapon	0004	Amma	if	other	other				
+arta	hapon	0004	biyungèt	night	np:other	np		other		
+arta	hapon	0004	amma	if	other	other				
+arta	hapon	0004	munata	like.that	ap_other:pred	ap_other		pred		
+arta	hapon	0004	i	DEF	ln	ln				
+arta	hapon	0004	langit	sky	np:s_other	np		s_other		
+arta	hapon	0005	%	%	%	%				
+arta	hapon	0005	awan	NEG	other	other				
+arta	hapon	0005	ta	OBL	ln	ln				
+arta	hapon	0005	man-tungpa	AV-put.on.fire	vother:pred	vother		pred		
+arta	hapon	0005	0	0	f0.h:s_a	f0	h	s_a		
+arta	hapon	0005	#	#	##neg	##neg				
+arta	hapon	0005	awan	NEG	other	other				
+arta	hapon	0005	ta	OBL	ln	ln				
+arta	hapon	0005	mangalap	AV-get	vother:pred	vother		pred		
+arta	hapon	0005	0	0	f0.h:a_a	f0	h	a_a		
+arta	hapon	0005	ta	OBL	ln	ln				
+arta	hapon	0005	dut	firewood	np:p_a	np		p_a		
+arta	hapon	0005	#	#	##	##				
+arta	hapon	0005	#	#	#ac	#ac				
+arta	hapon	0005	Awan	NEG	other	other				
+arta	hapon	0006	Basta	just	other	other				
+arta	hapon	0006	amma	if	other	other				
+arta	hapon	0006	atti:	exist	other	other				
+arta	hapon	0006	naka:lap	UV.POT-get	v:pred	v		pred		
+arta	hapon	0006	amma	father	np.h:a_u	np	h	a_u		
+arta	hapon	0006	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	hapon	0006	=ti	=SPC	=rn	=rn				
+arta	hapon	0006	ta	OBL	ln	ln				
+arta	hapon	0006	laman	wild.pig	np:p_u	np		p_u		
+arta	hapon	0007	%	%	%	%				
+arta	hapon	0007	Basta	just	other	other				
+arta	hapon	0007	i-ttun	UV-place	v:pred	v		pred		
+arta	hapon	0007	=di	=POST	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0007	=ta	=DEM.DIST.OBL	=dem_pro:g_u	=dem_pro		g_u		
+arta	hapon	0007	0	0	0:p_u	0		p_u		
+arta	hapon	0007	#	#	##neg	##neg				
+arta	hapon	0007	awan	NEG	other	other				
+arta	hapon	0007	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	hapon	0007	mangalap	AV-get	v:pred	v		pred		
+arta	hapon	0007	ta	OBL	ln	ln				
+arta	hapon	0007	dut	firewood	np:p_a	np		p_a		
+arta	hapon	0008	#	#	##neg	##neg				
+arta	hapon	0008	du:tungan	singe-LV	vother	vother				
+arta	hapon	0008	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	hapon	0008	awan	NEG	other	other				
+arta	hapon	0008	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0008	du:tungan	singe.UV	v:pred	v		pred		
+arta	hapon	0008	0	0	0:p_u	0		p_u		
+arta	hapon	0009	#	#	##	##				
+arta	hapon	0009	Basta	just	other	other				
+arta	hapon	0009	mang-anting	AV-afraid	v:pred	v		pred		
+arta	hapon	0009	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	hapon	0009	ti	OBL.DEF	ln	ln				
+arta	hapon	0009	hapo:n	Japan(ese)	np.h:p_a	np	h	p_a		
+arta	hapon	0009	=i	=SPC	=other	=other				
+arta	hapon	0010	#	#	##	##				
+arta	hapon	0010	Mang-anting	AV-afraid	v:pred	v		pred		
+arta	hapon	0010	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	hapon	0010	ta	OBL	ln	ln				
+arta	hapon	0010	hapon	Japan(ese)	np.h:p_a	np	h	p_a		
+arta	hapon	0010	#	#	#ac	#ac				
+arta	hapon	0010	da	because	other	other				
+arta	hapon	0010	me'a:du	ADJ-plenty	ln	ln				
+arta	hapon	0010	a	LIG	ln	ln				
+arta	hapon	0010	hapon	Japan(ese)	np:predex	np		predex		
+arta	hapon	0011	#	#	##	##				
+arta	hapon	0011	#	#	#ac	#ac				
+arta	hapon	0011	Ba:go	before	other	other				
+arta	hapon	0011	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	hapon	0011	manwa	AV-PLH	nc	nc				
+arta	hapon	0011	man-tumpa	AV-put.on.fire	v:pred	v		pred		
+arta	hapon	0011	ta	OBL	ln	ln				
+arta	hapon	0011	dut	fire/firewood	np:p_a	np		p_a		
+arta	hapon	0012	%	%	%	%				
+arta	hapon	0012	a	LIG	other	other				
+arta	hapon	0012	idu:tung	UV-singe	v:pred	v		pred		
+arta	hapon	0012	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0012	laman	wild.pig	np:p_u	np		p_u		
+arta	hapon	0012	=i	=SPC	=rn	=rn				
+arta	hapon	0013	#	#	#ac	#ac				
+arta	hapon	0013	amma	if	other	other				
+arta	hapon	0013	biyungut	night(time)	np:pred	np		pred		
+arta	hapon	0013	=di	=POST	=other	=other				
+arta	hapon	0014	#	#	#ac.neg	#ac.neg				
+arta	hapon	0014	da	because	other	other				
+arta	hapon	0014	awan	NEG	other:pred	other		pred		
+arta	hapon	0014	=de:	=POST:OBL	=other	=other				
+arta	hapon	0014	ta	OBL	ln	ln				
+arta	hapon	0014	hapon	Japan(ese)	np.h:ncs_other	np	h	ncs_other		
+arta	hapon	0015	#	#	##	##				
+arta	hapon	0015	munata	like.that	ap_other:pred	ap_other		pred		
+arta	hapon	0015	i	DEF	ln	ln				
+arta	hapon	0015	wa	PLH	np:s_other	np		s_other		
+arta	hapon	0015	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	hapon	0016	#	#	##	##				
+arta	hapon	0016	paw-wa	PRG-PLH	nc	nc				
+arta	hapon	0016	=di	=3PL.GEN	nc	nc				
+arta	hapon	0016	ta	OBL	nc	nc				
+arta	hapon	0016	hapon	Japan(ese)	nc	nc				
+arta	hapon	0016	pang-anting	NF-afraid	vother:pred	vother		pred		
+arta	hapon	0016	=di	=3PL.GEN	=pro.h:ncs	=pro	h	ncs		
+arta	hapon	0016	ta	OBL	ln	ln				
+arta	hapon	0016	hapon	Japan(ese)	np.h:obl	np	h	obl		
+arta	hapon	0017	#	#	##	##				
+arta	hapon	0017	#	#	#ac	#ac				
+arta	hapon	0017	amma	if	other	other				
+arta	hapon	0017	atti	exist	other	other				
+arta	hapon	0017	ittan	see.PV	v:pred	v		pred		
+arta	hapon	0017	na	GEN	ln	ln				
+arta	hapon	0017	hapon	Japan(ese)	np.h:a_u	np	h	a_u		
+arta	hapon	0017	#	#	#cc:p_u	#cc		p_u		
+arta	hapon	0017	a	LIG	other	other				
+arta	hapon	0017	mang-wa	AV-PLH	v:pred	v		pred		
+arta	hapon	0017	a	LIG	other	other				
+arta	hapon	0017	asuk	smoke	np:s_a	np		s_a		
+arta	hapon	0018	%	%	%	%				
+arta	hapon	0018	Puna-n	like.that-PV	v:pred	v		pred		
+arta	hapon	0018	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0018	ta	DEM.DIST.OBL	dem_pro:p_u	dem_pro		p_u		
+arta	hapon	0018	#	#	#	#				
+arta	hapon	0018	pala-palattog-an	RDP-shoot-LV	v:pred	v		pred		
+arta	hapon	0018	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0018	0	0	0.h:p_u	0	h	p_u		
+arta	hapon	0019	#	#	##neg	##neg				
+arta	hapon	0019	#	#	#ac	#ac				
+arta	hapon	0019	amma	if	other	other				
+arta	hapon	0019	atti:	exist	other	other				
+arta	hapon	0019	=di	=POST	=other	=other				
+arta	hapon	0019	maka-alap	POT.AV-get	v:pred	v		pred		
+arta	hapon	0019	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	hapon	0019	ta	OBL	ln	ln				
+arta	hapon	0019	laman	wild.pig	np:p_a	np		p_a		
+arta	hapon	0019	%	%	%	%				
+arta	hapon	0019	awan	NEG	other	other				
+arta	hapon	0019	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0019	du:tung-an	singe-LV	v:pred	v		pred		
+arta	hapon	0019	0	0	0:p_u	0		p_u		
+arta	hapon	0019	#	#	#	#				
+arta	hapon	0019	awan	NEG	other	other				
+arta	hapon	0019	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0019	iwa	CV-PLH	v:pred	v		pred		
+arta	hapon	0019	ta	OBL	ln	ln				
+arta	hapon	0019	dut	fire(wood)	np:g_u	np		g_u		
+arta	hapon	0019	0	0	0:p_u	0		p_u		
+arta	hapon	0020	#	#	##	##				
+arta	hapon	0020	Inta	see.PV	v:pred	v		pred		
+arta	hapon	0020	na	GEN	ln	ln				
+arta	hapon	0020	hapon	Japan(ese)	np.h:a_u	np	h	a_u		
+arta	hapon	0020	=i	=SPC	=rn	=rn				
+arta	hapon	0020	asuk	smoke	np:p_u	np		p_u		
+arta	hapon	0020	=i	=SPC	=rn	=rn				
+arta	hapon	0021	#	#	##	##				
+arta	hapon	0021	Saya	DEM.DIST	dem_pro:p_u	dem_pro		p_u		
+arta	hapon	0021	angin	go.UV	v:pred	v		pred		
+arta	hapon	0021	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0022	#	#	##	##				
+arta	hapon	0022	#	#	#ac	#ac				
+arta	hapon	0022	Amma	if	other	other				
+arta	hapon	0022	biyungut	night(time)	np:pred	np		pred		
+arta	hapon	0022	=di	=POST	=other	=other				
+arta	hapon	0022	%	%	%	%				
+arta	hapon	0022	awan	NEG	other	other				
+arta	hapon	0022	0	0	0.h:a_up	0	h	a_up		
+arta	hapon	0022	me:ta	POT.PV.see	v:pred	v		pred		
+arta	hapon	0022	adu:yu	distant_place	np:p_up	np		p_up		
+arta	hapon	0023	#	#	##	##				
+arta	hapon	0023	saddya	DEM.DIST	dem_pro:other	dem_pro		other		
+arta	hapon	0023	mantumpa	AV-light.fire	v:pred	v		pred		
+arta	hapon	0023	=tid	=3PL.ABS	=pro.h:s_a	=pro	h	s_a		
+arta	hapon	0023	#	#	##	##				
+arta	hapon	0023	a	LIG	other	other				
+arta	hapon	0023	iwa	CV-PLH	v:pred	v		pred		
+arta	hapon	0023	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0023	=d	=POST	=other	=other				
+arta	hapon	0023	i	DEF	ln	ln				
+arta	hapon	0023	laman	wild.pig	np:p_u	np		p_u		
+arta	hapon	0023	=i	=SPC	=other	=other				
+arta	hapon	0023	0	0	0:g_u	0		g_u		
+arta	hapon	0024	#	#	##	##				
+arta	hapon	0024	idu:tungan	singe-LV	v:pred	v		pred		
+arta	hapon	0024	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0024	=d	=POST	=other	=other				
+arta	hapon	0024	0	0	0:p_u	0		p_u		
+arta	hapon	0025	#	#	##	##				
+arta	hapon	0025	#	#	#ac	#ac				
+arta	hapon	0025	Amma	if	other	other				
+arta	hapon	0025	madu:tungan	POT-singe-LV	v:pred	v		pred		
+arta	hapon	0025	=di	=3PL.GEN	=pro.h:a_up	=pro	h	a_up		
+arta	hapon	0025	0	0	0:p_up	0		p_up		
+arta	hapon	0025	%	%	%	%				
+arta	hapon	0025	lutu-n	cook-PV	v:pred	v		pred		
+arta	hapon	0025	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0025	=d	=POST	=rv	=rv				
+arta	hapon	0025	attanan	all	other	other				
+arta	hapon	0025	0	0	0:p_u	0		p_u		
+arta	hapon	0026	#	#	#nc	#nc				
+arta	hapon	0026	da	because	nc	nc				
+arta	hapon	0026	ma	if	nc	nc				
+arta	hapon	0026	muna	like	nc	nc				
+arta	hapon	0026	=d	=POST	nc	nc				
+arta	hapon	0026	=tay	=now	nc	nc				
+arta	hapon	0026	a	LIG	nc	nc				
+arta	hapon	0026	langit	day(time)	nc	nc				
+arta	hapon	0026	=di	=POST	nc	nc				
+arta	hapon	0027	#	#	##neg	##neg				
+arta	hapon	0027	0	0	0.h:s_a	0	h	s_a		
+arta	hapon	0027	awan	NEG	other	other				
+arta	hapon	0027	=de:	=POST	=other	=other				
+arta	hapon	0027	=ta	=OBL	=other	=other				
+arta	hapon	0027	man-tungpa	AV-put.on.fire	v:pred	v		pred		
+arta	hapon	0028	#	#	##	##				
+arta	hapon	0028	pa-pati-n	CAUS-die-PV	v:pred	v		pred		
+arta	hapon	0028	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0028	=d	=POST	=other	=other				
+arta	hapon	0028	ta	OBL	ln	ln				
+arta	hapon	0028	wagèt	water	np:obl_u	np		obl_u		
+arta	hapon	0028	=i	=SPC	=other	=other				
+arta	hapon	0028	dut	fire(wood)	np:p_u	np		p_u		
+arta	hapon	0028	=i	=SPC	=other	=other				
+arta	hapon	0029	#	#	##	##				
+arta	hapon	0029	Basta	just	other	other				
+arta	hapon	0029	na-lu:tu	PST.POT.PV-cook	v:pred	v		pred		
+arta	hapon	0029	=di	=3PL.GEN	=pro.h:a_up	=pro	h	a_up		
+arta	hapon	0029	attanan	all	np:p_up	np		p_up		
+arta	hapon	0029	ni	GEN.DEF	rn	rn				
+arta	hapon	0029	yakkan	viand	rn_np:poss	rn_np		poss		
+arta	hapon	0029	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	hapon	0029	aydi	and	rn	rn				
+arta	hapon	0029	mabaw	carbohydrate	rn_np	rn_np				
+arta	hapon	0030	da	because	other	other				
+arta	hapon	0030	para	for	ln	ln				
+arta	hapon	0030	ay	FILLER	other	other				
+arta	hapon	0030	mande:	again	other	other				
+arta	hapon	0030	ti	OBL.DEF	ln	ln				
+arta	hapon	0030	biyungut	night(time)	np:other	np		other		
+arta	hapon	0030	=i	=SPC	=rn	=rn				
+arta	hapon	0030	a	LIG	rn	rn				
+arta	hapon	0030	gissa	one	rn	rn				
+arta	hapon	0031	#	#	##	##				
+arta	hapon	0031	munata	like.that	other	other				
+arta	hapon	0031	i	DEF	ln	ln				
+arta	hapon	0031	pat-ta:law	NF-afraid	vother:pred	vother		pred		
+arta	hapon	0031	didi	OBL.DEF.PL	ln	ln				
+arta	hapon	0031	ama	father	np.h:ncs	np	h	ncs		
+arta	hapon	0031	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	hapon	0031	di:ti	BEFORE	other	other				
+arta	hapon	0031	ta	OBL	other	other				
+arta	hapon	0031	dutul	before	other	other				
+arta	hapon	0032	#	#	#ac	#ac				
+arta	hapon	0032	da	because	other	other				
+arta	hapon	0032	pang-istoria-n	NF-story-PV	vother:pred	vother		pred		
+arta	hapon	0032	=di	=3PL.GEN	=pro.h:ncs	=pro	h	ncs		
+arta	hapon	0032	=dén	=1SG.OBL	=pro.1:g	=pro	1	g		
+arta	hapon	0033	#	#	##	##				
+arta	hapon	0033	Munata	like.that	other	other				
+arta	hapon	0033	i	DEF	ln	ln				
+arta	hapon	0033	pag-gimt-én	NF-do-PV	vother:pred	vother		pred		
+arta	hapon	0033	didi	OBL.DEF.PL	ln	ln				
+arta	hapon	0033	hapo:n	Japanese	np.h:ncs	np	h	ncs		
+arta	hapon	0033	=i	=SPC	=other	=other				
+arta	hapon	0034	#	#	#ac	#ac				
+arta	hapon	0034	da	because	other	other				
+arta	hapon	0034	a:duwan	other	other	other				
+arta	hapon	0034	a	LIG	other	other				
+arta	hapon	0034	apo	grandparent	np.h:dt_s_a	np	h	dt_s_a		
+arta	hapon	0034	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	hapon	0035	0	0	0.h:s_a	0	h	s_a		
+arta	hapon	0035	nap-pati	PST.AV-die	v:pred	v		pred		
+arta	hapon	0035	#	#	#ac	#ac				
+arta	hapon	0035	a	LIG	other	other				
+arta	hapon	0035	p<in>al-palattog-an	<PST>RDP-shoot.gun-LV	vother:pred	vother		pred		
+arta	hapon	0035	na	GEN	ln	ln				
+arta	hapon	0035	hapon	Japan(ese)	np.h:ncs	np	h	ncs		
+arta	hapon	0035	0	0	f0.h:obl	f0	h	obl		
+arta	hapon	0035	aydi:ti	before	other	other				
+arta	hapon	0035	ayta	DEM.DIST.OBL	other	other				
+arta	hapon	0036	Ayta	DEM.DIST.OBL	other	other				
+arta	hapon	0036	Agli:péy	Aglipay	np:l	np		l		
+arta	hapon	0037	#	#	##	##				
+arta	hapon	0037	Mang-ay	AV-go	v:pred	v		pred		
+arta	hapon	0037	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	hapon	0037	ti	OBL.DEF	ln	ln				
+arta	hapon	0037	bukid	mountain	np:p_a	np		p_a		
+arta	hapon	0037	=i	=SPC	=other	=other				
+arta	hapon	0037	a	LIG	nc	nc				
+arta	hapon	0037	wè::y	PLH	nc	nc				
+arta	hapon	0037	munata	like.that	nc	nc				
+arta	hapon	0037	a	LIG	nc	nc				
+arta	hapon	0037	bukid	mountain	nc	nc				
+arta	hapon	0038	#	#	##	##				
+arta	hapon	0038	Saya	DEM.DIST	dem_pro:p_u	dem_pro		p_u		
+arta	hapon	0038	une:-an	climb-LV	v:pred	v		pred		
+arta	hapon	0038	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0039	#	#	##	##				
+arta	hapon	0039	Tan	see.PV	v:pred	v		pred		
+arta	hapon	0039	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0039	ta	OBL	ln	ln				
+arta	hapon	0039	wa	PLH	ln	ln				
+arta	hapon	0039	=y	=SPC	=ln	=ln				
+arta	hapon	0039	ka:man	big	ln	ln				
+arta	hapon	0039	=i	=SPC	=ln	=ln				
+arta	hapon	0039	a	LIG	ln	ln				
+arta	hapon	0039	wagèt	water	np:p_u	np		p_u		
+arta	hapon	0040	#	#	##	##				
+arta	hapon	0040	Me''a:du	ADJ-plenty	other	other				
+arta	hapon	0040	a	LIG	other	other				
+arta	hapon	0040	hapon	Japan(ese)	np:predex	np		predex		
+arta	hapon	0040	ta	OBL	rn	rn				
+arta	hapon	0040	ayta	DEM.DIST.OBL	dem_pro:l	dem_pro		l		
+arta	hapon	0041	#	#	##	##				
+arta	hapon	0041	Pap-pa:la-palattug-an	NF-RDP-shoot.gun-LV	v:pred	v		pred		
+arta	hapon	0041	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0041	talutalun	RDP-mountain	np:p_u	np		p_u		
+arta	hapon	0041	=i	=SPC	=rn	=rn				
+arta	hapon	0042	#	#	##	##				
+arta	hapon	0042	Tiw-wana	STV-PLH	v:pred	v		pred		
+arta	hapon	0042	=d	=POST	=rv	=rv				
+arta	hapon	0042	=tid	=3PL.ABS	=rv	=rv				
+arta	hapon	0042	ti	PSN	ln	ln				
+arta	hapon	0042	apo	grandparent	np.h:bpi_a_a	np	h	bpi_a_a		
+arta	hapon	0042	=ko	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	hapon	0042	ti	OBL.DEF	ln	ln				
+arta	hapon	0042	gèda	trunk	np:p_a	np		p_a		
+arta	hapon	0042	didi	PL.GEN/OBL.DEF	rn	rn				
+arta	hapon	0042	ayu	tree	rn_np:poss	rn_np		poss		
+arta	hapon	0042	=y	=SPC	=rn	=rn				
+arta	hapon	0043	#	#	##	##				
+arta	hapon	0043	Mang-wa	AV-PLH	v:pred	v		pred		
+arta	hapon	0043	=tid	=3PL.ABS	=pro.h:s_a	=pro	h	s_a		
+arta	hapon	0043	ti	OBL.DEF	ln	ln				
+arta	hapon	0043	ayti	DEM.PROX.OBL	dem_pro:other	dem_pro		other		
+arta	hapon	0044	O:ni	yes	other	other				
+arta	hapon	0045	#	#	##	##				
+arta	hapon	0045	Mang-ko:ber	AV-cover	v:pred	v		pred		
+arta	hapon	0045	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	hapon	0045	ti	OBL.DEF	ln	ln				
+arta	hapon	0045	gèda	trunk	np:p_a	np		p_a		
+arta	hapon	0045	didi	PL.GEN/OBL.DEF	rn	rn				
+arta	hapon	0045	ayu	tree	rn_np:poss	rn_np		poss		
+arta	hapon	0045	=y	=SPC	=rn	=rn				
+arta	hapon	0046	#	#	#ac	#ac				
+arta	hapon	0046	da	because	other	other				
+arta	hapon	0046	pa:la-palattugan	RDP-shoot.gun-LV	v:pred	v		pred		
+arta	hapon	0046	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0046	talun	mountain	np:p_u	np		p_u		
+arta	hapon	0046	=i	=SPC	=rn	=rn				
+arta	hapon	0047	#	#	##	##				
+arta	hapon	0047	Saya	DEM.DIST	dem_pro:s_np	dem_pro		s_np		
+arta	hapon	0047	i	DEF	ln	ln				
+arta	hapon	0047	pangistoria	NMZ-story	np:pred	np		pred		
+arta	hapon	0047	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	hapon	0047	=d	=POST	=other	=other				
+arta	hapon	0047	=ina	=DEM.MED	=other	=other				
+arta	hapon	0047	a	LIG	other	other				
+arta	hapon	0047	ama	father	rn_np.h:poss	rn_np	h	poss		
+arta	hapon	0047	=ko	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	hapon	0047	=ti	=SPC	=rn	=rn				
+arta	hapon	0048	O:ni	Yes	other	other				
+arta	hapon	0048	aydi	and	other	other				
+arta	hapon	0048	apo	grandparent	other	other				
+arta	hapon	0048	=ko	=1SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	hapon	0048	=y	=SPC	=rn	=rn				
+arta	hapon	0049	#	#	##	##				
+arta	hapon	0049	Ay	FILLER	ln	ln				
+arta	hapon	0049	gissa	one	ln	ln				
+arta	hapon	0049	=y	=SPC	=ln	=ln				
+arta	hapon	0049	a	LIG	ln	ln				
+arta	hapon	0049	apu	grandparent	np:dt_s	np		dt_s		
+arta	hapon	0049	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	hapon	0049	m<in>ap-pati	<PST>AV-die	v:pred	v		pred		
+arta	hapon	0049	0	0	0.h:s_a	0	h	s_a		
+arta	hapon	0049	#	#	#ac	#ac				
+arta	hapon	0049	a	LIG	other	other				
+arta	hapon	0049	p<in>alattug-an	<PST>shoot.gun-LV	v:pred	v		pred		
+arta	hapon	0049	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0049	0	0	0.h:p_u	0	h	p_u		
+arta	hapon	0050	ayta	DEM.DIST.OBL	ln	ln				
+arta	hapon	0050	Aglipay	Aglipay	np:other	np		other		
+arta	hapon	0050	aydi:ti	before	other	other				
+arta	hapon	0051	#	#	##	##				
+arta	hapon	0051	Saya	DEM.DIST	other	other				
+arta	hapon	0051	manganting	STV-afraid	v:pred	v		pred		
+arta	hapon	0051	tidi	PL.DEF	ln	ln				
+arta	hapon	0051	ama	father	np.h:s_stv	np	h	s_stv		
+arta	hapon	0051	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	hapon	0051	deydia	NA	other	other				
+arta	hapon	0052	#	#	##	##				
+arta	hapon	0052	m-angay	AV-go	v:pred	v		pred		
+arta	hapon	0052	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	hapon	0052	ti	OBL.DEF	ln	ln				
+arta	hapon	0052	karagatan	stony.place	np:p_a	np		p_a		
+arta	hapon	0052	=i	=SPC	=rn	=rn				
+arta	hapon	0052	a	LIG	rn	rn				
+arta	hapon	0052	mel-lawa	ADJ-wide	rn	rn				
+arta	hapon	0053	#	#	##	##				
+arta	hapon	0053	da	because	other	other				
+arta	hapon	0053	me''a:du	ADJ-plenty	ln	ln				
+arta	hapon	0053	hapon	Japan(ese)	np.h:predex	np	h	predex		
+arta	hapon	0053	=ta	=DEM.DIST.OBL	=dem_pro:l	=dem_pro		l		
+arta	hapon	0054	#	#	#	#				
+arta	hapon	0054	aydi	and	other	other				
+arta	hapon	0054	rrrrr	sound.of.planes.flying	other	other				
+arta	hapon	0054	munata	like.that	ap_other:pred	ap_other		pred		
+arta	hapon	0054	Orepla:no	airplane	np:s_other	np		s_other		
+arta	hapon	0054	na	GEN	rn	rn				
+arta	hapon	0054	hapon	Japan(ese)	rn_np:poss	rn_np		poss		
+arta	hapon	0055	#	#	##	##				
+arta	hapon	0055	Bomba-n	bomb-TR	v:pred	v		pred		
+arta	hapon	0055	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0055	=tid	=3PL.ABS	=pro.h:p_u	=pro	h	p_u		
+arta	hapon	0056	#	#	#nc	#nc				
+arta	hapon	0056	Atti	exist	nc	nc				
+arta	hapon	0056	orepla:no	airplane	nc	nc				
+arta	hapon	0056	na	GEN	rn	rn				
+arta	hapon	0056	America	America	rn	rn				
+arta	hapon	0056	Awan	NEG	nc	nc				
+arta	hapon	0057	aydia	and	nc	nc				
+arta	hapon	0057	wa	PLH	nc	nc				
+arta	hapon	0057	=di	=3PL.GEN	nc	nc				
+arta	hapon	0057	wa	PLH	nc	nc				
+arta	hapon	0058	#	#	##	##				
+arta	hapon	0058	Na-bayag	PST.AV-long	v:pred	v		pred		
+arta	hapon	0058	a	LIG	other	other				
+arta	hapon	0058	na	GEN	nc	nc				
+arta	hapon	0058	wa	PLH	nc	nc				
+arta	hapon	0058	=y	=SPC	=nc	=nc				
+arta	hapon	0058	(tidi)	(PL.DEF)	ln	ln				
+arta	hapon	0058	hapon	Japan(ese)	np.h:a_a	np	h	a_a		
+arta	hapon	0058	ti	OBL.DEF	ln	ln				
+arta	hapon	0058	ayti	DEM.PROX.OBL	ln	ln				
+arta	hapon	0058	pilipi:nas	Philippines	np:p_a	np		p_a		
+arta	hapon	0058	=i	=SPC	=rn	=rn				
+arta	hapon	0059	#	#	##	##				
+arta	hapon	0059	D<in><um>igdig	<PST><INTR>arrival	v:pred	v		pred		
+arta	hapon	0059	=di	=POST	=other	=other				
+arta	hapon	0059	i	DEF	ln	ln				
+arta	hapon	0059	orepla:no	airplane	np:s_a	np		s_a		
+arta	hapon	0059	na	GEN	rn	rn				
+arta	hapon	0059	America:no	American	rn_np.h:poss	rn_np	h	poss		
+arta	hapon	0060	#	#	##	##				
+arta	hapon	0060	Saddya	DEM.DIST	other	other				
+arta	hapon	0060	i	DEF	ln	ln				
+arta	hapon	0060	m<in>a-wa	<PST>POT-PLH	v:pred	v		pred		
+arta	hapon	0060	=d	=POST	=other	=other				
+arta	hapon	0060	=tid	=3PL.ABS	=pro.h:s_up	=pro	h	s_up		
+arta	hapon	0061	#	#	##	##				
+arta	hapon	0061	Awan	NEG	other	other				
+arta	hapon	0061	=mu	=2SG.GEN	=pro.2:a_up	=pro	2	a_up		
+arta	hapon	0061	=d	=POST	=other	=other				
+arta	hapon	0061	me:ta	can.see	v:pred	v		pred		
+arta	hapon	0061	i	DEF	ln	ln				
+arta	hapon	0061	langit	day(time)	np:p_up	np		p_up		
+arta	hapon	0061	de:ta	POST:OBL	other	other				
+arta	hapon	0061	#	#	#ac	#ac				
+arta	hapon	0061	munata	like.that	ap_other:pred	ap_other		pred		
+arta	hapon	0061	arepla:no	airplane	np:s_other	np		s_other		
+arta	hapon	0062	#	#	##	##				
+arta	hapon	0062	Lagip-èn	say-TR	v:pred	v		pred		
+arta	hapon	0062	ni	GEN.DEF	ln	ln				
+arta	hapon	0062	ama	father	np.h:s_u	np	h	s_u		
+arta	hapon	0062	=ko	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	hapon	0062	=y	=SPC	=rn	=rn				
+arta	hapon	0063	#	#	##	##				
+arta	hapon	0063	umangay	AV-go	v:pred	v		pred		
+arta	hapon	0063	=de:	=POST	=other	=other				
+arta	hapon	0063	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	hapon	0063	ti	DEM.PROX.OBL	=dem_pro:p_a	=dem_pro		p_a		
+arta	hapon	0064	karagatan	stone	np:dt_p	np		dt_p		
+arta	hapon	0064	a	LIG	rn	rn				
+arta	hapon	0064	meded-diso:no	ADJ.RDP-inside	rn	rn				
+arta	hapon	0064	#	#	#	#				
+arta	hapon	0064	a	LIG	other	other				
+arta	hapon	0064	saya	DEM.DIST	dem_other:s_np	dem_other		s_np		
+arta	hapon	0064	attanan	place	np:pred	np		pred		
+arta	hapon	0064	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	hapon	0064	#	#	#ac	#ac				
+arta	hapon	0064	da	because	other	other				
+arta	hapon	0064	mang-wana	AV-PLH	v:pred	v		pred		
+arta	hapon	0064	=d	=POST	=other	=other				
+arta	hapon	0064	ti	OBL.DEF	ln	ln				
+arta	hapon	0064	ba:la	ballet	np:s_a	np		s_a		
+arta	hapon	0064	aydi	and	rn	rn				
+arta	hapon	0064	bumba	bomb	rn	rn				
+arta	hapon	0064	ni	GEN.DEF	rn	rn				
+arta	hapon	0064	hapon	Japan(ese)	rn_np.h:poss	rn_np	h	poss		
+arta	hapon	0064	=i	=SPC	=rn	=rn				
+arta	hapon	0064	aydi	and	rn	rn				
+arta	hapon	0064	america:no	American	rn_np.h:poss	rn_np	h	poss		
+arta	hapon	0064	=y	=SPC	=rn	=rn				
+arta	hapon	0065	#	#	##neg	##neg				
+arta	hapon	0065	Awan	NEG	other:predex	other		predex		
+arta	hapon	0065	=de:ta	=POST:OBL	=other	=other				
+arta	hapon	0065	america:no	American	np.h:ncs_other	np	h	ncs_other		
+arta	hapon	0065	#	#	##neg	##neg				
+arta	hapon	0065	awan	NEG	other:predex	other		predex		
+arta	hapon	0065	de:ta	POST:OBL	other	other				
+arta	hapon	0065	hapon	Japan(ese)	np.h:ncs_other	np	h	ncs_other		
+arta	hapon	0066	#	#	##	##				
+arta	hapon	0066	Na-pista'im	PST.AV-peace.time	v:pred	v		pred		
+arta	hapon	0066	=di	=POST	=other	=other				
+arta	hapon	0066	#	#	##	##				
+arta	hapon	0066	Punan	say.PV	v:pred	v		pred		
+arta	hapon	0066	didi	PL.GEN/OBL.DEF	ln	ln				
+arta	hapon	0066	ama	father	np.h:s_u_ds	np	h	s_u_ds		
+arta	hapon	0066	=ko	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	hapon	0066	=ti	=SPC	=rn	=rn				
+arta	hapon	0067	#	#	##	##				
+arta	hapon	0067	Saddya	DEM.DIST	other	other				
+arta	hapon	0067	linumattong	<PST><AV>outside	v:pred	v		pred		
+arta	hapon	0067	=de:	=POST	=other	=other				
+arta	hapon	0067	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	hapon	0067	ayti	DEM.PROX.OBL	ln	ln				
+arta	hapon	0067	kara-karagatan	RDP-stone	np:p_a	np		p_a		
+arta	hapon	0067	=i	=SPC	=rn	=rn				
+arta	hapon	0067	a	LIG	rn	rn				
+arta	hapon	0067	wagèt	water	rn_np	rn_np				
+arta	hapon	0067	=i	=SPC	=rn	=rn				
+arta	hapon	0068	#	#	##	##				
+arta	hapon	0068	Munata	like.that	ap_other:pred	ap_other		pred		
+arta	hapon	0068	i	DEF	ln	ln				
+arta	hapon	0068	historia	story	np:s_other	np		s_other		
+arta	hapon	0068	=di	=POST	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	hapon	0069	#	#	##	##				
+arta	hapon	0069	Mes-subèg	ADJ-anger	ap_other:pred	ap_other		pred		
+arta	hapon	0069	sika	MIR	other	other				
+arta	hapon	0069	i	DEF	ln	ln				
+arta	hapon	0069	hapon	Japan(ese)	np:s_other	np		s_other		
+arta	hapon	0070	#	#	##neg	##neg				
+arta	hapon	0070	Konta	but	other	other				
+arta	hapon	0070	a:yi:	DEM.PROX	dem_pro:dt_poss	dem_pro		dt_poss		
+arta	hapon	0070	awan	NEG	other:predex	other		predex		
+arta	hapon	0070	=di	=POST	=other	=other				
+arta	hapon	0070	ta	OBL	ln	ln				
+arta	hapon	0070	subèg	anger	np:ncs_other	np		ncs_other		
+arta	hapon	0070	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	hapon	0071	#	#	##neg	##neg				
+arta	hapon	0071	Awan	NEG	other:predex	other		predex		
+arta	hapon	0071	ta	OBL	ln	ln				
+arta	hapon	0071	palattug	gun	np:ncs_other	np		ncs_other		
+arta	hapon	0071	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	hapon	0072	#	#	##neg	##neg				
+arta	hapon	0072	Awan	NEG	other:predex	other		predex		
+arta	hapon	0072	ta	OBL	ln	ln				
+arta	hapon	0072	bumba	bomb	np:ncs_other	np		ncs_other		
+arta	hapon	0072	=mu	=2SG.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	hapon	0073	#	#	##	##				
+arta	hapon	0073	Aydi:ti	before	other	other				
+arta	hapon	0073	ta	OBL	ln	ln				
+arta	hapon	0073	tyempo	time	np:other	np		other		
+arta	hapon	0073	na	GEN	rn	rn				
+arta	hapon	0073	hapon	Japan(ese)	rn_np.h:poss	rn_np	h	poss		
+arta	hapon	0073	meses-subèg	ADJ.RDP-anger	ap_other:pred	ap_other		pred		
+arta	hapon	0073	=tid	=3PL.ABS	=pro.h:s_other	=pro	h	s_other		
+arta	hapon	0074	#	#	##neg	##neg				
+arta	hapon	0074	Konta	but	other	other				
+arta	hapon	0074	=d	=POST	=other	=other				
+arta	hapon	0074	=tay	=now	=other	=other				
+arta	hapon	0074	awan	NEG	other:predex	other		predex		
+arta	hapon	0074	=de:ta	=POST:OBL	=other	=other				
+arta	hapon	0074	subèg	anger	np:ncs_other	np		ncs_other		
+arta	hapon	0074	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	hapon	0075	Konta	Konta	nc	nc				
+arta	hapon	0075	ya:tad-u	ya:tad-u	nc	nc				
+arta	hapon	0075	dam	dam	nc	nc				
+arta	hapon	0075	me''a:du	ADJ-plenty	nc	nc				
+arta	hapon	0075	a	LIG	nc	nc				
+arta	hapon	0075	tina:pay	tina:pay	nc	nc				
+arta	hapon	0075	aydi	and	nc	nc				
+arta	hapon	0076	Akkèri:	oh.no	nc	nc				
+arta	hapon	0077	#	#	#nc	#nc				
+arta	hapon	0077	Awan	NEG	nc	nc				
+arta	hapon	0077	=man	=CONTR	nc	nc				
+arta	hapon	0077	ta	OBL	nc	nc				
+arta	hapon	0077	yatèd	CV-give	nc	nc				
+arta	hapon	0077	=di	=3PL.GEN	nc	nc				
+arta	hapon	0077	=d	=POST	nc	nc				
+arta	hapon	0077	i	DEF	nc	nc				
+arta	hapon	0077	tinapay	tinapay	nc	nc				
+arta	hapon	0077	aydi:ti	before	nc	nc				
+arta	hapon	0077	ta	OBL	nc	nc				
+arta	hapon	0077	hapon	Japan(ese)	nc	nc				
+arta	hapon	0077	Awan	NEG	nc	nc				
+arta	hapon	0078	#	#	##	##				
+arta	hapon	0078	Ba:lat	bullet	np:pred	np		pred		
+arta	hapon	0078	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	hapon	0078	bumba	bomb	rn	rn				
+arta	hapon	0078	=y	=SPC	=rn	=rn				
+arta	hapon	0078	#	#	#rc	#rc				
+arta	hapon	0078	0	0	f0:p_u	f0		p_u		
+arta	hapon	0078	yatèd	TR-give	v:pred	v		pred		
+arta	hapon	0078	=di	=POST	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0079	#	#	##	##				
+arta	hapon	0079	Namwana	PST.INTR-PLH	v:pred	v		pred		
+arta	hapon	0079	=d	=POST	=other	=other				
+arta	hapon	0079	=tay	=now	=other	=other				
+arta	hapon	0080	#	#	##	##				
+arta	hapon	0080	Ay	TOP	nc	nc				
+arta	hapon	0080	hapon	Japan(ese)	nc	nc				
+arta	hapon	0080	di:ti	before	other	other				
+arta	hapon	0080	pangistoria	NMZ-story	np:pred	np		pred		
+arta	hapon	0080	ni	GEN.DEF	rn	rn				
+arta	hapon	0080	ama	father	rn_np.h:poss	rn_np	h	poss		
+arta	hapon	0080	=ko	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	hapon	0080	=y	=SPC	=rn	=rn				
+arta	hapon	0081	#	#	#	#				
+arta	hapon	0081	Ay	TOP	ln	ln				
+arta	hapon	0081	tidi	PL.DEF	ln	ln				
+arta	hapon	0081	kaki:lèk	small	ln	ln				
+arta	hapon	0081	=i	=SPC	=other	=other				
+arta	hapon	0081	a	LIG	other	other				
+arta	hapon	0081	kakka:nak	children	np:dt_u	np		dt_u		
+arta	hapon	0081	punan	do	v:pred	v		pred		
+arta	hapon	0081	=di	=POST	=pro.h:s_u	=pro	h	s_u		
+arta	hapon	0081	=ti	=DEM.PROX.OBL	=other	=other				
+arta	hapon	0082	#	#	#nc	#nc				
+arta	hapon	0082	Alap-èn	get-UV	nc	nc				
+arta	hapon	0082	=di	=POST	nc	nc				
+arta	hapon	0082	0	0	nc	nc				
+arta	hapon	0082	puna-n	do-PV	nc	nc				
+arta	hapon	0082	=di	=3SG.GEN	nc	nc				
+arta	hapon	0082	=ta	=DEM.DIST.OBL	nc	nc				
+arta	hapon	0082	ta	OBL	nc	nc				
+arta	hapon	0082	bisuruk	bolo	nc	nc				
+arta	hapon	0083	#	#	##	##				
+arta	hapon	0083	Attanan	all	ln	ln				
+arta	hapon	0083	na	GEN	ln	ln				
+arta	hapon	0083	pilipi:no	pilipino	np.h:dt_s	np	h	dt_s		
+arta	hapon	0083	pati	even	other	other				
+arta	hapon	0083	man	CONTR	other	other				
+arta	hapon	0083	dami	1PL.OBL	pro.1:other	pro	1	other		
+arta	hapon	0083	a	LIG	other	other				
+arta	hapon	0083	Arta	Negrito	other	other				
+arta	hapon	0084	Man-li:su-lisu	AV-RDP-hide	v:pred	v		pred		
+arta	hapon	0084	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	hapon	0084	ti	OBL.DEF	ln	ln				
+arta	hapon	0084	talutalun	mountain	np:p_a	np		p_a		
+arta	hapon	0084	=i	=SPC	=rn	=rn				
+arta	hapon	0085	#	#	#ac	#ac				
+arta	hapon	0085	da	because	other	other				
+arta	hapon	0085	meses-subèg	ADJ.RDP-anger	ap_other:pred	ap_other		pred		
+arta	hapon	0085	=tid	=3PL.ABS	=pro.h:s_other	=pro	h	s_other		
+arta	hapon	0086	#	#	##	##				
+arta	hapon	0086	Ay	TOP	other	other				
+arta	hapon	0086	numangay	PST-INTR-go	v:pred	v		pred		
+arta	hapon	0086	=de:	=POST	=other	=other				
+arta	hapon	0086	=ti	=DEM.PROX.OBL	=dem_pro:g_a	=dem_pro		g_a		
+arta	hapon	0086	America:no	American	np.h:s_a	np	h	s_a		
+arta	hapon	0087	#	#	##	##				
+arta	hapon	0087	Nalala:ban	PST.POT-fight	v:pred	v		pred		
+arta	hapon	0087	=de:	=POST	=other	=other				
+arta	hapon	0087	=tid	=3PL.ABS	=pro.h:s_up	=pro	h	s_up		
+arta	hapon	0088	#	#	##neg	##neg				
+arta	hapon	0088	Awan	NEG	other:predex	other		predex		
+arta	hapon	0088	=di	=POST	=other	=other				
+arta	hapon	0088	ta	OBL	ln	ln				
+arta	hapon	0088	hapon	Japan(ese)	np.h:ncs_other	np	h	ncs_other		
+arta	hapon	0088	#	#	##	##				
+arta	hapon	0088	awan	NEG	other:predex	other		predex		
+arta	hapon	0088	=de:	=POST	=other	=other				
+arta	hapon	0088	ta	OBL	ln	ln				
+arta	hapon	0088	america:no	American	np.h:ncs_other	np	h	ncs_other		
+arta	hapon	0089	#	#	##	##				
+arta	hapon	0089	Saya	DEM.DIST	other	other				
+arta	hapon	0089	numangay	PST-INTR-go	v:pred	v		pred		
+arta	hapon	0089	=de:	=POST	=other	=other				
+arta	hapon	0089	tidi	PL.DEF	ln	ln				
+arta	hapon	0089	pilipi:no	Filipino	np.h:s_a	np	h	s_a		
+arta	hapon	0089	=y	=SPC	=rn	=rn				
+arta	hapon	0089	aydi	and	other	other				
+arta	hapon	0089	Arta	Arta	other	other				
+arta	hapon	0089	=tidi	=SPC	=rn	=rn				
+arta	hapon	0089	#	#	##	##				
+arta	hapon	0089	numangay	PST-AV-go	v:pred	v		pred		
+arta	hapon	0089	=de:	=POST	=other	=other				
+arta	hapon	0089	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	hapon	0089	ti	OBL.DEF	ln	ln				
+arta	hapon	0089	ayti	DEM.PROX.OBL	ln	ln				
+arta	hapon	0089	karagatan	stone	np:p_a	np		p_a		
+arta	hapon	0089	=i	=SPC	=rn	=rn				
+arta	hapon	0089	#	#	##	##				
+arta	hapon	0089	melellawa	ADJ.RDP-wide	ap_other:pred	ap_other		pred		
+arta	hapon	0090	#	#	#nc	#nc				
+arta	hapon	0090	m<in>an-wa	<PST>AV-PLH	nc	nc				
+arta	hapon	0090	=tid	=3PL.ABS	nc	nc				
+arta	hapon	0090	=ta	=DEM.DIST.OBL	nc	nc				
+arta	hapon	0090	#	#	##	##				
+arta	hapon	0090	nammulamula	AV-plant	v:pred	v		pred		
+arta	hapon	0090	=d	=POST	=other	=other				
+arta	hapon	0090	=tid	=3PL.ABS	=pro.h:s_a	=pro	h	s_a		
+arta	hapon	0091	#	#	#ac.neg	#ac.neg				
+arta	hapon	0091	da	because	other	other				
+arta	hapon	0091	awan	NEG	other:predex	other		predex		
+arta	hapon	0091	=de:	=POST	=other	=other				
+arta	hapon	0091	ta	OBL	ln	ln				
+arta	hapon	0091	hapon	Japan(ese)	np.h:ncs_other	np	h	ncs_other		
+arta	hapon	0091	#	#	#rc	#rc				
+arta	hapon	0091	0	0	f0.h:a_a	f0	h	a_a		
+arta	hapon	0091	0	0	f0.h:p_a	f0	h	p_a		
+arta	hapon	0091	a	LIG	other	other				
+arta	hapon	0091	pang-anting	NMZ-afraid	vother:pred	vother		pred		
+arta	hapon	0091	=di	=POST	=other	=other				
+arta	hapon	0091	aydi:ti	before	other	other				
+arta	hapon	0091	aydi	and	rn	rn				
+arta	hapon	0091	america:no	American	rn	rn				
+arta	hapon	0091	=i	=SPC	=rn	=rn				
+arta	hapon	0092	#	#	##	##				
+arta	hapon	0092	Puna-n	do-TR	v:pred	v		pred		
+arta	hapon	0092	=di	=POST	=pro.h:s_u	=pro	h	s_u		
+arta	hapon	0092	=ta	=DEM.DIST.OBL	=other	=other				
+arta	hapon	0093	#	#	##	##				
+arta	hapon	0093	aydi:ti	before	other	other				
+arta	hapon	0093	meses-subèg	ADJ.RDP-anger	ap_other:pred	ap_other		pred		
+arta	hapon	0093	=sika	=MIR	=other	=other				
+arta	hapon	0093	i	DEF	ln	ln				
+arta	hapon	0093	hapon	Japan(ese)	np.h:s_other	np	h	s_other		
+arta	hapon	0094	#	#	##	##				
+arta	hapon	0094	pa-re:p-èn	CAUS-rape-UV	v:pred	v		pred		
+arta	hapon	0094	=di	=POST	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0094	=tep	=ANT	=other	=other				
+arta	hapon	0094	tidi	PL.DEF	ln	ln				
+arta	hapon	0094	buka:gan	woman	np.h:p_u	np	h	p_u		
+arta	hapon	0094	=i	=SPC	=rn	=rn				
+arta	hapon	0094	aytidi	PL.DEF	ln	ln				
+arta	hapon	0094	Pilipi:no	Filipino	rn_np.h	rn_np	h			
+arta	hapon	0094	aydi	and	rn	rn				
+arta	hapon	0094	Arta	Arta	rn_np.h	rn_np	h			
+arta	hapon	0095	#	#	##	##				
+arta	hapon	0095	Saya	DEM.DIST	other	other				
+arta	hapon	0095	man-ta:ra-taradtad	AV-RDP-run	v:pred	v		pred		
+arta	hapon	0095	=tid	=3PL.ABS	=pro.h:s_a	=pro	h	s_a		
+arta	hapon	0096	#	#	#nc	#nc				
+arta	hapon	0096	Ay	filler	nc	nc				
+arta	hapon	0096	=man	=CONTR	nc	nc				
+arta	hapon	0096	=i	=SPC	nc	nc				
+arta	hapon	0096	hapo:n	Japan(ese)	nc	nc				
+arta	hapon	0096	=i	=SPC	nc	nc				
+arta	hapon	0096	a	LIG	nc	nc				
+arta	hapon	0096	pe:be:bud	ask	nc	nc				
+arta	hapon	0096	=u	=1SG.GEN	nc	nc				
+arta	hapon	0097	#	#	## neg	## neg				
+arta	hapon	0097	awan	NEG	other:predex	other		predex		
+arta	hapon	0097	=de:ta	=POST:OBL	=other	=other				
+arta	hapon	0097	subèg	anger	np:ncs_other	np		ncs_other		
+arta	hapon	0097	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	hapon	0098	taw	2SG	pro.2:pred	pro	2	pred		
+arta	hapon	0098	=di	=POST	nc	nc				
+arta	hapon	0099	#	#	##neg	##neg				
+arta	hapon	0099	Awan	NEG	other	other				
+arta	hapon	0099	=a	=2SG.ABS	=pro.2:s_a	=pro	2	s_a		
+arta	hapon	0099	man-su:bèg	INTR-anger	v:pred	v		pred		
+arta	hapon	0099	ti	OBL.DEF	ln	ln				
+arta	hapon	0099	ayta	DEM.DIST.OBL	pro:other	pro		other		
+arta	hapon	0100	#	#	#nc	#nc				
+arta	hapon	0100	Messubèg	ADJ-anger	nc	nc				
+arta	hapon	0100	=a	=2SG.ABS	nc	nc				
+arta	hapon	0100	Awan	NEG	nc	nc				
+arta	hapon	0100	=tep	=ANT	nc	nc				
+arta	hapon	0101	Awan	NEG	nc	nc				
+arta	hapon	0101	=di	=POST	nc	nc				
+arta	hapon	0102	#	#	##neg	##neg				
+arta	hapon	0102	Awan	NEG	other	other				
+arta	hapon	0102	=a	=2SG.ABS	=pro.2:s_a	=pro	2	s_a		
+arta	hapon	0102	ta	OBL	other	other				
+arta	hapon	0102	subèg	anger	v:pred	v		pred		
+arta	hapon	0102	Awan	NEG	nc	nc				
+arta	hapon	0102	=di	=POST	nc	nc				
+arta	hapon	0103	#	#	#nc	#nc				
+arta	hapon	0103	pa:ngib-bulun	PRG.RCP-together	nc	nc				
+arta	hapon	0103	=ita	=1+2SG.ABS	nc	nc				
+arta	hapon	0103	da	because	nc	nc				
+arta	hapon	0103	pa:ng-alap	PRG-get	nc	nc				
+arta	hapon	0103	ta	OBL	nc	nc				
+arta	hapon	0103	lanut	vine	nc	nc				
+arta	hapon	0103	ayta	DEM.DIST.OBL	nc	nc				
+arta	hapon	0103	Kalbo	Kalbo	nc	nc				
+arta	hapon	0104	#	#	##	##				
+arta	hapon	0104	Awan	NEG	other:predex	other		predex		
+arta	hapon	0104	=de:	=POST	=other	=other				
+arta	hapon	0104	=ta	=OBL	=ln	=ln				
+arta	hapon	0104	subèg	anger	np:ncs_other	np		ncs_other		
+arta	hapon	0104	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	hapon	0105	#	#	##neg	##neg				
+arta	hapon	0105	Awan	NEG	other:predex	other		predex		
+arta	hapon	0105	=de:	=POST	=other	=other				
+arta	hapon	0105	ta	OBL	ln	ln				
+arta	hapon	0105	hapon	Japan(ese)	np.h:ncs_other	np	h	ncs_other		
+arta	hapon	0105	aydi	and	other	other				
+arta	hapon	0105	america:no	American	other	other				
+arta	hapon	0106	#	#	##	##				
+arta	hapon	0106	aydi:	and	other	other				
+arta	hapon	0106	tidi	PL.DEF	ln	ln				
+arta	hapon	0106	Bugkalot	Bugkalot	np.h:dt_s	np	h	dt_s		
+arta	hapon	0106	aydi:	and	rn	rn				
+arta	hapon	0106	Arta	Arta	rn_np.h	rn_np	h			
+arta	hapon	0106	mangis-subèg	RCP-anger	v:pred	v		pred		
+arta	hapon	0106	=de:	=POST	=other	=other				
+arta	hapon	0106	=tid	=3PL.ABS	=pro.h:s_a	=pro	h	s_a		
+arta	hapon	0107	O:ni	O:ni	other	other				
+arta	hapon	0107	#	#	##	##				
+arta	hapon	0107	N-um-angay	PST-AV-go	v:pred	v		pred		
+arta	hapon	0107	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	hapon	0107	ti	OBL.DEF	ln	ln				
+arta	hapon	0107	ayti	DEM.PROX.OBL	dem_other:p_a	dem_other		p_a		
+arta	hapon	0108	#	#	#nc	#nc				
+arta	hapon	0108	Aytidi	PL.DEF	nc	nc				
+arta	hapon	0109	Bugkalot	Bugkalot	np.h:dt_a	np	h	dt_a		
+arta	hapon	0109	=i	=SPC	=rn	=rn				
+arta	hapon	0110	Pap-pa-pati	PRG-CAUS-die	v:pred	v		pred		
+arta	hapon	0110	=d	=POST	=other	=other				
+arta	hapon	0110	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	hapon	0110	a	LIG	other	other				
+arta	hapon	0110	Pilipi:no	Filipino	=pro.h:p_a	=pro	h	p_a		
+arta	hapon	0111	#	#	##	##				
+arta	hapon	0111	Punan	do-TR	v:pred	v		pred		
+arta	hapon	0111	=di	=3PL.GEN	=pro.h:s_a	=pro	h	s_a		
+arta	hapon	0111	=ta	=DEM.DIST.OBL	=other	=other				
+arta	hapon	0112	di	PL	ln	ln				
+arta	hapon	0112	Bugkalot	Bugkalot	np.h:bpi_dt_s_u	np	h	bpi_dt_s_u		
+arta	hapon	0112	aydi:ti	before	other	other				
+arta	hapon	0112	ayta	DEM.DIST.OBL	ln	ln				
+arta	hapon	0112	Agli:pay	Aglipay	pn_np:l	pn_np		l		
+arta	hapon	0113	#	#	#ac	#ac				
+arta	hapon	0113	Nabayag	PST.INTR-long	other:pred	other		pred		
+arta	hapon	0113	a	LIG	other	other				
+arta	hapon	0113	tyempo	time	other	other				
+arta	hapon	0113	#	#	##	##				
+arta	hapon	0113	pa:ngis-subèg	PRG.RCP-anger	v:pred	v		pred		
+arta	hapon	0113	de:	POST	ln	ln				
+arta	hapon	0113	Arta	Arta	np.h:s_a	np	h	s_a		
+arta	hapon	0113	aydi	and	rn	rn				
+arta	hapon	0113	Bugkalot	Bugkalot	rn_np.h	rn_np	h			
+arta	hapon	0114	#	#	##	##				
+arta	hapon	0114	Aytay	now	other	other				
+arta	hapon	0114	nangik-kappi	PST.RCP-reconcile	v:pred	v		pred		
+arta	hapon	0114	di	POST	other	other				
+arta	hapon	0114	Bugkalot	Bugkalot	np.h:s_a	np	h	s_a		
+arta	hapon	0114	aydi	and	other	other				
+arta	hapon	0114	Arta	Arta	rn_np.h	rn_np	h			
+arta	hapon	0115	#	#	##neg	##neg				
+arta	hapon	0115	Awan	NEG	other:predex	other		predex		
+arta	hapon	0115	=de:	=POST	=other	=other				
+arta	hapon	0115	=ta	=OBL	=ln	=ln				
+arta	hapon	0115	subèg	anger	np:ncs_other	np		ncs_other		
+arta	hapon	0115	=di	=POST	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	hapon	0116	#	#	##	##				
+arta	hapon	0116	Ara:ra:pa	friend	np:pred	np		pred		
+arta	hapon	0116	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	hapon	0116	=d	=POST	=other	=other				
+arta	hapon	0116	i	DEF	ln	ln				
+arta	hapon	0116	Bugkalot	Bugkalot	np.h:s_np	np	h	s_np		
+arta	hapon	0117	#	#	##	##				
+arta	hapon	0117	Napsaya	NC	other:s_np	other		s_np		
+arta	hapon	0117	pang-istoria	NMZ-story	np:pred	np		pred		
+arta	hapon	0117	=na	=GEN	=rn	=rn				
+arta	hapon	0117	ama	father	rn_np.h:poss	rn_np	h	poss		
+arta	hapon	0117	=ko	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	hapon	0117	=ti	=ti	=rn	=rn				
+arta	hapon	0117	ta	OBL	ln	ln				
+arta	hapon	0117	dutul	dutul	np:other	np		other		
+arta	hapon	0117	ayta	DEM.DIST.OBL	other	other				
+arta	hapon	0118	Awan	NEG	other	other				
+arta	hapon	0118	ayti	DEM.PROX.OBL	other	other				
+arta	hapon	0118	#	#	##	##				
+arta	hapon	0118	Na-balin	PST.INTR-possible	v:pred	v		pred		
+arta	hapon	0118	=di	=POST	=other	=other				
+arta	hapon	0118	hapon	Japan(ese)	np.h:s_a	np	h	s_a		
+arta	hapon	0119	#	#	#nc	#nc				
+arta	hapon	0119	S<in><um>arno	<PST><INTR>next	nc	nc				
+arta	hapon	0119	aydi:	and	nc	nc				
+arta	hapon	0119	i	DEF	nc	nc				
+arta	hapon	0119	Bugkalot	Bugkalot	nc	nc				
+arta	hapon	0119	=i	=SPC	nc	nc				
+arta	hapon	0119	aydi	and	nc	nc				
+arta	hapon	0119	Arta	Arta	nc	nc				
+arta	hapon	0119	mangis-subèg	RCP-anger	nc	nc				
+arta	hapon	0120	Palabis	NC	nc	nc				
+arta	hapon	0120	i	NC	nc	nc				
+arta	hapon	0120	munata	NC	nc	nc				
+arta	hapon	0120	a	NC	nc	nc				
+arta	hapon	0120	dagun	NC	nc	nc				
+arta	hapon	0121	#	#	##	##				
+arta	hapon	0121	Appat	four	ln	ln				
+arta	hapon	0121	a	LIG	ln	ln				
+arta	hapon	0121	dagun	year	np:other	np		other		
+arta	hapon	0121	a	LIG	other	other				
+arta	hapon	0121	pangis-subèsubèg	PRG.RCP-anger	v:pred	v		pred		
+arta	hapon	0121	tidi	PL.DEF	ln	ln				
+arta	hapon	0121	Arta	Arta	np.h:s_a	np	h	s_a		
+arta	hapon	0121	=y	=SPC	=rn	=rn				
+arta	hapon	0121	aydi	and	rn	rn				
+arta	hapon	0121	Bugkalot	Bugkalot	rn_np.h	rn_np	h			
+arta	hapon	0122	#	#	#ac	#ac				
+arta	hapon	0122	Ayde:yi	and	other	other				
+arta	hapon	0122	atti	exist	other:predex	other		predex		
+arta	hapon	0122	si:pang	one	ln	ln				
+arta	hapon	0122	a	LIG	ln	ln				
+arta	hapon	0122	dagun	year	np:s_other	np		s_other		
+arta	hapon	0122	%	%	%	%				
+arta	hapon	0122	a	LIG	other	other				
+arta	hapon	0122	nangiw-wa	RCP-PLH	v:pred	v		pred		
+arta	hapon	0122	=tid	=3PL.ABS	=pro.h:s_a	=pro	h	s_a		
+arta	hapon	0123	#	#	##	##				
+arta	hapon	0123	Nangi-ara:ra:pa	PST.RCP-friend	v:pred	v		pred		
+arta	hapon	0123	=d	=POST	=other	=other				
+arta	hapon	0123	=tid	=3PL.ABS	=pro.h:s_a	=pro	h	s_a		
+arta	hapon	0124	#	#	##neg	##neg				
+arta	hapon	0124	Awan	NEG	other	other				
+arta	hapon	0124	=de:ti	=already	=other	=other				
+arta	hapon	0124	0	0	0.h:s_a	0	h	s_a		
+arta	hapon	0124	nangissubèg	PST.AV-anger	v:pred	v		pred		
+arta	hapon	0125	#	#	##	##				
+arta	hapon	0125	Puna-n	do-TR	v:pred	v		pred		
+arta	hapon	0125	di	POST	ln	ln				
+arta	hapon	0125	Bugkalot	Bugkalot	np.h:a_u_ds	np	h	a_u_ds		
+arta	hapon	0125	=i	=SPC	=rn	=rn				
+arta	hapon	0125	#	#	##ds.neg	##ds.neg				
+arta	hapon	0125	Awan	NEG	other	other				
+arta	hapon	0125	=ita	=1+2SG.ABS	=pro.h:s_a	=pro	h	s_a		
+arta	hapon	0125	=d	=POST	=other	=other				
+arta	hapon	0125	pa:ngissubèg	pa:ngissubèg	v:pred	v		pred		
+arta	hapon	0125	da	because	other	other				
+arta	hapon	0126	#	#	#ds	#ds				
+arta	hapon	0126	Pangi'ara:ra:pa	Pangi'ara:ra:pa	v:pred	v		pred		
+arta	hapon	0126	=ita	=ita	=pro.1:s_a	=pro	1	s_a		
+arta	hapon	0126	=d	=POST	=other	=other				
+arta	hapon	0126	da	because	other	other				
+arta	hapon	0127	#	#	#nc	#nc				
+arta	hapon	0127	Awan	NEG	nc	nc				
+arta	hapon	0127	=ma	=NC	nc	nc				
+arta	hapon	0127	mo:put	NC	nc	nc				
+arta	hapon	0127	=di	=POST	nc	nc				
+arta	hapon	0127	Arta	Arta	nc	nc				
+arta	hapon	0127	mo:put	NC	nc	nc				
+arta	hapon	0127	=di	=POST	nc	nc				
+arta	hapon	0127	Bugkalot	Bugkalot	nc	nc				
+arta	hapon	0128	#	#	##	##				
+arta	hapon	0128	Saya	DEM.DIST	dem_pro:p_u	dem_pro		p_u		
+arta	hapon	0128	punan	do	v:pred	v		pred		
+arta	hapon	0128	didi	PL.GEN/OBL.DEF	ln	ln				
+arta	hapon	0128	dupu:	NC	np.h:a_u	np	h	a_u		
+arta	hapon	0128	=wi	=wi	=rn	=rn				
+arta	hapon	0128	aydi	and	other	other				
+arta	hapon	0128	dupu:	NC	other	other				
+arta	hapon	0128	na	GEN	rn	rn				
+arta	hapon	0128	Arta	Arta	rn_np.h:poss	rn_np	h	poss		
+arta	hapon	0129	#	#	##	##				
+arta	hapon	0129	Punan	Punan	v:pred	v		pred		
+arta	hapon	0129	=di	=POST	=pro.h:s_u_ds	=pro	h	s_u_ds		
+arta	hapon	0129	a	LIG	other	other				
+arta	hapon	0130	#	#	##ds	##ds				
+arta	hapon	0130	Mangi'alama:no	INTR.RCP-shake.hands	v:pred	v		pred		
+arta	hapon	0130	=ita	=ita	=pro.1:s_a	=pro	1	s_a		
+arta	hapon	0130	=d	=POST	=other	=other				
+arta	hapon	0130	#	#	#ds_ac.neg	#ds_ac.neg				
+arta	hapon	0130	da	because	other	other				
+arta	hapon	0130	awan	NEG	other	other				
+arta	hapon	0130	=ita	=1+2SG	=pro.1:s_a	=pro	1	s_a		
+arta	hapon	0130	=d	=POST	=other	=other				
+arta	hapon	0130	mangissubèg	NC	v:pred	v		pred		
+arta	hapon	0131	#	#	#ds	#ds				
+arta	hapon	0131	Ibud	TR-say	v:pred	v		pred		
+arta	hapon	0131	=mu	=2SG.GEN	=pro.2:s_u_ds	=pro	2	s_u_ds		
+arta	hapon	0131	didi	PL.GEN/OBL.DEF	ln	ln				
+arta	hapon	0131	to:p	friend	np.h:g_u	np	h	g_u		
+arta	hapon	0131	=mu	=2SG.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	hapon	0131	=y	=SPC	=rn	=rn				
+arta	hapon	0131	a	LIG	rn	rn				
+arta	hapon	0131	Bugkalot	Bugkalot	rn_np.h	rn_np	h			
+arta	hapon	0131	#	#	#ds	#ds				
+arta	hapon	0131	ibu:d	TR-say	v:pred	v		pred		
+arta	hapon	0131	=u	=u	=pro.1:s_u_ds	=pro	1	s_u_ds		
+arta	hapon	0131	tamman	tamman	other	other				
+arta	hapon	0131	didi	PL.GEN/OBL.DEF	ln	ln				
+arta	hapon	0131	to:p	friend	np.h:g_u	np	h	g_u		
+arta	hapon	0131	=u	=u	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	hapon	0131	=y	=SPC	=rn	=rn				
+arta	hapon	0131	a	LIG	rn	rn				
+arta	hapon	0131	Arta	Arta	rn_np.h	rn_np	h			
+arta	hapon	0132	#	#	##ds.neg	##ds.neg				
+arta	hapon	0132	Awan	NEG	other	other				
+arta	hapon	0132	=itam	=1+2PL	=pro.h:s_a	=pro	h	s_a		
+arta	hapon	0132	=di	=POST	=other	=other				
+arta	hapon	0132	maninsubèg	INTR-fight	v:pred	v		pred		
+arta	hapon	0133	#	#	##	##				
+arta	hapon	0133	Punan	Punan	v:pred	v		pred		
+arta	hapon	0133	=di	=POST	=pro.h:a_u	=pro	h	a_u		
+arta	hapon	0134	#	#	##	##				
+arta	hapon	0134	Saya	DEM.DIST	dem_pro:s_np	dem_pro		s_np		
+arta	hapon	0134	i	DEF	ln	ln				
+arta	hapon	0134	pinistoria	story	np:pred	np		pred		
+arta	hapon	0134	=di	=POST	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	hapon	0134	ama	father	rn_np.h:poss	rn_np	h	poss		
+arta	hapon	0134	=ko	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	hapon	0134	ta	OBL	ln	ln				
+arta	hapon	0134	dutul	before	np:other	np		other		
+arta	hapon	0134	ayta	DEM.DIST.OBL	other	other				

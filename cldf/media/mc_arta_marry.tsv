@@ -1,0 +1,263 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+arta	marry	0001	NC	NC	nc	nc				
+arta	marry	0002	#	#	#nc	#nc				
+arta	marry	0002	Aytay	now	nc	nc				
+arta	marry	0002	amma	if	nc	nc				
+arta	marry	0002	ta	OBL	nc	nc				
+arta	marry	0002	Arta	Arta	nc	nc				
+arta	marry	0002	muna=taw	like=2SG	nc	nc				
+arta	marry	0003	tidi	PL.DEF	nc	nc				
+arta	marry	0003	daddu:pu:	old.men	nc	nc				
+arta	marry	0003	=i	=SPC	nc	nc				
+arta	marry	0003	na	GEN	nc	nc				
+arta	marry	0003	arta	Arta	nc	nc				
+arta	marry	0004	NC	NC	nc	nc				
+arta	marry	0005	#	#	##ds	##ds				
+arta	marry	0005	Mepeppiya	ADJ-good	ap_other:pred	ap_other		pred		
+arta	marry	0005	#	#	#rc:s_other	#rc		s_other		
+arta	marry	0005	0	0	f0:p_u	f0		p_u		
+arta	marry	0005	i	DEF	ln	ln				
+arta	marry	0005	gimtèn	do-TR	v:pred	v		pred		
+arta	marry	0005	=muyu	=2PL.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	marry	0005	#	#	#ds_ac	#ds_ac				
+arta	marry	0005	amma	if	other	other				
+arta	marry	0005	tam	2PL	pro.2:s_a	pro	2	s_a		
+arta	marry	0005	a	LIG	ln	ln				
+arta	marry	0005	passa:sawa	married.couple	np.h:appos	np	h	appos		
+arta	marry	0005	i	DEF	other	other				
+arta	marry	0005	mangib-bub-bu:lun	RCP-RDP-be.together	v:pred	v		pred		
+arta	marry	0006	#	#	##ds	##ds				
+arta	marry	0006	Aydi:	and	other	other				
+arta	marry	0006	pi:pi-an	good-LV	v:pred	v		pred		
+arta	marry	0006	=muyu	=2PL.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	marry	0006	i	DEF	ln	ln				
+arta	marry	0006	pangi:top	NMZ-CV-companion	np:p_u	np		p_u		
+arta	marry	0006	=muyu	=2PL.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	marry	0006	#	#	##ds.neg	##ds.neg				
+arta	marry	0006	awan	NEG	other	other				
+arta	marry	0006	=am	=2PL.ABS	=pro.2:s_a	=pro	2	s_a		
+arta	marry	0006	mangis-subè-subèg	RCP-RDP-anger	v:pred	v		pred		
+arta	marry	0007	#	#	##ds.neg	##ds.neg				
+arta	marry	0007	Awan	NEG	other	other				
+arta	marry	0007	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	marry	0007	gina-ginan-an	RDP-leave-LV	v:pred	v		pred		
+arta	marry	0007	asawa	spouse	np.h:p_u	np	h	p_u		
+arta	marry	0007	=mu	=2SG.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	marry	0007	=y	=SPC	=rn	=rn				
+arta	marry	0008	#	#	#ds	#ds				
+arta	marry	0008	0	0	0:p_u	0		p_u		
+arta	marry	0008	Pi:piy-an	good-LV	v:pred	v		pred		
+arta	marry	0008	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	marry	0008	#	#	#ds_ac	#ds_ac				
+arta	marry	0008	0	0	0.2:a_a	0	2	a_a		
+arta	marry	0008	a	LIG	other	other				
+arta	marry	0008	uman	like	other	other				
+arta	marry	0008	na	GEN	other	other				
+arta	marry	0008	ma-pi:piya	INTR-good	v:pred	v		pred		
+arta	marry	0008	ta	OBL	ln	ln				
+arta	marry	0008	to:top	companion	np.h:p_a	np	h	p_a		
+arta	marry	0008	=mu	=2SG.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	marry	0009	#	#	##ds	##ds				
+arta	marry	0009	#	#	#ds_ac	#ds_ac				
+arta	marry	0009	aydi:	and	other	other				
+arta	marry	0009	maski	even	other	other				
+arta	marry	0009	adin	where	other:p_u	other		p_u		
+arta	marry	0009	i	DEF	ln	ln				
+arta	marry	0009	e:n-an	go-LV	v:pred	v		pred		
+arta	marry	0009	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	marry	0010	%	%	%	%				
+arta	marry	0010	Syempre	of course	other	other				
+arta	marry	0010	siya	3SG.ABS	pro.h:pred	pro	h	pred		
+arta	marry	0010	=te:	=only	=rn	=rn				
+arta	marry	0010	#	#	#ds_rc:s_pro	#ds_rc		s_pro		
+arta	marry	0010	0	0	f0.h:p_u	f0	h	p_u		
+arta	marry	0010	no:no:t-èn	think-TR	v:pred	v		pred		
+arta	marry	0010	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	marry	0010	#	#	#ds	#ds				
+arta	marry	0010	siya	3SG.ABS	pro.h:pred	pro	h	pred		
+arta	marry	0010	=te:	=only	=rn	=rn				
+arta	marry	0010	#	#	#ds_rc:s_pro	#ds_rc		s_pro		
+arta	marry	0010	0	0	f0.h:p_u	f0	h	p_u		
+arta	marry	0010	ka:-kabbat	RDP-like	v:pred	v		pred		
+arta	marry	0010	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	marry	0010	awan	NEG	other	other				
+arta	marry	0010	=di	=POST	=other	=other				
+arta	marry	0010	ta	OBL	ln	ln				
+arta	marry	0010	tanakwan	different	ap_other	ap_other				
+arta	marry	0011	#	#	##ds	##ds				
+arta	marry	0011	Aydi:	and	other	other				
+arta	marry	0011	#	#	#ds_ac	#ds_ac				
+arta	marry	0011	amma	if	other	other				
+arta	marry	0011	atti:	exist	other:predex	other		predex		
+arta	marry	0011	man	as.if	ln	ln				
+arta	marry	0011	ni	GEN.DEF	ln	ln				
+arta	marry	0011	pa:ngi-su:-subg-an	NF.RDP-anger-LV	np:s_other	np		s_other		
+arta	marry	0011	=muyu	=2PL.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	marry	0011	%	%	%	%				
+arta	marry	0012	Syempre	of course	other	other				
+arta	marry	0012	tam	2PL	pro.2:s_a	pro	2	s_a		
+arta	marry	0012	a	LIG	rn	rn				
+arta	marry	0012	tallip	two	rn	rn				
+arta	marry	0012	a	LIG	rn	rn				
+arta	marry	0012	tam	2PL	rn	rn				
+arta	marry	0012	=i	=SPC	=rn	=rn				
+arta	marry	0012	mangib-bu:-bud	RCP-RDP-say	v:pred	v		pred		
+arta	marry	0013	#	#	#nc	#nc				
+arta	marry	0013	a	LIG	nc	nc				
+arta	marry	0013	awan	NEG	nc	nc				
+arta	marry	0013	=di	=POST	nc	nc				
+arta	marry	0013	ta	OBL	nc	nc				
+arta	marry	0013	tanakwan	different	nc	nc				
+arta	marry	0013	#	#	##ds	##ds				
+arta	marry	0013	da	because	other	other				
+arta	marry	0013	tam	2PL	pro.2:pred	pro	2	pred		
+arta	marry	0013	a	LIG	rn	rn				
+arta	marry	0013	tallip	two	rn	rn				
+arta	marry	0013	#	#	#ds_rc:s_pro	#ds_rc		s_pro		
+arta	marry	0013	0	0	f0.2:s_a	f0	2	s_a		
+arta	marry	0013	i	DEF	ln	ln				
+arta	marry	0013	m<in>angik-kabbbat	<PST>RCP-like	v:pred	v		pred		
+arta	marry	0014	#	#	#ds	#ds				
+arta	marry	0014	Tam	2PL	pro.2:pred	pro	2	pred		
+arta	marry	0014	a	LIG	rn	rn				
+arta	marry	0014	tallip	two	rn	rn				
+arta	marry	0014	#	#	#ds_rc:s_pro	#ds_rc		s_pro		
+arta	marry	0014	0	0	f0.2:a_a	f0	2	a_a		
+arta	marry	0014	i	DEF	ln	ln				
+arta	marry	0014	nang-gimit	PST.INTR-make	v:pred	v		pred		
+arta	marry	0014	ta	OBL	ln	ln				
+arta	marry	0014	kabbat	want	np:p_a	np		p_a		
+arta	marry	0014	=muyu	=2PL.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	marry	0014	#	#	#cc	#cc				
+arta	marry	0014	a	LIG	other	other				
+arta	marry	0014	gimt-èn	make-TR	v:pred	v		pred		
+arta	marry	0014	=muyu	=2PL.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	marry	0014	a	LIG	other	other				
+arta	marry	0014	familia	family	np:p_u	np		p_u		
+arta	marry	0014	=muyu	=2PL.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	marry	0014	a	LIG	rn	rn				
+arta	marry	0014	tallip	two	rn	rn				
+arta	marry	0015	#	#	##ds	##ds				
+arta	marry	0015	i	DEF	other	other				
+arta	marry	0015	#	#	#ds_ac	#ds_ac				
+arta	marry	0015	ma	if	other	other				
+arta	marry	0015	man-siwèd	INTR-separate	v:pred	v		pred		
+arta	marry	0015	=am	=2PL.ABS	=pro.2:s_a	=pro	2	s_a		
+arta	marry	0015	a	LIG	rn	rn				
+arta	marry	0015	tallip	two	rn	rn				
+arta	marry	0015	%	%	%	%				
+arta	marry	0015	Dios	god	np.h:predex	np	h	predex		
+arta	marry	0015	=mina	=hypothetically	=other	=other				
+arta	marry	0015	=te	=only	=other	=other				
+arta	marry	0016	#	#	##	##				
+arta	marry	0016	Pang-a:na-n	NF-do.like	np:predex	np		predex		
+arta	marry	0016	na	GEN	ln	ln				
+arta	marry	0016	arta	Arta.people	rn_np.h:poss	rn_np	h	poss		
+arta	marry	0016	#	#	##ds	##ds				
+arta	marry	0016	med-dès	ADJ-bad	ap_other:pred	ap_other		pred		
+arta	marry	0016	#	#	#ds_cc:s_other	#ds_cc		s_other		
+arta	marry	0016	i	DEF	ln	ln				
+arta	marry	0016	ginan-an	leave-LV	v:pred	v		pred		
+arta	marry	0016	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	marry	0016	i	DEF	ln	ln				
+arta	marry	0016	asawa	spouse	np.h:p_u	np	h	p_u		
+arta	marry	0016	=m	=2SG.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	marry	0016	#	#	##ds	##ds				
+arta	marry	0016	med-dès	ADJ-bad	ap_other:pred	ap_other		pred		
+arta	marry	0016	=i	=SPC	=other	=other				
+arta	marry	0016	#	#	#ds_cc:s_other	#ds_cc		s_other		
+arta	marry	0016	mangi-buka:gan	INTR-woman	v:pred	v		pred		
+arta	marry	0016	=taw	=2SG.ABS	=pro.2:s_a	=pro	2	s_a		
+arta	marry	0016	#	#	##ds	##ds				
+arta	marry	0016	med-dès	ADJ-bad	ap_other:pred	ap_other		pred		
+arta	marry	0016	=i	=SPC	=other	=other				
+arta	marry	0016	#	#	#ds_cc:s_other	#ds_cc		s_other		
+arta	marry	0016	0	0	0.2:a_a	0	2	a_a		
+arta	marry	0016	um-inom	INTR-drink	v:pred	v		pred		
+arta	marry	0016	ta	OBL	ln	ln				
+arta	marry	0016	binara:yan	alcohol	np:p_a	np		p_a		
+arta	marry	0016	#	#	##ds	##ds				
+arta	marry	0016	med-dès	ADJ-bad	ap_other:pred	ap_other		pred		
+arta	marry	0016	=i	=SPC	=other	=other				
+arta	marry	0016	#	#	#ds_cc:s_other	#ds_cc		s_other		
+arta	marry	0016	su:-subg-an	RDP-anger-LV	v:pred	v		pred		
+arta	marry	0016	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	marry	0016	i	DEF	ln	ln				
+arta	marry	0016	aturangan	parent-in-law	np.h:p_u	np	h	p_u		
+arta	marry	0016	=mu	=2SG.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	marry	0017	#	#	#ds_cc:s_other	#ds_cc		s_other		
+arta	marry	0017	aydi:	and	other	other				
+arta	marry	0017	i-pa-ita	TR-CAUS-see	v:pred	v		pred		
+arta	marry	0017	=m	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	marry	0017	ta	OBL	ln	ln				
+arta	marry	0017	ana:	child	np:obl_u	np		obl_u		
+arta	marry	0017	=mu	=2SG.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	marry	0017	#	#	#ds_cc:p_u	#ds_cc		p_u		
+arta	marry	0017	awan	NEG	other	other				
+arta	marry	0017	=taw	=2SG.ABS	=pro.2:s_np	=pro	2	s_np		
+arta	marry	0017	i	DEF	ln	ln				
+arta	marry	0017	ama	father	np:pred	np		pred		
+arta	marry	0018	#	#	##ds	##ds				
+arta	marry	0018	mes-simpèt	ADJ-virtuous	ap_other:pred	ap_other		pred		
+arta	marry	0018	taw	2SG.ABS	pro.2:s_other	pro	2	s_other		
+arta	marry	0018	=ya	=DEM.DIST	=other	=other				
+arta	marry	0018	amma	if	other	other				
+arta	marry	0019	#	#	##	##				
+arta	marry	0019	Pang-a:n-an	PRG-do.like-TR	v:pred	v		pred		
+arta	marry	0019	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	marry	0019	a	LIG	other	other				
+arta	marry	0019	#	#	#ds_cc:p_u	#ds_cc		p_u		
+arta	marry	0019	mepep-piya	ADJ.RDP-good	ap_other:pred	ap_other		pred		
+arta	marry	0019	#	#	#ds_ac	#ds_ac				
+arta	marry	0019	0	0	0.h:p_u	0	h	p_u		
+arta	marry	0019	amma	if	other	other				
+arta	marry	0019	awan	NEG	other	other				
+arta	marry	0019	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	marry	0019	a	LIG	other	other				
+arta	marry	0019	i-tana-tanakwan	TR-RDP-different	v:pred	v		pred		
+arta	marry	0020	#	#	##	##				
+arta	marry	0020	Saya	DEM.DIST	dem_pro:pred	dem_pro		pred		
+arta	marry	0020	#	#	#rc:s_pro	#rc		s_pro		
+arta	marry	0020	0	0	f0:p_u	f0		p_u		
+arta	marry	0020	i	DEF	ln	ln				
+arta	marry	0020	n-i-bud	PST-CV-say	v:pred	v		pred		
+arta	marry	0020	#	#	#rc:a_u	#rc		a_u		
+arta	marry	0020	0	0	f0.h:bpi_s_a	f0	h	bpi_s_a		
+arta	marry	0020	na	GEN	ln	ln				
+arta	marry	0020	na-dupu:	PST.INTR-old.man	v:pred	v		pred		
+arta	marry	0020	=ya	=DEM.DIST	=rv	=rv				
+arta	marry	0020	#	#	#rc	#rc				
+arta	marry	0020	0	0	f0.h:p_u	f0	h	p_u		
+arta	marry	0020	a	LIG	other	other				
+arta	marry	0020	angay-an	go-LV	v:pred	v		pred		
+arta	marry	0020	=u	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	marry	0020	a	LIG	rn	rn				
+arta	marry	0020	mepep-piya	ADJ.RDP-good	rn	rn				
+arta	marry	0020	#	#	#nc	#nc				
+arta	marry	0020	a	LIG	nc	nc				
+arta	marry	0020	gimit-èn	do-TR	nc	nc				
+arta	marry	0020	=ta	=1+2SG	nc	nc				
+arta	marry	0021	#	#	##ds	##ds				
+arta	marry	0021	#	#	#ds_ac	#ds_ac				
+arta	marry	0021	Maski	even	other	other				
+arta	marry	0021	ma-dupu:	INTR-old.man	v:pred	v		pred		
+arta	marry	0021	=ita	=1+2SG	=pro.1:s_a	=pro	1	s_a		
+arta	marry	0021	#	#	#ds_ac	#ds_ac				
+arta	marry	0021	maski	even	other	other				
+arta	marry	0021	ma-babakat	INTR-old.woman	v:pred	v		pred		
+arta	marry	0021	=ita	=1+2SG	=pro.1:s_a	=pro	1	s_a		
+arta	marry	0021	%	%	%	%				
+arta	marry	0021	basta	just	other	other				
+arta	marry	0021	kabbat	like	v:pred	v		pred		
+arta	marry	0021	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	marry	0021	gissa	one	other	other				
+arta	marry	0021	gissa	one	other	other				
+arta	marry	0021	tita	1+2SG.OBL	pro.1:p_u	pro	1	p_u		
+arta	marry	0021	#	#	#ds_ac	#ds_ac				
+arta	marry	0021	ki:gad	up.to	other	other				
+arta	marry	0021	ta	OBL	other	other				
+arta	marry	0021	ki:gad	up.to	other	other				
+arta	marry	0021	ta	OBL	other	other				
+arta	marry	0021	map-pati	INTR-die	v:pred	v		pred		
+arta	marry	0021	=ita	=1+2SG	=pro.1:s_a	=pro	1	s_a		
+arta	marry	0021	munata	like.that	other	other				

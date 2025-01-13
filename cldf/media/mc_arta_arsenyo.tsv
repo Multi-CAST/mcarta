@@ -1,0 +1,415 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+arta	arsenyo	0001	#	#	##neg	##neg				
+arta	arsenyo	0001	Awan	NEG	other:predex	other		predex		
+arta	arsenyo	0001	ta	OBL	ln	ln				
+arta	arsenyo	0001	api'apili:do	OBL:family.name	np:ncs_other	np		ncs_other		
+arta	arsenyo	0001	ta	OBL	ln	ln				
+arta	arsenyo	0001	dutul	before	np:other	np		other		
+arta	arsenyo	0002	#	#	##	##				
+arta	arsenyo	0002	#	#	#ac	#ac				
+arta	arsenyo	0002	Amma	if	other	other				
+arta	arsenyo	0002	ingngarigan	for example	other	other				
+arta	arsenyo	0002	atti:	exist	other:predex	other		predex		
+arta	arsenyo	0002	buka:gan	woman	np.h:s_other	np	h	s_other		
+arta	arsenyo	0003	#	#	#	#				
+arta	arsenyo	0003	ninta	PST-see	v:pred	v		pred		
+arta	arsenyo	0003	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	arsenyo	0003	#	#	#rc.h:p_u	#rc	h	p_u		
+arta	arsenyo	0003	0	0	f0.h:p_u	f0	h	p_u		
+arta	arsenyo	0003	kakkabbat	RDP-want	v:pred	v		pred		
+arta	arsenyo	0003	=u	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	arsenyo	0004	%	%	%	%				
+arta	arsenyo	0004	muna	like	other:pred	other		pred		
+arta	arsenyo	0004	=tèn	=1SG.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	arsenyo	0004	ni	PSN.OBL	ln	ln				
+arta	arsenyo	0004	ama	father	np.h:p_a	np	h	p_a		
+arta	arsenyo	0004	#	#	#ds	#ds				
+arta	arsenyo	0004	Ama!	father	np:other	np		other		
+arta	arsenyo	0005	#	#	##ds	##ds				
+arta	arsenyo	0005	Saya	DIST	other	other				
+arta	arsenyo	0005	kabbat	want	v:pred	v		pred		
+arta	arsenyo	0005	=u	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	arsenyo	0005	buka:gan	woman	np.h:p_u	np	h	p_u		
+arta	arsenyo	0005	ayya	DIST	dem_pro.h:appos	dem_pro	h	appos		
+arta	arsenyo	0006	#	#	##	##				
+arta	arsenyo	0006	Saddya	DIST	other	other				
+arta	arsenyo	0006	angin	go	v:pred	v		pred		
+arta	arsenyo	0006	=di	=3PL.GEN	=pro.h:s_u	=pro	h	s_u		
+arta	arsenyo	0006	#	#	#	#				
+arta	arsenyo	0006	umangay	INTR-go	v:pred	v		pred		
+arta	arsenyo	0006	=de:	=POST	=rv	=rv				
+arta	arsenyo	0006	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	arsenyo	0006	ta	OBL	ln	ln				
+arta	arsenyo	0006	ama	father	np.h:p_a	np	h	p_a		
+arta	arsenyo	0006	na	GEN	rn	rn				
+arta	arsenyo	0006	buka:gan	woman	rn	rn				
+arta	arsenyo	0007	#	#	##	##				
+arta	arsenyo	0007	0	0	0.h:s_a	0	h	s_a		
+arta	arsenyo	0007	Mangibbu:bud	INTR.RCP-RDP-say	v:pred	v		pred		
+arta	arsenyo	0007	=di:ti	=before	=rv	=rv				
+arta	arsenyo	0008	#	#	##	##				
+arta	arsenyo	0008	Konta	but	other	other				
+arta	arsenyo	0008	tèn	1SG	pro.1:dt_p	pro	1	dt_p		
+arta	arsenyo	0009	0	0	0.1:p_u	0	1	p_u		
+arta	arsenyo	0009	maski	even	other	other				
+arta	arsenyo	0009	ballan	not.want	v:pred	v		pred		
+arta	arsenyo	0009	na	GEN	ln	ln				
+arta	arsenyo	0009	buka:gan	woman	np.h:a_u	np	h	a_u		
+arta	arsenyo	0009	#	#	#ac	#ac				
+arta	arsenyo	0009	amma	if	other	other				
+arta	arsenyo	0009	daddu:pu	PL:old.man	np.h:pred	np	h	pred		
+arta	arsenyo	0009	#	#	#rc.h:s_np	#rc	h	s_np		
+arta	arsenyo	0009	0	0	f0.h:s_a	f0	h	s_a		
+arta	arsenyo	0009	i	SG.ABS.DEF	ln	ln				
+arta	arsenyo	0009	nangibud	PST.INTR-say	v:pred	v		pred		
+arta	arsenyo	0010	%	%	%	%				
+arta	arsenyo	0010	Panga:nan	NF-do-TR	v:pred	v		pred		
+arta	arsenyo	0010	na	GEN	ln	ln				
+arta	arsenyo	0010	Ilokano	Ilokano	np:s_ds	np		s_ds		
+arta	arsenyo	0010	#	#	#ds	#ds				
+arta	arsenyo	0010	a	LIG	nc	nc				
+arta	arsenyo	0010	wa	PLH	nc	nc				
+arta	arsenyo	0010	Kayat	NC	nc	nc				
+arta	arsenyo	0010	=mu	=NC	nc	nc				
+arta	arsenyo	0010	ket	NC	nc	nc				
+arta	arsenyo	0010	saan	NC	nc	nc				
+arta	arsenyo	0010	agasawa	NC	nc	nc				
+arta	arsenyo	0010	=ta	=NC	nc	nc				
+arta	arsenyo	0010	latta	NC	nc	nc				
+arta	arsenyo	0011	#	#	##	##				
+arta	arsenyo	0011	Saya	DIST	other	other				
+arta	arsenyo	0011	meddès	ADJ-bad	ap_other:pred	ap_other		pred		
+arta	arsenyo	0011	ta	OBL	ln	ln				
+arta	arsenyo	0011	dutul	before	np:other	np		other		
+arta	arsenyo	0012	#	#	##	##				
+arta	arsenyo	0012	Uman	like	other:pred	other		pred		
+arta	arsenyo	0012	#	#	#cc:s_other	#cc		s_other		
+arta	arsenyo	0012	na	GEN	ln	ln				
+arta	arsenyo	0012	bini:li	<PST.TR>order	vother:pred	vother		pred		
+arta	arsenyo	0012	=d	=POST	=rv	=rv				
+arta	arsenyo	0012	i	SG.ABS.DEF	ln	ln				
+arta	arsenyo	0012	buka:gan	woman	np.h:p_u	np	h	p_u		
+arta	arsenyo	0012	=i	=SPC	=rn	=rn				
+arta	arsenyo	0012	a	LIG	rn	rn				
+arta	arsenyo	0012	wa	PLH	rn	rn				
+arta	arsenyo	0012	asawa	spouse	rn	rn				
+arta	arsenyo	0013	#	#	#ac	#ac				
+arta	arsenyo	0013	0	0	0.h:s_a	0	h	s_a		
+arta	arsenyo	0013	maski	even	other	other				
+arta	arsenyo	0013	tingngiwit	STV-ugly	v:pred	v		pred		
+arta	arsenyo	0013	#	#	#ac	#ac				
+arta	arsenyo	0013	0	0	0.h:s_other	0	h	s_other		
+arta	arsenyo	0013	maski	even	other	other				
+arta	arsenyo	0013	meddès	ADJ-bad	ap_other:pred	ap_other		pred		
+arta	arsenyo	0014	#	#	#ac	#ac				
+arta	arsenyo	0014	Amma	if	other	other				
+arta	arsenyo	0014	saya	DIST	dem_pro:pred	dem_pro		pred		
+arta	arsenyo	0014	#	#	#rc:s_pro	#rc		s_pro		
+arta	arsenyo	0014	0	0	f0:p_u	f0		p_u		
+arta	arsenyo	0014	i	SG.ABS.DEF	ln	ln				
+arta	arsenyo	0014	kabbat	want	v:pred	v		pred		
+arta	arsenyo	0014	didi	didi	ln	ln				
+arta	arsenyo	0014	daddu:pu:	PL:old.man:	np.h:a_u	np	h	a_u		
+arta	arsenyo	0014	=i	=SPC	=rn	=rn				
+arta	arsenyo	0015	#	#	##	##				
+arta	arsenyo	0015	#	#	#ac.neg	#ac.neg				
+arta	arsenyo	0015	Amma	if	other	other				
+arta	arsenyo	0015	awan	NEG	other	other				
+arta	arsenyo	0015	=a	=2SG.ABS	=pro.2:a_a	=pro	2	a_a		
+arta	arsenyo	0015	kuma:bat	<INTR>want	v:pred	v		pred		
+arta	arsenyo	0015	#	#	#cc:p_u	#cc		p_u		
+arta	arsenyo	0015	0	0	f0:p_u	f0		p_u		
+arta	arsenyo	0015	a	LIG	other	other				
+arta	arsenyo	0015	kabbat	want	v:pred	v		pred		
+arta	arsenyo	0015	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	arsenyo	0015	%	%	%	%				
+arta	arsenyo	0016	#	#	#ac.neg	#ac.neg				
+arta	arsenyo	0016	Amma	if	other	other				
+arta	arsenyo	0016	awan	NEG	other	other				
+arta	arsenyo	0016	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	arsenyo	0016	=taw	=2SG.ABS	=pro.2:p_u	=pro	2	p_u		
+arta	arsenyo	0016	papatin	CAUS-die-TR	v:pred	v		pred		
+arta	arsenyo	0016	%	%	%	%				
+arta	arsenyo	0016	paginanèn	CAUS-leave-TR	v:pred	v		pred		
+arta	arsenyo	0016	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	arsenyo	0016	=taw	=2SG.ABS	=pro.h:p_u	=pro	h	p_u		
+arta	arsenyo	0017	#	#	##	##				
+arta	arsenyo	0017	Meddigat	ADJ-difficult	ap_other:pred	ap_other		pred		
+arta	arsenyo	0018	#	#	##	##				
+arta	arsenyo	0018	Atti:	exist	other:predex	other		predex		
+arta	arsenyo	0018	digdig	arrive	np:s_other	np		s_other		
+arta	arsenyo	0018	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	arsenyo	0018	ti	OBL.DEF	ln	ln				
+arta	arsenyo	0018	ayta	DIST.OBL	dem_pro:l	dem_pro		l		
+arta	arsenyo	0019	#	#	##	##				
+arta	arsenyo	0019	Me''a:du	ADJ-plenty	ap_other:pred	ap_other		pred		
+arta	arsenyo	0019	barka:da	friend	np.h:s_other	np	h	s_other		
+arta	arsenyo	0019	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	arsenyo	0019	#	#	#ac.neg	#ac.neg				
+arta	arsenyo	0019	da	because	other	other				
+arta	arsenyo	0019	awan	NEG	other:predex	other		predex		
+arta	arsenyo	0019	=ami	=1PL.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	arsenyo	0019	=tep	=still	=rv	=rv				
+arta	arsenyo	0019	ta	OBL	ln	ln				
+arta	arsenyo	0019	asawa	spouse	np.h:p_a	np	h	p_a		
+arta	arsenyo	0020	Ti	PSN	ln	ln				
+arta	arsenyo	0020	Kalènglèng	Kalènglèng	np.h:other	np	h	other		
+arta	arsenyo	0021	aydi:	and	other	other				
+arta	arsenyo	0021	ti	PSN	ln	ln				
+arta	arsenyo	0021	wa	PLH	other	other				
+arta	arsenyo	0021	=ya	=DIST	=dem_pro:other	=dem_pro		other		
+arta	arsenyo	0021	Onged	Onged	np.h:other	np	h	other		
+arta	arsenyo	0022	aydi:	and	other	other				
+arta	arsenyo	0022	tèn	1SG	pro.1:other	pro	1	other		
+arta	arsenyo	0023	aydi:	and	other	other				
+arta	arsenyo	0023	ti	PSN	nc	nc				
+arta	arsenyo	0023	ti	PSN	nc	nc				
+arta	arsenyo	0023	wa	PLH	nc	nc				
+arta	arsenyo	0023	=ti	=SPC	nc	nc				
+arta	arsenyo	0023	Onbes	Onbes	np.h:other	np	h	other		
+arta	arsenyo	0024	#	#	##	##				
+arta	arsenyo	0024	#	#	#nc	#nc				
+arta	arsenyo	0024	Amma	if	nc	nc				
+arta	arsenyo	0024	mamurab	INTR-hunt	nc	nc				
+arta	arsenyo	0024	=ami	=1PL.ABS	nc	nc				
+arta	arsenyo	0025	#	#	#ac	#ac				
+arta	arsenyo	0025	Amma	if	other	other				
+arta	arsenyo	0025	mamurab	INTR-hunt	v:pred	v		pred		
+arta	arsenyo	0025	=ami	=1PL.ABS	=pro.1:s_a	=pro	1	s_a		
+arta	arsenyo	0025	%	%	%	%				
+arta	arsenyo	0025	tami	1PL	pro.1:pred	pro	1	pred		
+arta	arsenyo	0025	=te:	=only	=other	=other				
+arta	arsenyo	0025	ti	OBL.DEF	ln	ln				
+arta	arsenyo	0025	Kalènglèng	Kalènglèng	np.h:appos	np	h	appos		
+arta	arsenyo	0025	=i	=SPC	=rn	=rn				
+arta	arsenyo	0025	wa	PLH	rn	rn				
+arta	arsenyo	0025	a	LIG	rn	rn				
+arta	arsenyo	0025	Arsenyo	Arsenyo	rn	rn				
+arta	arsenyo	0025	a	LIG	rn	rn				
+arta	arsenyo	0025	pa:ngibunbu:lun	NC-accompany	rn	rn				
+arta	arsenyo	0026	#	#	##	##				
+arta	arsenyo	0026	#	#	#nc	#nc				
+arta	arsenyo	0026	Amma	if	nc	nc				
+arta	arsenyo	0026	mallaman	INTR-wild.pig	nc	nc				
+arta	arsenyo	0026	mammam	NC	nc	nc				
+arta	arsenyo	0026	manlaman	INTR-wild.pig	nc	nc				
+arta	arsenyo	0027	%	%	%	%				
+arta	arsenyo	0027	Ay	FILL	other	other				
+arta	arsenyo	0027	saya	DIST	dem_pro:p_u	dem_pro		p_u		
+arta	arsenyo	0027	pangiggèddu	NF.TR.RCP-half	v:pred	v		pred		
+arta	arsenyo	0027	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	arsenyo	0027	#	#	#	#				
+arta	arsenyo	0027	0	0	0:p_u	0		p_u		
+arta	arsenyo	0027	iggaman	hold-LV	v:pred	v		pred		
+arta	arsenyo	0027	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	arsenyo	0028	#	#	##	##				
+arta	arsenyo	0028	#	#	#ac	#ac				
+arta	arsenyo	0028	Amma	if	other	other				
+arta	arsenyo	0028	tidi	PL.DEF	ln	ln				
+arta	arsenyo	0028	a:duwan	some	np.h:s_a	np	h	s_a		
+arta	arsenyo	0028	=i	=SPC	=rn	=rn				
+arta	arsenyo	0028	manlaman	INTR-wild.pig	v:pred	v		pred		
+arta	arsenyo	0028	%	%	%	%				
+arta	arsenyo	0028	ginanan	leave-LV	v:pred	v		pred		
+arta	arsenyo	0028	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	arsenyo	0028	=ami	=1PL.ABS	=pro.h:p_u	=pro	h	p_u		
+arta	arsenyo	0029	#	#	##	##				
+arta	arsenyo	0029	Manga:na	INTR-do	v:pred	v		pred		
+arta	arsenyo	0029	=ina	=MED	=dem_pro:s_a	=dem_pro		s_a		
+arta	arsenyo	0030	#	#	##ds	##ds				
+arta	arsenyo	0030	Ata'ay	why	other	other				
+arta	arsenyo	0030	a	LIG	other	other				
+arta	arsenyo	0030	munatina	like=MED.OBL	other:pred	other		pred		
+arta	arsenyo	0030	i	SG.ABS.DEF	ln	ln				
+arta	arsenyo	0030	uga:li	custom	np:s_other	np		s_other		
+arta	arsenyo	0030	didi	PL.GEN.DEF	rn	rn				
+arta	arsenyo	0030	top	companion	rn	rn				
+arta	arsenyo	0030	=ta	=DIST.OBL	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	arsenyo	0030	=y	=SPC	=rn	=rn				
+arta	arsenyo	0031	#	#	##ds.neg	##ds.neg				
+arta	arsenyo	0031	0	0	0:p_u	0		p_u		
+arta	arsenyo	0031	Ahèy	not.know	other	other				
+arta	arsenyo	0031	awan	NEG	other	other				
+arta	arsenyo	0031	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	arsenyo	0031	=man	=CONTR	=rv	=rv				
+arta	arsenyo	0031	tataw	know	v:pred	v		pred		
+arta	arsenyo	0032	#	#	##	##				
+arta	arsenyo	0032	0	0	0.h:s_a	0	h	s_a		
+arta	arsenyo	0032	Manga:na	INTR-do	v:pred	v		pred		
+arta	arsenyo	0033	#	#	##ds	##ds				
+arta	arsenyo	0033	Ginanan	leave-LV	v:pred	v		pred		
+arta	arsenyo	0033	=ta	=DIST.OBL	=pro.1:a_u	=pro	1	a_u		
+arta	arsenyo	0033	=ti!	=PROX.OBL	=dem_pro:p_u	=dem_pro		p_u		
+arta	arsenyo	0034	#	#	##ds	##ds				
+arta	arsenyo	0034	Nay!	go.ahead	other	other				
+arta	arsenyo	0035	#	#	#ds_ac.neg	#ds_ac.neg				
+arta	arsenyo	0035	ta	OBL	other	other				
+arta	arsenyo	0035	ginanan	leave-TR	v:pred	v		pred		
+arta	arsenyo	0035	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	arsenyo	0035	=tid	=3PL.ABS	=pro.h:p_u	=pro	h	p_u		
+arta	arsenyo	0036	Hey	Hey	other	other				
+arta	arsenyo	0036	#	#	##ds	##ds				
+arta	arsenyo	0036	ginuminan	<PST.INTR>leave	v:pred	v		pred		
+arta	arsenyo	0036	=ami	=1PL.ABS	=pro.1:s_a	=pro	1	s_a		
+arta	arsenyo	0036	=d	=POST	=rv	=rv				
+arta	arsenyo	0036	a	LIG	other	other				
+arta	arsenyo	0036	tallip	two	other	other				
+arta	arsenyo	0037	#	#	##	##				
+arta	arsenyo	0037	Gininanan	<PST>leave-LV	v:pred	v		pred		
+arta	arsenyo	0037	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	arsenyo	0037	=tid	=3PL.ABS	=pro.h:p_u	=pro	h	p_u		
+arta	arsenyo	0038	#	#	#ds_ac.neg	#ds_ac.neg				
+arta	arsenyo	0038	da	because	other	other				
+arta	arsenyo	0038	awan	NEG	other	other				
+arta	arsenyo	0038	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	arsenyo	0038	=ami	=1PL.ABS	=pro.1:p_u	=pro	1	p_u		
+arta	arsenyo	0038	=hug	=as.I.said	=other	=other				
+arta	arsenyo	0038	patta:ngawèn	NF-pay.attention-TR	v:pred	v		pred		
+arta	arsenyo	0039	#	#	##	##				
+arta	arsenyo	0039	Manga:na	INTR-do	v:pred	v		pred		
+arta	arsenyo	0039	=ina	=MED	=rv	=rv				
+arta	arsenyo	0039	Kalènglèng	Kalènglèng	np.h:bpi_s_a	np	h	bpi_s_a		
+arta	arsenyo	0039	=i	=SPC	=rn	=rn				
+arta	arsenyo	0040	#	#	##ds.neg	##ds.neg				
+arta	arsenyo	0040	Awan	NEG	other	other				
+arta	arsenyo	0040	=ita	=1+2SG	=pro.1:a_a	=pro	1	a_a		
+arta	arsenyo	0040	=tine:	=MED.OBL	=dem_pro:p_a	=dem_pro		p_a		
+arta	arsenyo	0040	mandi:ma	INTR-walk	v:pred	v		pred		
+arta	arsenyo	0040	#	#	#nc	#nc				
+arta	arsenyo	0040	da	because	nc	nc				
+arta	arsenyo	0040	attanan	all	nc	nc				
+arta	arsenyo	0040	na	GEN	nc	nc				
+arta	arsenyo	0040	bukarot	crocodile	nc	nc				
+arta	arsenyo	0040	#	#	#ds_ac	#ds_ac				
+arta	arsenyo	0040	ta	because	other	other				
+arta	arsenyo	0040	kinuma:man	<PST.INTR>big	v:pred	v		pred		
+arta	arsenyo	0040	i	SG.ABS.DEF	ln	ln				
+arta	arsenyo	0040	wagèt	water	np:s_a	np		s_a		
+arta	arsenyo	0041	#	#	##	##				
+arta	arsenyo	0041	Husto	correct	other	other				
+arta	arsenyo	0041	husto	correct	other	other				
+arta	arsenyo	0041	a	LIG	other	other				
+arta	arsenyo	0041	lumanguy	<INTR>swim	v:pred	v		pred		
+arta	arsenyo	0041	=ami	=1PL.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	arsenyo	0041	ti	OBL.DEF	ln	ln				
+arta	arsenyo	0041	wagèt	water	np:p_a	np		p_a		
+arta	arsenyo	0041	=ay	=of.course	=other	=other				
+arta	arsenyo	0042	#	#	##	##				
+arta	arsenyo	0042	Dinumigdig	<PST.INTR>arrive	v:pred	v		pred		
+arta	arsenyo	0042	i	SG.ABS.DEF	ln	ln				
+arta	arsenyo	0042	da:lèm	depth	np:s_a	np		s_a		
+arta	arsenyo	0043	#	#	#nc	#nc				
+arta	arsenyo	0043	Saya	DIST	nc	nc				
+arta	arsenyo	0043	iwana	TR-PLH	nc	nc				
+arta	arsenyo	0043	=mi	=1PL.GEN	nc	nc				
+arta	arsenyo	0043	ti	OBL.DEF	nc	nc				
+arta	arsenyo	0043	linumpa	float up	nc	nc				
+arta	arsenyo	0043	wa	PLH	nc	nc				
+arta	arsenyo	0043	=y	=SPC	nc	nc				
+arta	arsenyo	0043	bukarot	crocodile	nc	nc				
+arta	arsenyo	0044	#	#	#nc	#nc				
+arta	arsenyo	0044	Atti:	exist	nc	nc				
+arta	arsenyo	0044	ti	OBL.DEF	nc	nc				
+arta	arsenyo	0044	wagèt	water	nc	nc				
+arta	arsenyo	0044	=i	=SPC	nc	nc				
+arta	arsenyo	0044	uman	like	nc	nc				
+arta	arsenyo	0044	na	GEN	nc	nc				
+arta	arsenyo	0044	wa	PLH	nc	nc				
+arta	arsenyo	0044	basikug	NC	nc	nc				
+arta	arsenyo	0045	#	#	##	##				
+arta	arsenyo	0045	digdig-an	arrive-LV	v:pred	v		pred		
+arta	arsenyo	0045	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	arsenyo	0045	tiddya	PL.DIST	other	other				
+arta	arsenyo	0045	attanan	all	other	other				
+arta	arsenyo	0045	didi	PL.GEN.DEF	ln	ln				
+arta	arsenyo	0045	ama	father	np.h:p_u	np	h	p_u		
+arta	arsenyo	0045	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	arsenyo	0045	#	#	#neg	#neg				
+arta	arsenyo	0045	konta	but	other	other				
+arta	arsenyo	0045	awan	NEG	other:predex	other		predex		
+arta	arsenyo	0045	=de:	=POST	=rv	=rv				
+arta	arsenyo	0045	=tèn	=1SG.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	arsenyo	0045	ta	OBL	ln	ln				
+arta	arsenyo	0045	ama	father	np.h:p_a	np	h	p_a		
+arta	arsenyo	0045	#	#	##	##				
+arta	arsenyo	0045	Nappati	PST.INTR-die	v:pred	v		pred		
+arta	arsenyo	0045	=d	=POST	=rv	=rv				
+arta	arsenyo	0045	ti	PSN	ln	ln				
+arta	arsenyo	0045	ama	father	np.h:s_a	np	h	s_a		
+arta	arsenyo	0046	#	#	##	##				
+arta	arsenyo	0046	Manga:na	INTR-do	v:pred	v		pred		
+arta	arsenyo	0046	i	SG.ABS.DEF	ln	ln				
+arta	arsenyo	0046	ina	mother	np.h:s_a	np	h	s_a		
+arta	arsenyo	0046	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	arsenyo	0046	=ti	=SPC	=rn	=rn				
+arta	arsenyo	0046	#	#	##ds	##ds				
+arta	arsenyo	0046	Akkadi:!	oh.no	nc	nc				
+arta	arsenyo	0046	A:nu	what	nc	nc				
+arta	arsenyo	0046	ngam	NC	nc	nc				
+arta	arsenyo	0046	dinumama	<PST.INTR>walk	nc	nc				
+arta	arsenyo	0046	ti	OBL.DEF	nc	nc				
+arta	arsenyo	0046	wagèt	water	nc	nc				
+arta	arsenyo	0046	=i	=SPC	nc	nc				
+arta	arsenyo	0046	attanan	all	nc	nc				
+arta	arsenyo	0046	na	GEN	nc	nc				
+arta	arsenyo	0046	bukarot	crocodile	nc	nc				
+arta	arsenyo	0046	wagèt	water	nc	nc				
+arta	arsenyo	0046	=i	=SPC	nc	nc				
+arta	arsenyo	0047	Ma'i:gi	NC	nc	nc				
+arta	arsenyo	0047	=d	=POST	nc	nc				
+arta	arsenyo	0047	a	LIG	nc	nc				
+arta	arsenyo	0047	awan	NEG	nc	nc				
+arta	arsenyo	0047	nakamsimpal	NC	nc	nc				
+arta	arsenyo	0048	#	#	##ds	##ds				
+arta	arsenyo	0048	0	0	0:s_u	0		s_u		
+arta	arsenyo	0048	Inarat	PST.TR-bite	v:pred	v		pred		
+arta	arsenyo	0048	#	#	##	##				
+arta	arsenyo	0048	0	0	0.h:s_a	0	h	s_a		
+arta	arsenyo	0048	Panga:na	NF.INTR-do	v:pred	v		pred		
+arta	arsenyo	0049	#	#	##ds	##ds				
+arta	arsenyo	0049	Meppiya	ADJ-good	ap_other:pred	ap_other		pred		
+arta	arsenyo	0049	#	#	#cc.neg:p_other	#cc.neg		p_other		
+arta	arsenyo	0049	da	because	other	other				
+arta	arsenyo	0049	awan	NEG	other	other				
+arta	arsenyo	0049	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	arsenyo	0049	=am	=2PL.ABS	=pro.2:p_u	=pro	2	p_u		
+arta	arsenyo	0049	inarat	PST.TR-bite	v:pred	v		pred		
+arta	arsenyo	0050	#	#	##ds	##ds				
+arta	arsenyo	0050	Ay	FILL	other	other				
+arta	arsenyo	0050	meppa'ara:rat	ADJ-CAUS-bite	ap_other:pred	ap_other		pred		
+arta	arsenyo	0050	=ya	=DIST	=dem_pro:s_other	=dem_pro		s_other		
+arta	arsenyo	0051	#	#	##ds	##ds				
+arta	arsenyo	0051	Awan	NEG	other	other				
+arta	arsenyo	0051	Bebbe:	antie	other	other				
+arta	arsenyo	0052	#	#	##	##				
+arta	arsenyo	0052	Saya	DIST	dem_pro.h:s_np	dem_pro	h	s_np		
+arta	arsenyo	0052	i	SG.ABS.DEF	ln	ln				
+arta	arsenyo	0052	barka:da	friend	np.h:pred	np	h	pred		
+arta	arsenyo	0052	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	arsenyo	0052	ta	OBL	ln	ln				
+arta	arsenyo	0052	dutul	before	np:other	np		other		
+arta	arsenyo	0052	#	#	#rc	#rc				
+arta	arsenyo	0052	0	0	0.h:a_a	0	h	a_a		
+arta	arsenyo	0052	a	LIG	other	other				
+arta	arsenyo	0052	awan	NEG	other	other				
+arta	arsenyo	0052	=dèn	=1SG.OBL	=pro.1:p_a	=pro	1	p_a		
+arta	arsenyo	0052	mang-ginaginan	INTR-RDP-leave	v:pred	v		pred		
+arta	arsenyo	0053	#	#	##neg	##neg				
+arta	arsenyo	0053	Konta	but	other	other				
+arta	arsenyo	0053	tidi	PL.DEF	ln	ln				
+arta	arsenyo	0053	a:duwan	some	np.h:dt_s	np	h	dt_s		
+arta	arsenyo	0053	=i	=SPC	=rn	=rn				
+arta	arsenyo	0054	Awan	NEG	other:predex	other		predex		
+arta	arsenyo	0054	ta	OBL	ln	ln				
+arta	arsenyo	0054	wa	PLH	np:ncs_other	np		ncs_other		
+arta	arsenyo	0054	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	arsenyo	0055	#	#	##	##				
+arta	arsenyo	0055	Sigu:ro	probably	other	other				
+arta	arsenyo	0055	me:ke:ko	for.a.while	other	other				
+arta	arsenyo	0055	malu:tèp	afternoon	other	other				
+arta	arsenyo	0055	makano:not	POT-mind	v:pred	v		pred		
+arta	arsenyo	0055	=de:	=POST	=rv	=rv				
+arta	arsenyo	0055	=tèn	=1SG.ABS	=pro.1:a_ap	=pro	1	a_ap		
+arta	arsenyo	0055	ta	OBL	ln	ln				
+arta	arsenyo	0055	historia	story	np:p_ap	np		p_ap		
+arta	arsenyo	0055	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		

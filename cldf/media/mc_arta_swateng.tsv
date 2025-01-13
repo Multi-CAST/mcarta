@@ -1,0 +1,1330 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+arta	swateng	0001	#	#	#nc	#nc				
+arta	swateng	0001	Historia	story	nc	nc				
+arta	swateng	0001	na	GEN	nc	nc				
+arta	swateng	0001	Sanuwa:tèng	Sanuwa:tèng	nc	nc				
+arta	swateng	0002	Historia-n	tell-TR	nc	nc				
+arta	swateng	0002	=ku	=1SG.GEN	nc	nc				
+arta	swateng	0003	Akkari:	oh	nc	nc				
+arta	swateng	0003	ka:-kabbat	RDP-want	nc	nc				
+arta	swateng	0003	=mu	=2SG.GEN	=nc_pro.2	=nc_pro	2			
+arta	swateng	0003	=wada	=probably	nc	nc				
+arta	swateng	0003	ti	PSN	nc	nc				
+arta	swateng	0003	Sanuwa:tèng	Sanuwa:tèng	nc_np.h	nc_np	h			
+arta	swateng	0004	Sanuwa:tèng	Sanuwa:tèng	nc	nc				
+arta	swateng	0004	historia	story	nc	nc				
+arta	swateng	0004	na	GEN	nc	nc				
+arta	swateng	0004	ayya	DIST	nc	nc				
+arta	swateng	0004	ti	PSN	nc	nc				
+arta	swateng	0004	Sanuwa:tèng	Sanuwa:tèng	nc	nc				
+arta	swateng	0005	#	#	##	##				
+arta	swateng	0005	Atti:	exist	other:pred	other		pred		
+arta	swateng	0005	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	swateng	0005	ti	PSN	ln	ln				
+arta	swateng	0005	ayti	PROX.OBL	ln	ln				
+arta	swateng	0005	bukid	mountain	np:p_a	np		p_a		
+arta	swateng	0005	=i	=SPC	=rn	=rn				
+arta	swateng	0005	Sanuwa:tèng	Sanuwa:tèng	np.h:appos	np	h	appos		
+arta	swateng	0006	#	#	##	##				
+arta	swateng	0006	Aytay	now	other	other				
+arta	swateng	0006	atti:	exist	other:predex	other		predex		
+arta	swateng	0006	buka:gan	woman	np.h:s_other	np	h	s_other		
+arta	swateng	0006	a	LIG	rn	rn				
+arta	swateng	0007	a:nu	what	nc	nc				
+arta	swateng	0007	piya:he	NC	nc	nc				
+arta	swateng	0007	panga:dinan	NF-name-LV	nc	nc				
+arta	swateng	0007	=di	=3PL.GEN	nc	nc				
+arta	swateng	0007	ti	OBL.DEF	nc	nc				
+arta	swateng	0007	pang-a:sawa-n	NF-spouse-TR	np:other	np		other		
+arta	swateng	0007	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0007	=y	=SPC	=rn	=rn				
+arta	swateng	0008	#	#	##	##				
+arta	swateng	0008	Atti:	exist	other:pred	other		pred		
+arta	swateng	0008	buka:gan	woman	np.h:a_a	np	h	a_a		
+arta	swateng	0008	=i	=SPC	=rn	=rn				
+arta	swateng	0008	ta	OBL	ln	ln				
+arta	swateng	0008	ayta	DIST.OBL	ln	ln				
+arta	swateng	0008	dilod	downriver	np:p_a	np		p_a		
+arta	swateng	0009	#	#	##	##				
+arta	swateng	0009	Atti:	exist	other:pred	other		pred		
+arta	swateng	0009	ti	PSN	ln	ln				
+arta	swateng	0009	Sanuwa:tèng	Sanuwa:tèng	np.h:a_a	np	h	a_a		
+arta	swateng	0009	ti	PSN OBL.DEF	ln	ln				
+arta	swateng	0009	bukid	mountain	np:p_a	np		p_a		
+arta	swateng	0009	=i	=SPC	=rn	=rn				
+arta	swateng	0010	#	#	##	##				
+arta	swateng	0010	Punan	like	v:pred	v		pred		
+arta	swateng	0010	=na	=3SG.GEN	=pro.h:s_ds	=pro	h	s_ds		
+arta	swateng	0010	ti	OBL.DEF	ln	ln				
+arta	swateng	0010	buka:gan	woman	np.h:g	np	h	g		
+arta	swateng	0010	=i	=SPC	=rn	=rn				
+arta	swateng	0010	#	#	#ds	#ds				
+arta	swateng	0010	Ma-tagi:	INTR-remain	v:pred	v		pred		
+arta	swateng	0010	=pa	=for.a.while	=rv	=rv				
+arta	swateng	0010	=taw	=2SG.ABS	=pro.2:a_a	=pro	2	a_a		
+arta	swateng	0010	ti	OBL.DEF	ln	ln				
+arta	swateng	0010	ayti	PROX.OBL	ln	ln				
+arta	swateng	0010	ti	OBL.DEF	ln	ln				
+arta	swateng	0010	ina	mother	np.h:p_a	np	h	p_a		
+arta	swateng	0010	=mu	=2SG.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	swateng	0010	=y	=SPC	=rn	=rn				
+arta	swateng	0010	aydi:	and	rn	rn				
+arta	swateng	0010	ama	ama	rn	rn				
+arta	swateng	0010	=mu	=2SG.GEN	=rn	=rn				
+arta	swateng	0010	=y	=SPC	=rn	=rn				
+arta	swateng	0010	#	#	#ac	#ac				
+arta	swateng	0010	da	because	other	other				
+arta	swateng	0010	um-angay	INTR-go	v:pred	v		pred		
+arta	swateng	0010	=tèn	=1SG.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	swateng	0010	ta	OBL	ln	ln				
+arta	swateng	0010	ayta	DIST.OBL	dem_pro:p_a	dem_pro		p_a		
+arta	swateng	0011	#	#	##ds	##ds				
+arta	swateng	0011	#	#	#ds_ac	#ds_ac				
+arta	swateng	0011	Amma	if	other	other				
+arta	swateng	0011	mas-so:li	INTR-return	v:pred	v		pred		
+arta	swateng	0011	=tèn	=1SG.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	swateng	0011	ti	PSN OBL.DEF	ln	ln				
+arta	swateng	0011	ayti	PROX.OBL	dem_pro:p_a	dem_pro		p_a		
+arta	swateng	0011	%	%	%	%				
+arta	swateng	0011	mangib-bo:da	INTR.RCP-wedding.feast	v:pred	v		pred		
+arta	swateng	0011	=ita	=1+2SG.ABS	=pro.1:s_a	=pro	1	s_a		
+arta	swateng	0011	=d	=POST	=rv	=rv				
+arta	swateng	0011	#	#	##	##				
+arta	swateng	0011	Punan	like	v:pred	v		pred		
+arta	swateng	0011	=di	=3PL.GEN	=rv	=rv				
+arta	swateng	0011	Sanuwa:tèng	Sanuwa:tèng	np.h:s_ds	np	h	s_ds		
+arta	swateng	0012	#	#	##	##				
+arta	swateng	0012	aydi:	and	other	other				
+arta	swateng	0012	n-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	swateng	0012	=de:	=POST	=rv	=rv				
+arta	swateng	0012	ti	PSN	ln	ln				
+arta	swateng	0012	Sanuwa:tèng	Sanuwa:tèng	np.h:a_a	np	h	a_a		
+arta	swateng	0012	ti	PSN OBL.DEF	ln	ln				
+arta	swateng	0012	bukid	mountain	np:p_a	np		p_a		
+arta	swateng	0012	=i	=SPC	=rn	=rn				
+arta	swateng	0013	#	#	##	##				
+arta	swateng	0013	Ma	if	other	other				
+arta	swateng	0013	appat	four	other	other				
+arta	swateng	0013	a	LIG	other	other				
+arta	swateng	0013	dagun	year	other	other				
+arta	swateng	0013	ba:gu	before	other	other				
+arta	swateng	0013	in-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	swateng	0013	ti	PSN	ln	ln				
+arta	swateng	0013	Sanuwa:tèng	Sanuwa:tèng	np.h:a_a	np	h	a_a		
+arta	swateng	0013	ti	PSN	ln	ln				
+arta	swateng	0013	buka:gan	woman	np.h:p_a	np	h	p_a		
+arta	swateng	0013	=i	=SPC	=rn	=rn				
+arta	swateng	0013	a	LIG	rn	rn				
+arta	swateng	0013	asawa	spouse	rn_np.h	rn_np	h			
+arta	swateng	0013	=na	=3SG.GEN	=rn	=rn				
+arta	swateng	0013	#	#	#	#				
+arta	swateng	0013	0	0	0.h:p_u	0	h	p_u		
+arta	swateng	0013	pang-a:sa-asawa-n	NF-RDP-spouse-TR	v:pred	v		pred		
+arta	swateng	0013	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0014	#	#	##	##				
+arta	swateng	0014	#	#	#ac	#ac				
+arta	swateng	0014	gahu	since	other	other				
+arta	swateng	0014	ta	OBL	other	other				
+arta	swateng	0014	nabayag	PST.INTR-long	v:pred	v		pred		
+arta	swateng	0014	=di	=POST	=rv	=rv				
+arta	swateng	0014	ti	PSN	ln	ln				
+arta	swateng	0014	Sanuwa:tèng	Sanuwa:tèng	np.h:s_a	np	h	s_a		
+arta	swateng	0014	#	#	#ac.neg	#ac.neg				
+arta	swateng	0014	0	0	0.h:s_a	0	h	s_a		
+arta	swateng	0014	awan	NEG	other	other				
+arta	swateng	0014	n-um-anga-angay	PST-INTR-RDP-go	v:pred	v		pred		
+arta	swateng	0014	ti	PSN	ln	ln				
+arta	swateng	0014	buka:gan	woman	np.h:g	np	h	g		
+arta	swateng	0014	=i	=SPC	=rn	=rn				
+arta	swateng	0014	%	%	%	%				
+arta	swateng	0015	A:yi:	PROX	ln	ln				
+arta	swateng	0015	buka:gan	woman	np.h:a_a	np	h	a_a		
+arta	swateng	0015	=i	=SPC	=rn	=rn				
+arta	swateng	0015	nang-inta	PST.INTR-see	v:pred	v		pred		
+arta	swateng	0015	ta	OBL	ln	ln				
+arta	swateng	0015	gissa	one	ln	ln				
+arta	swateng	0015	a	LIG	ln	ln				
+arta	swateng	0015	gilèngan	like	np.h:p_a	np	h	p_a		
+arta	swateng	0015	#	#	##	##				
+arta	swateng	0015	0	0	0.h:p_up	0	h	p_up		
+arta	swateng	0015	mina-asawa	PST.POT-spouse	v:pred	v		pred		
+arta	swateng	0015	=na	=3SG.GEN	=pro.h:a_up	=pro	h	a_up		
+arta	swateng	0015	=d	=POST	=rv	=rv				
+arta	swateng	0016	Ta:me:ta	different	nc	nc				
+arta	swateng	0016	=d	=POST	nc	nc				
+arta	swateng	0016	a	LIG	nc	nc				
+arta	swateng	0016	gilèngan	like	nc	nc				
+arta	swateng	0017	#	#	##	##				
+arta	swateng	0017	Aytay	now	other	other				
+arta	swateng	0017	n-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	swateng	0017	ti	PSN	ln	ln				
+arta	swateng	0017	Sanuwateng	Sanuwateng	np.h:a_a	np	h	a_a		
+arta	swateng	0017	ti	OBL.DEF	ln	ln				
+arta	swateng	0017	ayta	DIST.OBL	ln	ln				
+arta	swateng	0017	buka:gan	woman	np.h:p_a	np	h	p_a		
+arta	swateng	0017	=i	=SPC	=rn	=rn				
+arta	swateng	0017	#	#	##	##				
+arta	swateng	0017	itta-n	see-TR	v:pred	v		pred		
+arta	swateng	0017	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0017	ti	PSN	ln	ln				
+arta	swateng	0017	asawa	spouse	np.h:p_u	np	h	p_u		
+arta	swateng	0017	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0018	#	#	##	##				
+arta	swateng	0018	S<in><um>ubèg	<PST><INTR>anger	v:pred	v		pred		
+arta	swateng	0018	ti	PSN	ln	ln				
+arta	swateng	0018	Sanuwatèng	Sanuwatèng	np.h:s_a	np	h	s_a		
+arta	swateng	0018	#	#	#ac	#ac				
+arta	swateng	0018	da	because	other	other				
+arta	swateng	0018	nang-asawa	PST.INTR-spouse	v:pred	v		pred		
+arta	swateng	0018	=d	=POST	=rv	=rv				
+arta	swateng	0018	#	#	#rc.h:a_a	#rc	h	a_a		
+arta	swateng	0018	0	0	f0.h:p_u	f0	h	p_u		
+arta	swateng	0018	i	DEF	other	other				
+arta	swateng	0018	asawan	spouse-TR	v:pred	v		pred		
+arta	swateng	0018	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0018	=y	=SPC	=rn	=rn				
+arta	swateng	0018	%	%	%	%				
+arta	swateng	0018	ta	OBL	ln	ln				
+arta	swateng	0018	gissa	one	ln	ln				
+arta	swateng	0018	gilèngan	like	np.h:p_a	np	h	p_a		
+arta	swateng	0019	#	#	##	##				
+arta	swateng	0019	Me'-a:du	ADJ-plenty	ap_other:pred	ap_other		pred		
+arta	swateng	0019	iggam	belonging	np:s_other	np		s_other		
+arta	swateng	0019	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0019	balu	yam	other	other				
+arta	swateng	0019	aydi:	and	other	other				
+arta	swateng	0019	agèl	caryota.ani:bung	other	other				
+arta	swateng	0019	a:yi:	PROX	other	other				
+arta	swateng	0019	baggat	rice	other	other				
+arta	swateng	0019	a:yi:	PROX	other	other				
+arta	swateng	0019	agèl	kind.of.seed	np:other	np		other		
+arta	swateng	0019	=i	=SPC	=rn	=rn				
+arta	swateng	0019	=ya	=ya	=rn	=rn				
+arta	swateng	0020	#	#	##neg	##neg				
+arta	swateng	0020	Awan	NEG	other	other				
+arta	swateng	0020	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	swateng	0020	=tep	=still	=rv	=rv				
+arta	swateng	0020	n-inta	PST.TR-see	v:pred	v		pred		
+arta	swateng	0020	i	DEF	ln	ln				
+arta	swateng	0020	agèl	seed	np.h:p_u	np	h	p_u		
+arta	swateng	0021	#	#	##	##				
+arta	swateng	0021	0	0	0:s_other	0		s_other		
+arta	swateng	0021	Man	like	other:pred	other		pred		
+arta	swateng	0021	na	GEN	ln	ln				
+arta	swateng	0021	baggat	rice	np:other	np		other		
+arta	swateng	0021	#	#	##	##				
+arta	swateng	0021	0	0	0:a_a	0		a_a		
+arta	swateng	0021	atti:	exist	other:pred	other		pred		
+arta	swateng	0021	ti	OBL.DEF	ln	ln				
+arta	swateng	0021	talun	mountain	np:p_a	np		p_a		
+arta	swateng	0021	=i	=SPC	=rn	=rn				
+arta	swateng	0021	#	#	##	##				
+arta	swateng	0021	saya	DIST	dem_pro:s_np	dem_pro		s_np		
+arta	swateng	0021	iggam	belonging	np:pred	np		pred		
+arta	swateng	0021	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0022	#	#	##	##				
+arta	swateng	0022	Me'-a:du	ADJ-plenty	np:s_up	np		s_up		
+arta	swateng	0022	me:-sa:-say	POT-TR-CV-ride	v:pred	v		pred		
+arta	swateng	0022	=ti	=PROX.OBL	nc	nc				
+arta	swateng	0022	ti	OBL.DEF	ln	ln				
+arta	swateng	0022	wa	PLH	ln	ln				
+arta	swateng	0022	=y	=SPC	=ln	=ln				
+arta	swateng	0022	abang	boat	np:bpi_obl_up	np		bpi_obl_up		
+arta	swateng	0023	Pati	even	ln	ln				
+arta	swateng	0023	laman	wild.pig	np:dt_s	np		dt_s		
+arta	swateng	0023	aydi:	and	rn	rn				
+arta	swateng	0023	i:yan	fish	rn_np	rn_np				
+arta	swateng	0023	#	#	#ac	#ac				
+arta	swateng	0023	da	because	other	other				
+arta	swateng	0023	saya	DIST	dem_pro:s_np	dem_pro		s_np		
+arta	swateng	0023	i	DEF	ln	ln				
+arta	swateng	0023	iggam	belonging	np:pred	np		pred		
+arta	swateng	0023	=i	=SPC	=rn	=rn				
+arta	swateng	0023	#	#	##	##				
+arta	swateng	0023	itta-n	see-TR	v:pred	v		pred		
+arta	swateng	0023	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0023	=mina	=HYPO	=rv	=rv				
+arta	swateng	0023	#	#	#cc:p_u	#cc		p_u		
+arta	swateng	0023	mam-bu:da	INTR-wedding.feast	v:pred	v		pred		
+arta	swateng	0023	=d	=POST	=rv	=rv				
+arta	swateng	0023	=tid	=3PL.ABS	=pro.h:s_a	=pro	h	s_a		
+arta	swateng	0024	#	#	##	##				
+arta	swateng	0024	Atti:	exist	other:predex	other		predex		
+arta	swateng	0024	=mandi	=again	=rv	=rv				
+arta	swateng	0024	i	DEF	ln	ln				
+arta	swateng	0024	asawa	spouse	np.h:s_other	np	h	s_other		
+arta	swateng	0024	ni	GEN.DEF	rn	rn				
+arta	swateng	0024	buka:gan	woman	rn_np.h:poss	rn_np	h	poss		
+arta	swateng	0024	=i	=SPC	=rn	=rn				
+arta	swateng	0024	#	#	##	##				
+arta	swateng	0024	nangasawa	nPST.INTR-spouse	v:pred	v		pred		
+arta	swateng	0024	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	swateng	0024	ti	OBL.DEF	ln	ln				
+arta	swateng	0024	gissa	one	ln	ln				
+arta	swateng	0024	gilèngan	man	np.h:p_a	np	h	p_a		
+arta	swateng	0025	#	#	##	##				
+arta	swateng	0025	S<in><um>ubèg	<PST><INTR>anger	v:pred	v		pred		
+arta	swateng	0025	=di	=POST	=rv	=rv				
+arta	swateng	0025	ti	PSN	ln	ln				
+arta	swateng	0025	Sanuwatèng	Sanuwatèng	np.h:s_a	np	h	s_a		
+arta	swateng	0026	#	#	##	##				
+arta	swateng	0026	#	#	#ac	#ac				
+arta	swateng	0026	Maski	even	other	other				
+arta	swateng	0026	da	because	other	other				
+arta	swateng	0026	atd-inan	give-LV	v:pred	v		pred		
+arta	swateng	0026	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0026	0	0	0.h:p_u	0	h	p_u		
+arta	swateng	0026	ta	OBL	ln	ln				
+arta	swateng	0026	anèn	food	np:obl_u	np		obl_u		
+arta	swateng	0026	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0026	%	%	%	%				
+arta	swateng	0026	awan	NEG	nc	nc				
+arta	swateng	0026	=na	=3SG.GEN	nc	nc				
+arta	swateng	0026	%	%	%	%				
+arta	swateng	0026	pab-ballan	NF-dislike	v:pred	v		pred		
+arta	swateng	0026	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0026	#	#	#cc:p_u	#cc		p_u		
+arta	swateng	0026	0	0	0.h:a_a	0	h	a_a		
+arta	swateng	0026	mamangan	INTR.eat	v:pred	v		pred		
+arta	swateng	0026	0	0	0:p_a	0		p_a		
+arta	swateng	0026	#	#	#ac	#ac				
+arta	swateng	0026	0	0	0.h:s_other	0	h	s_other		
+arta	swateng	0026	da	because	other	other				
+arta	swateng	0026	meses-subèg	ADJ.RDP-anger	ap_other:pred	ap_other		pred		
+arta	swateng	0026	=di	=POST	=rv	=rv				
+arta	swateng	0027	#	#	##	##				
+arta	swateng	0027	0	0	0.h:s_a	0	h	s_a		
+arta	swateng	0027	Nan-subèg	PST.INTR-anger	v:pred	v		pred		
+arta	swateng	0027	#	#	#ac	#ac				
+arta	swateng	0027	da	because	other	other				
+arta	swateng	0027	nangasawa	nPST.INTR-spouse	v:pred	v		pred		
+arta	swateng	0027	=d	=POST	=rv	=rv				
+arta	swateng	0027	i	DEF	ln	ln				
+arta	swateng	0027	buka:gan	woman	np.h:s_a	np	h	s_a		
+arta	swateng	0027	=i	=SPC	=rn	=rn				
+arta	swateng	0028	#	#	##	##				
+arta	swateng	0028	Punan	like	v:pred	v		pred		
+arta	swateng	0028	=di	=3PL.GEN	=pro.h:s_ds	=pro	h	s_ds		
+arta	swateng	0028	=ta	=DIST	=dem_pro:obl_u	=dem_pro		obl_u		
+arta	swateng	0029	#	#	##	##				
+arta	swateng	0029	Aytidi	Aytidi	nc	nc				
+arta	swateng	0029	nangasawan	PST.INTR-spouse	nc	nc				
+arta	swateng	0029	=na	=3SG.GEN	nc	nc				
+arta	swateng	0029	=y	=SPC	nc	nc				
+arta	swateng	0029	ayti	PROX.OBL	ln	ln				
+arta	swateng	0029	buka:gan	woman	np.h:dt	np	h	dt		
+arta	swateng	0029	=i	=SPC	=rn	=rn				
+arta	swateng	0029	#	#	#rc	#rc				
+arta	swateng	0029	0	0	f0.h:p_u	f0	h	p_u		
+arta	swateng	0029	a	LIG	other	other				
+arta	swateng	0029	asawan	spouse-TR	v:pred	v		pred		
+arta	swateng	0029	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0029	=mina	=HYPO	=rv	=rv				
+arta	swateng	0029	%	%	%	%				
+arta	swateng	0029	nangay	PST-go	other	other				
+arta	swateng	0029	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	swateng	0029	a	LIG	other	other				
+arta	swateng	0029	nam-bugay	PST.INTR-hunt	v:pred	v		pred		
+arta	swateng	0029	ta	OBL	ln	ln				
+arta	swateng	0029	ayta	DIST.OBL	ln	ln				
+arta	swateng	0029	dilod	downriver	np:p_a	np		p_a		
+arta	swateng	0030	#	#	##	##				
+arta	swateng	0030	Ayte:	only	other	other				
+arta	swateng	0030	gissa	one	ln	ln				
+arta	swateng	0030	=y	=SPC	=ln	=ln				
+arta	swateng	0030	buka:gan	woman	np.h:dt_s	np	h	dt_s		
+arta	swateng	0030	a	LIG	rn	rn				
+arta	swateng	0030	wadi	younger.sibling	rn	rn				
+arta	swateng	0030	ni	GEN.DEF	rn	rn				
+arta	swateng	0030	ayni	PROX.GEN	rn	rn				
+arta	swateng	0030	buka:gan	woman	rn	rn				
+arta	swateng	0030	=i	=SPC	=rn	=rn				
+arta	swateng	0030	a	LIG	rn	rn				
+arta	swateng	0030	asawa	spouse	rn	rn				
+arta	swateng	0030	ni	GEN.DEF	rn	rn				
+arta	swateng	0030	gissa	one	rn	rn				
+arta	swateng	0030	=y	=SPC	=rn	=rn				
+arta	swateng	0030	a	LIG	rn	rn				
+arta	swateng	0030	gilèngan	man	rn	rn				
+arta	swateng	0030	saya	DIST	dem_pro.h:a_a	dem_pro	h	a_a		
+arta	swateng	0030	na-tagi:	PST.INTR-remain	v:pred	v		pred		
+arta	swateng	0030	ti	OBL.DEF	ln	ln				
+arta	swateng	0030	bunbun	house	np:p_a	np		p_a		
+arta	swateng	0030	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0031	#	#	##	##				
+arta	swateng	0031	Pang-atd-inan	NF-give-LV	v:pred	v		pred		
+arta	swateng	0031	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0031	ti	PSN	ln	ln				
+arta	swateng	0031	Sanuwatèng	Sanuwatèng	np.h:p_u	np	h	p_u		
+arta	swateng	0031	ti	OBL.DEF	ln	ln				
+arta	swateng	0031	wa	PLH	ln	ln				
+arta	swateng	0031	=y	=SPC	=ln	=ln				
+arta	swateng	0031	bunbun	house	np:obl_u	np		obl_u		
+arta	swateng	0031	a	LIG	rn	rn				
+arta	swateng	0031	man	like	rn	rn				
+arta	swateng	0031	ni	GEN.DEF	rn	rn				
+arta	swateng	0031	ayni	PROX.GEN	rn	rn				
+arta	swateng	0031	ayu	wood	rn	rn				
+arta	swateng	0032	#	#	##	##				
+arta	swateng	0032	Atd-inan	give-LV	v:pred	v		pred		
+arta	swateng	0032	0	0	0.h:a_u	0	h	a_u		
+arta	swateng	0032	0	0	0.h:p_u	0	h	p_u		
+arta	swateng	0032	ta	OBL	ln	ln				
+arta	swateng	0032	wa	PLH	ln	ln				
+arta	swateng	0032	=na	=3SG.GEN	=ln	=ln				
+arta	swateng	0032	sigo:ngan	shelter	np:obl_u	np		obl_u		
+arta	swateng	0032	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0033	#	#	##	##				
+arta	swateng	0033	Pab-bud	NF-say	other	other				
+arta	swateng	0033	ni-bara:wèng	PST.CV-command	v:pred	v		pred		
+arta	swateng	0033	ni	GEN.DEF	ln	ln				
+arta	swateng	0033	Sanuwatèng	Sanuwatèng	np.h:a_u	np	h	a_u		
+arta	swateng	0033	#	#	#ds.neg:p_u	#ds.neg		p_u		
+arta	swateng	0033	Awan	NEG	other	other				
+arta	swateng	0033	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	swateng	0033	=tep	=still	=rv	=rv				
+arta	swateng	0033	passi:go:ngan	NF-shelter	v:pred	v		pred		
+arta	swateng	0033	0	0	0.1:p_u	0	1	p_u		
+arta	swateng	0034	#	#	##	##				
+arta	swateng	0034	0	0	0.h:s_a	0	h	s_a		
+arta	swateng	0034	Man-su:bèg	INTR-anger	v:pred	v		pred		
+arta	swateng	0034	#	#	##	##				
+arta	swateng	0034	N-um-anting	PST-INTR-afraid	v:pred	v		pred		
+arta	swateng	0034	=di	=POST	=rv	=rv				
+arta	swateng	0034	buka:gan	woman	np.h:s_a	np	h	s_a		
+arta	swateng	0034	=i	=SPC	=rn	=rn				
+arta	swateng	0035	#	#	##	##				
+arta	swateng	0035	Nangay	PST-go	v:pred	v		pred		
+arta	swateng	0035	=na	=3SG.GEN	=pro.h:a_a	=pro	h	a_a		
+arta	swateng	0035	=d	=POST	=rv	=rv				
+arta	swateng	0035	=ti	=PROX.OBL	=dem_pro:p_a	=dem_pro		p_a		
+arta	swateng	0035	#	#	#	#				
+arta	swateng	0035	0	0	0.h:a_u	0	h	a_u		
+arta	swateng	0035	n-inta	PST.TR-see	v:pred	v		pred		
+arta	swateng	0035	tidi	PL.DEF	ln	ln				
+arta	swateng	0035	top	companion	np.h:p_u	np	h	p_u		
+arta	swateng	0035	aka	elder.sibling	np.h:appos	np	h	appos		
+arta	swateng	0035	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0035	=y	=SPC	=rn	=rn				
+arta	swateng	0035	ta	OBL	ln	ln				
+arta	swateng	0035	ayta	DIST.OBL	ln	ln				
+arta	swateng	0035	dilod	downriver	np:l	np		l		
+arta	swateng	0036	#	#	##ds	##ds				
+arta	swateng	0036	Awan	NEG	nc	nc				
+arta	swateng	0036	=am	=2PL.ABS	nc	nc				
+arta	swateng	0036	mangi:me:mayas	INTR-RDP.slow	nc	nc				
+arta	swateng	0036	=a	=NC	nc	nc				
+arta	swateng	0036	#	#	##ds	##ds				
+arta	swateng	0036	Atti:	exist	other:pred	other		pred		
+arta	swateng	0036	=de:	=POST	=rv	=rv				
+arta	swateng	0036	=ta	=DIST	=dem_pro:p_a	=dem_pro		p_a		
+arta	swateng	0036	ti	PSN	ln	ln				
+arta	swateng	0036	Sanuwa:tèng	Sanuwa:tèng	np.h:a_a	np	h	a_a		
+arta	swateng	0036	#	#	#ds_rc	#ds_rc				
+arta	swateng	0036	0	0	f0.h:s_a	f0	h	s_a		
+arta	swateng	0036	a	LIG	other	other				
+arta	swateng	0036	man-su:bèg	INTR-anger	v:pred	v		pred		
+arta	swateng	0037	#	#	##	##				
+arta	swateng	0037	Punan	like	v:pred	v		pred		
+arta	swateng	0037	ni	GEN.DEF	ln	ln				
+arta	swateng	0037	wa	PLH	ln	ln				
+arta	swateng	0037	=y	=SPC	=ln	=ln				
+arta	swateng	0037	buka:gan	woman	np.h:s_ds	np	h	s_ds		
+arta	swateng	0038	#	#	##	##				
+arta	swateng	0038	Punan	like	v:pred	v		pred		
+arta	swateng	0038	ni	GEN.DEF	ln	ln				
+arta	swateng	0038	n-asawa	PST.TR-spouse	np.h:s_ds	np	h	s_ds		
+arta	swateng	0038	ni	GEN.DEF	rn	rn				
+arta	swateng	0038	Sanuwatèng	Sanuwatèng	rn_np.h:poss	rn_np	h	poss		
+arta	swateng	0038	buka:gan	woman	np.h:appos	np	h	appos		
+arta	swateng	0038	#	#	#rc	#rc				
+arta	swateng	0038	0	0	f0.h:p_u	f0	h	p_u		
+arta	swateng	0038	a	LIG	other	other				
+arta	swateng	0038	asawan	spouse-TR	v:pred	v		pred		
+arta	swateng	0038	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0038	=mina	=HYPO	=rv	=rv				
+arta	swateng	0038	=y	=SPC	=rn	=rn				
+arta	swateng	0039	#	#	##ds	##ds				
+arta	swateng	0039	#	#	#ds_ac	#ds_ac				
+arta	swateng	0039	Maski	even	other	other				
+arta	swateng	0039	pa-pati-n	CAUS-die-TR	v:pred	v		pred		
+arta	swateng	0039	=tèn	=1SG.ABS	=pro.1:p_u	=pro	1	p_u		
+arta	swateng	0039	ni	PSN.OBL	ln	ln				
+arta	swateng	0039	Sanuwatèng	Sanuwatèng	np.h:a_u	np	h	a_u		
+arta	swateng	0039	%	%	%	%				
+arta	swateng	0039	angin	go	other	other				
+arta	swateng	0039	=u	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	swateng	0039	itta-n	see-TR	v:pred	v		pred		
+arta	swateng	0039	ti	PSN	ln	ln				
+arta	swateng	0039	Sanuwatèng	Sanuwatèng	np.h:p_u	np	h	p_u		
+arta	swateng	0040	#	#	##ds	##ds				
+arta	swateng	0040	Melel-la:gin	ADJ.RDP-lonely	ap_other:pred	ap_other		pred		
+arta	swateng	0040	=de:	=POST	=rv	=rv				
+arta	swateng	0040	=tèn	=1SG.ABS	=pro.1:s_other	=pro	1	s_other		
+arta	swateng	0040	ni	PSN.OBL	ln	ln				
+arta	swateng	0040	Sanuwatèng	Sanuwatèng	np.h:obl	np	h	obl		
+arta	swateng	0040	%	%	%	%				
+arta	swateng	0041	Punan	like	v:pred	v		pred		
+arta	swateng	0041	ni	GEN.DEF	ln	ln				
+arta	swateng	0041	ayni	PROX.GEN	ln	ln				
+arta	swateng	0041	buka:gan	woman	np.h:s_ds	np	h	s_ds		
+arta	swateng	0041	#	#	#rc	#rc				
+arta	swateng	0041	0	0	f0.h:p_u	f0	h	p_u		
+arta	swateng	0041	a	LIG	other	other				
+arta	swateng	0041	asawa	spouse	v:pred	v		pred		
+arta	swateng	0041	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0041	=mina	=HYPO	=rv	=rv				
+arta	swateng	0042	#	#	##	##				
+arta	swateng	0042	Angay	PST-go	other	other				
+arta	swateng	0042	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0042	itta-n	see-TR	v:pred	v		pred		
+arta	swateng	0042	ti	PSN	ln	ln				
+arta	swateng	0042	Sanuwatèng	Sanuwatèng	np.h:p_u	np	h	p_u		
+arta	swateng	0042	#	#	##	##				
+arta	swateng	0042	0	0	0.h:a_a	0	h	a_a		
+arta	swateng	0042	Atti:	exist	other:pred	other		pred		
+arta	swateng	0042	=de:	=POST	=rv	=rv				
+arta	swateng	0042	=ti	=PROX.OBL	=dem_pro:p_a	=dem_pro		p_a		
+arta	swateng	0043	#	#	##	##				
+arta	swateng	0043	Mepep-pasu	ADJ.RDP-heat	ap_other:pred	ap_other		pred		
+arta	swateng	0043	i	DEF	ln	ln				
+arta	swateng	0043	langit	sunshine	np:s_other	np		s_other		
+arta	swateng	0043	=i	=SPC	=rn	=rn				
+arta	swateng	0043	#	#	##	##				
+arta	swateng	0043	awan	NEG	nc	nc				
+arta	swateng	0043	=na	=3SG.GEN	nc	nc				
+arta	swateng	0043	=d	=POST	nc	nc				
+arta	swateng	0043	#	#	##	##				
+arta	swateng	0043	Attanan	all	ln	ln				
+arta	swateng	0043	=di	=3PL.GEN	=ln	=ln				
+arta	swateng	0043	a	LIG	ln	ln				
+arta	swateng	0043	aba:bi:	RDP.body	np:s_a	np		s_a		
+arta	swateng	0043	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0043	mang-èsèssub	INTR-RDP.sweat	v:pred	v		pred		
+arta	swateng	0043	=di	=POST	=rv	=rv				
+arta	swateng	0044	ta	OBL	ln	ln				
+arta	swateng	0044	subèg	anger	np:other	np		other		
+arta	swateng	0044	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0044	=wada	=probably	=rn	=rn				
+arta	swateng	0044	=d	=POST	=rn	=rn				
+arta	swateng	0045	#	#	##	##				
+arta	swateng	0045	0	0	0.h:p_u	0	h	p_u		
+arta	swateng	0045	Atd-inan	give-LV	v:pred	v		pred		
+arta	swateng	0045	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0045	ta	OBL	ln	ln				
+arta	swateng	0045	tabako	tabacco	np:obl_u	np		obl_u		
+arta	swateng	0045	a	LIG	other	other				
+arta	swateng	0045	man	like	other	other				
+arta	swateng	0045	na	GEN	ln	ln				
+arta	swateng	0045	anèn	food	np:other	np		other		
+arta	swateng	0045	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0045	=te:	=only	=rn	=rn				
+arta	swateng	0046	#	#	##	##				
+arta	swateng	0046	Uman	like	other:pred	other		pred		
+arta	swateng	0046	=de:	=POST	=rv	=rv				
+arta	swateng	0046	=na	=3SG.GEN	=rv	=rv				
+arta	swateng	0046	matlèm	blood	np:p_u	np		p_u		
+arta	swateng	0046	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0046	mata	eye	np:a_u	np		a_u		
+arta	swateng	0046	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0046	=y	=SPC	=rn	=rn				
+arta	swateng	0046	ta	OBL	ln	ln				
+arta	swateng	0046	subèg	anger	np:other	np		other		
+arta	swateng	0046	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0046	=d	=POST	=rn	=rn				
+arta	swateng	0047	#	#	#nc	#nc				
+arta	swateng	0047	Man	like	nc	nc				
+arta	swateng	0047	=de:	=POST	nc	nc				
+arta	swateng	0047	=ni	=PROX.GEN	nc	nc				
+arta	swateng	0047	#	#	##	##				
+arta	swateng	0047	meses-sulu	ADJ.RDP-red	ap_other:pred	ap_other		pred		
+arta	swateng	0047	=d	=POST	=rv	=rv				
+arta	swateng	0047	i	DEF	ln	ln				
+arta	swateng	0047	mata	eye	np:s_other	np		s_other		
+arta	swateng	0047	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0047	=y	=SPC	=rn	=rn				
+arta	swateng	0047	ta	OBL	ln	ln				
+arta	swateng	0047	subèg	anger	np:other	np		other		
+arta	swateng	0047	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0047	=d	=POST	=rn	=rn				
+arta	swateng	0048	#	#	##ds	##ds				
+arta	swateng	0048	Atd-inan	give-LV	v:pred	v		pred		
+arta	swateng	0048	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	swateng	0048	=y	=SPC	=rv	=rv				
+arta	swateng	0048	ti	PSN	ln	ln				
+arta	swateng	0048	Sanuwatèng	Sanuwatèng	np.h:p_u	np	h	p_u		
+arta	swateng	0048	ta	OBL	ln	ln				
+arta	swateng	0048	anèn	food	np:obl_u	np		obl_u		
+arta	swateng	0048	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0049	#	#	##ds	##ds				
+arta	swateng	0049	Pab-ba:lan	NF-dislike	v:pred	v		pred		
+arta	swateng	0049	=u	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	swateng	0049	#	#	#cc:p_u	#cc		p_u		
+arta	swateng	0049	0	0	0.1:s_a	0	1	s_a		
+arta	swateng	0049	mamangan	INTR.eat	v:pred	v		pred		
+arta	swateng	0049	%	%	%	%				
+arta	swateng	0049	Punan	like	v:pred	v		pred		
+arta	swateng	0049	=na	=3SG.GEN	=rv	=rv				
+arta	swateng	0049	Sanuwatèng	Sanuwatèng	np.h:bpi_s_ds	np	h	bpi_s_ds		
+arta	swateng	0050	#	#	##	##				
+arta	swateng	0050	Basta	just	other	other				
+arta	swateng	0050	min-e:dèm	PST.INTR-sleep	v:pred	v		pred		
+arta	swateng	0050	=tèddi	=just	=rv	=rv				
+arta	swateng	0050	ti	PSN	ln	ln				
+arta	swateng	0050	Sanuwatèng	Sanuwatèng	np.h:a_a	np	h	a_a		
+arta	swateng	0050	ti	OBL.DEF	ln	ln				
+arta	swateng	0050	ayta	DIST.OBL	dem_pro:p_a	dem_pro		p_a		
+arta	swateng	0051	#	#	##ds	##ds				
+arta	swateng	0051	Dèmèdmèng	morning	np:other	np		other		
+arta	swateng	0051	=de:	=POST	=rn	=rn				
+arta	swateng	0051	=i	=SPC	=rn	=rn				
+arta	swateng	0051	mangay	INTR-go	v:pred	v		pred		
+arta	swateng	0051	=de:	=POST	=rv	=rv				
+arta	swateng	0051	=tèn	=1SG.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	swateng	0051	ta	OBL	ln	ln				
+arta	swateng	0051	ayta	DIST.OBL	ln	ln				
+arta	swateng	0051	bukid	mountain	np:p_a	np		p_a		
+arta	swateng	0052	%	%	%	%				
+arta	swateng	0052	Punan	like	v:pred	v		pred		
+arta	swateng	0052	ni	GEN.DEF	ln	ln				
+arta	swateng	0052	Sanuwatèng	Sanuwatèng	np.h:s_ds	np	h	s_ds		
+arta	swateng	0053	#	#	##	##				
+arta	swateng	0053	Nyangay	PST.CV-go	v:pred	v		pred		
+arta	swateng	0053	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0053	in-aba-n	PST-mat-TR	np:p_u	np		p_u		
+arta	swateng	0053	0	0	0.h:g_u	0	h	g_u		
+arta	swateng	0054	#	#	##	##				
+arta	swateng	0054	Punan	like	v:pred	v		pred		
+arta	swateng	0054	ayni	PROX.GEN	ln	ln				
+arta	swateng	0054	buka:gan	woman	np.h:s_ds	np	h	s_ds		
+arta	swateng	0054	=i	=SPC	=rn	=rn				
+arta	swateng	0054	a	LIG	rn	rn				
+arta	swateng	0054	wadi	younger.sibling	rn_np.h	rn_np	h			
+arta	swateng	0054	ni	GEN.DEF	rn	rn				
+arta	swateng	0054	ayni	PROX.GEN	rn	rn				
+arta	swateng	0054	#	#	#rc	#rc				
+arta	swateng	0054	0	0	f0.h:p_u	f0	h	p_u		
+arta	swateng	0054	asawan	spouse-TR	v:pred	v		pred		
+arta	swateng	0054	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0054	=mina	=HYPO	=rv	=rv				
+arta	swateng	0054	=y	=SPC	=other	=other				
+arta	swateng	0055	#	#	##	##				
+arta	swateng	0055	Punan	like	v:pred	v		pred		
+arta	swateng	0055	=na	=3SG.GEN	=pro.h:s_ds	=pro	h	s_ds		
+arta	swateng	0055	=ta	=DIST	=dem_pro:other	=dem_pro		other		
+arta	swateng	0056	#	#	##ds	##ds				
+arta	swateng	0056	Pa-bay-an	CAUS-neglect-LV	v:pred	v		pred		
+arta	swateng	0056	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	swateng	0056	=d	=POST	=rv	=rv				
+arta	swateng	0056	=ya	=DIST	=rv	=rv				
+arta	swateng	0056	aka	elder.sibling	np.h:bpi_p_u	np	h	bpi_p_u		
+arta	swateng	0056	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	swateng	0056	=y	=SPC	=rn	=rn				
+arta	swateng	0056	#	#	#ds_ac	#ds_ac				
+arta	swateng	0056	da	because	other	other				
+arta	swateng	0056	atti:	exist	other:predex	other		predex		
+arta	swateng	0056	=di	=POST	=rn	=rn				
+arta	swateng	0056	asawa	spouse	np.h:s_other	np	h	s_other		
+arta	swateng	0056	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0057	#	#	##ds	##ds				
+arta	swateng	0057	Tita	1+2SG	pro.1:pred	pro	1	pred		
+arta	swateng	0057	=d	=POST	=rv	=rv				
+arta	swateng	0057	#	#	#ds_rc.h:s_pro	#ds_rc	h	s_pro		
+arta	swateng	0057	i	DEF	ln	ln				
+arta	swateng	0057	mangi'-asawa	INTR.RCP-spouse	v:pred	v		pred		
+arta	swateng	0057	0	0	f0.h:s_a	f0	h	s_a		
+arta	swateng	0058	#	#	##	##				
+arta	swateng	0058	Punan	like	v:pred	v		pred		
+arta	swateng	0058	ni	GEN.DEF	ln	ln				
+arta	swateng	0058	buka:gan	woman	np.h:s_ds	np	h	s_ds		
+arta	swateng	0058	=i	=SPC	=rn	=rn				
+arta	swateng	0058	a	LIG	rn	rn				
+arta	swateng	0058	gissa	one	rn	rn				
+arta	swateng	0058	wadi	younger.sibling	rn_np.h	rn_np	h			
+arta	swateng	0058	ni	GEN.DEF	rn	rn				
+arta	swateng	0058	ayni	PROX.GEN	rn	rn				
+arta	swateng	0059	#	#	#ds:p_u	#ds		p_u		
+arta	swateng	0059	0	0	0:p_u	0		p_u		
+arta	swateng	0059	Ballan	dislike	v:pred	v		pred		
+arta	swateng	0059	=u	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	swateng	0059	#	#	##	##				
+arta	swateng	0059	Kunan	like	v:pred	v		pred		
+arta	swateng	0059	ni	GEN.DEF	ln	ln				
+arta	swateng	0059	Sanuwatèng	Sanuwatèng	np.h:a_u	np	h	a_u		
+arta	swateng	0060	#	#	##ds	##ds				
+arta	swateng	0060	Ta	OBL	other	other				
+arta	swateng	0060	wadi	younger.sibling	np:pred	np		pred		
+arta	swateng	0060	=ta	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	swateng	0060	=taw	=2SG.ABS	=pro.2:s_np	=pro	2	s_np		
+arta	swateng	0060	#	#	##	##				
+arta	swateng	0060	Punan	like	v:pred	v		pred		
+arta	swateng	0060	=na	=3SG.GEN	=pro.h:s_ds	=pro	h	s_ds		
+arta	swateng	0061	#	#	##ds	##ds				
+arta	swateng	0061	Meddigat	ADJ-difficult	ap_other:pred	ap_other		pred		
+arta	swateng	0061	#	#	#cc:p_other	#cc		p_other		
+arta	swateng	0061	a	LIG	other	other				
+arta	swateng	0061	asawan	spouse-TR	v:pred	v		pred		
+arta	swateng	0061	=ta	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	swateng	0061	=taw	=2SG.ABS	=pro.2:p_u	=pro	2	p_u		
+arta	swateng	0061	#	#	#ds_ac	#ds_ac				
+arta	swateng	0061	ta	OBL	other	other				
+arta	swateng	0061	wadi	younger.sibling	np:pred	np		pred		
+arta	swateng	0061	=ta	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	swateng	0061	=taw	=2SG.ABS	=pro.2:s_np	=pro	2	s_np		
+arta	swateng	0061	#	#	##ds	##ds				
+arta	swateng	0061	Kilè-killèk	RDP-small	ap_other:pred	ap_other		pred		
+arta	swateng	0061	=tep	=still	=rv	=rv				
+arta	swateng	0061	=taw	=2SG.ABS	=pro.2:s_other	=pro	2	s_other		
+arta	swateng	0061	=di:ti	=before	=other	=other				
+arta	swateng	0062	#	#	##ds	##ds				
+arta	swateng	0062	Nangi:–	nc	nc	nc				
+arta	swateng	0062	nangiw-wa	PST.INTR.RCP-PLH	v:pred	v		pred		
+arta	swateng	0062	=ami	=1PL.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	swateng	0062	ti	OBL.DEF	ln	ln				
+arta	swateng	0062	aka	elder.sibling	np.h:p_a	np	h	p_a		
+arta	swateng	0062	=mu	=2SG.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	swateng	0063	#	#	##	##				
+arta	swateng	0063	#	#	#ds:p_u	#ds		p_u		
+arta	swateng	0063	0	0	0:p_u	0		p_u		
+arta	swateng	0063	Saya	DIST	other	other				
+arta	swateng	0063	pasensi-an	tolerate-LV	v:pred	v		pred		
+arta	swateng	0063	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	swateng	0063	=tèddi	=just	=rv	=rv				
+arta	swateng	0063	#	#	#ac	#ac				
+arta	swateng	0063	da	because	other	other				
+arta	swateng	0063	ballan	dislike	v:pred	v		pred		
+arta	swateng	0063	=u	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	swateng	0063	#	#	#cc:p_u	#cc		p_u		
+arta	swateng	0063	may-asawa	POT.CV-spouse	nc	nc				
+arta	swateng	0063	=daw	=2SG.OBL	nc	nc				
+arta	swateng	0063	%	%	%	%				
+arta	swateng	0063	Kunan	like	v:pred	v		pred		
+arta	swateng	0063	ni	GEN.DEF	ln	ln				
+arta	swateng	0063	ayni	PROX.GEN	ln	ln				
+arta	swateng	0063	Sanuwatèng	Sanuwatèng	np.h:a_u	np	h	a_u		
+arta	swateng	0064	#	#	##	##				
+arta	swateng	0064	#	#	#ac	#ac				
+arta	swateng	0064	A:nuda	after	other	other				
+arta	swateng	0064	binyungèt	night	np:pred	np		pred		
+arta	swateng	0064	=di	=POST	=rn	=rn				
+arta	swateng	0064	%	%	%	%				
+arta	swateng	0064	punan	like	v:pred	v		pred		
+arta	swateng	0064	=na	=3SG.GEN	=pro.h:s_ds	=pro	h	s_ds		
+arta	swateng	0064	=d	=POST	=rv	=rv				
+arta	swateng	0064	a	LIG	nc	nc				
+arta	swateng	0065	#	#	##	##				
+arta	swateng	0065	Nangay	PST-go	other	other				
+arta	swateng	0065	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0065	=d	=POST	=other	=other				
+arta	swateng	0065	i	NC	nc	nc				
+arta	swateng	0065	inta	see	v:pred	v		pred		
+arta	swateng	0065	=d	=POST	=rv	=rv				
+arta	swateng	0065	i	DEF	ln	ln				
+arta	swateng	0065	wa	PLH	ln	ln				
+arta	swateng	0065	=y	=SPC	=ln	=ln				
+arta	swateng	0065	buka:gan	woman	np.h:p_u	np	h	p_u		
+arta	swateng	0065	=i	=SPC	=rn	=rn				
+arta	swateng	0065	#	#	#rc	#rc				
+arta	swateng	0065	0	0	f0.h:p_u	f0	h	p_u		
+arta	swateng	0065	a	LIG	other	other				
+arta	swateng	0065	asawan	spouse-TR	v:pred	v		pred		
+arta	swateng	0065	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0065	=mina	=HYPO	=rv	=rv				
+arta	swateng	0066	#	#	##	##				
+arta	swateng	0066	D<in>èsu:n-an	<PST>stab-LV	v:pred	v		pred		
+arta	swateng	0066	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0066	a:yi:	PROX	dem_pro.h:p_u	dem_pro	h	p_u		
+arta	swateng	0066	#	#	##	##				
+arta	swateng	0066	nap-pati	PST.INTR-die	v:pred	v		pred		
+arta	swateng	0066	=d	=POST	=rv	=rv				
+arta	swateng	0066	i	DEF	ln	ln				
+arta	swateng	0066	buka:gan	woman	np.h:s_a	np	h	s_a		
+arta	swateng	0066	=i	=SPC	=rn	=rn				
+arta	swateng	0067	#	#	##	##				
+arta	swateng	0067	Punan	like	v:pred	v		pred		
+arta	swateng	0067	=na	=3SG.GEN	=pro.h:s_ds	=pro	h	s_ds		
+arta	swateng	0067	ti	OBL.DEF	ln	ln				
+arta	swateng	0067	asawa	spouse	nc	nc				
+arta	swateng	0067	ni	GEN.DEF	nc	nc				
+arta	swateng	0067	Sanuwatèng	Sanuwatèng	nc	nc				
+arta	swateng	0067	ay	oh	nc	nc				
+arta	swateng	0067	asawa	spouse	np.h:g	np	h	g		
+arta	swateng	0067	ni	GEN.DEF	rn	rn				
+arta	swateng	0067	buka:gan	woman	rn_np	rn_np				
+arta	swateng	0067	=i	=SPC	=rn	=rn				
+arta	swateng	0068	#	#	##ds	##ds				
+arta	swateng	0068	Malluwag	INTR-awake	v:pred	v		pred		
+arta	swateng	0068	=a	=2SG.ABS	=pro.2:s_a	=pro	2	s_a		
+arta	swateng	0068	#	#	#ac	#ac				
+arta	swateng	0068	da	because	other	other				
+arta	swateng	0068	luwag-èn	awake-TR	v:pred	v		pred		
+arta	swateng	0068	=mu	=2SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	swateng	0068	asawa	spouse	np.h:p_u	np	h	p_u		
+arta	swateng	0068	=mu	=2SG.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	swateng	0068	=y	=SPC	=rn	=rn				
+arta	swateng	0068	#	#	#ac	#ac				
+arta	swateng	0068	da	because	other	other				
+arta	swateng	0068	maddima	INTR-walk	v:pred	v		pred		
+arta	swateng	0068	=d	=POST	=rv	=rv				
+arta	swateng	0068	=tèn	=1SG.ABS	=pro.1:s_a	=pro	1	s_a		
+arta	swateng	0069	#	#	##	##				
+arta	swateng	0069	A:nu	what	np:p_u	np		p_u		
+arta	swateng	0069	ittan	see-TR	v:pred	v		pred		
+arta	swateng	0069	=ni:	=PROX.GEN	=dem_pro.h:a_u	=dem_pro	h	a_u		
+arta	swateng	0069	ti	OBL.DEF	ln	ln				
+arta	swateng	0069	asawa	spouse	np.h:obl	np	h	obl		
+arta	swateng	0069	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0069	=y	=SPC	=rn	=rn				
+arta	swateng	0069	#	#	##	##				
+arta	swateng	0069	0	0	0.h:s_a	0	h	s_a		
+arta	swateng	0069	Minap-pati	PST.INTR-die	v:pred	v		pred		
+arta	swateng	0069	=d	=POST	=rv	=rv				
+arta	swateng	0070	#	#	##	##				
+arta	swateng	0070	Nalap	PST.TR-get	v:pred	v		pred		
+arta	swateng	0070	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0070	=d	=POST	=rv	=rv				
+arta	swateng	0070	i	DEF	ln	ln				
+arta	swateng	0070	wa	PLH	ln	ln				
+arta	swateng	0070	=y	=SPC	=ln	=ln				
+arta	swateng	0070	pangal	arrow	np:p_u	np		p_u		
+arta	swateng	0070	munata	like.that	ln	ln				
+arta	swateng	0070	a	LIG	ln	ln				
+arta	swateng	0070	pangal	arrow	np:appos	np		appos		
+arta	swateng	0070	#	#	##	##				
+arta	swateng	0070	Punan	like	v:pred	v		pred		
+arta	swateng	0070	ni	GEN.DEF	ln	ln				
+arta	swateng	0070	Sanuwatèn	Sanuwatèn	np.h:s_ds	np	h	s_ds		
+arta	swateng	0070	a	LIG	other	other				
+arta	swateng	0071	#	#	##ds.neg	##ds.neg				
+arta	swateng	0071	Awan	NEG	other	other				
+arta	swateng	0071	=u	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	swateng	0071	=ina	=MED	=dem_pro:p_u	=dem_pro		p_u		
+arta	swateng	0071	ati:ng-èn	hear-TR	v:pred	v		pred		
+arta	swateng	0071	#	#	#nc	#nc				
+arta	swateng	0071	Pka:ewa	NC	nc	nc				
+arta	swateng	0071	=mu	=2SG.GEN	nc	nc				
+arta	swateng	0071	paketatadèmèn	NC	nc	nc				
+arta	swateng	0072	#	#	##	##				
+arta	swateng	0072	Punan	like	v:pred	v		pred		
+arta	swateng	0072	=na	=3SG.GEN	=pro.h:s_ds	=pro	h	s_ds		
+arta	swateng	0072	=ta	=DIST	=dem_pro:obl_u	=dem_pro		obl_u		
+arta	swateng	0072	#	#	#ds	#ds				
+arta	swateng	0072	Tèn	1SG	pro.1:p_u	pro	1	p_u		
+arta	swateng	0072	pa-dutul-èn	CAUS-first-TR	v:pred	v		pred		
+arta	swateng	0072	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	swateng	0072	#	#	##	##				
+arta	swateng	0072	pap-punan	NF-like	v:pred	v		pred		
+arta	swateng	0072	ni	GEN.DEF	ln	ln				
+arta	swateng	0072	Sanuwatèng	Sanuwatèng	np.h:s_ds	np	h	s_ds		
+arta	swateng	0072	#	#	##ds	##ds				
+arta	swateng	0072	Tèn	1SG	pro.1:p_u	pro	1	p_u		
+arta	swateng	0072	pa-dutul-èn	CAUS-first-TR	v:pred	v		pred		
+arta	swateng	0072	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	swateng	0072	#	#	#	#				
+arta	swateng	0072	0	0	0.2:a_u	0	2	a_u		
+arta	swateng	0072	a	LIG	other	other				
+arta	swateng	0072	dèsu:n-an	stab-LV	v:pred	v		pred		
+arta	swateng	0072	i	DEF	ln	ln				
+arta	swateng	0072	a:yi:	PROX	dem_pro:p_u	dem_pro		p_u		
+arta	swateng	0073	#	#	##	##				
+arta	swateng	0073	D<in>èsu:n-an	<PST>stab-LV	v:pred	v		pred		
+arta	swateng	0073	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0073	a:yi:	PROX	dem_pro:p_u	dem_pro		p_u		
+arta	swateng	0074	#	#	##ds.neg	##ds.neg				
+arta	swateng	0074	Awan	NEG	other	other				
+arta	swateng	0074	=u	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	swateng	0074	=tep	=still	=other	=other				
+arta	swateng	0074	=ina	=MED	=dem_pro:p_u	=dem_pro		p_u		
+arta	swateng	0074	ati:ng-èn	hear-TR	v:pred	v		pred		
+arta	swateng	0074	#	#	##ds	##ds				
+arta	swateng	0074	0	0	0:p_u	0		p_u		
+arta	swateng	0074	Lipat-an	opposite-LV	v:pred	v		pred		
+arta	swateng	0074	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	swateng	0075	#	#	##	##				
+arta	swateng	0075	Punan	like	v:pred	v		pred		
+arta	swateng	0075	na	GEN	ln	ln				
+arta	swateng	0075	Sanuwatèn	Sanuwatèn	np.h:s_ds	np	h	s_ds		
+arta	swateng	0076	#	#	##	##				
+arta	swateng	0076	Atti:	exist	other:predex	other		predex		
+arta	swateng	0076	butngul	herb	np:s_other	np		s_other		
+arta	swateng	0076	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0077	#	#	##	##				
+arta	swateng	0077	Inta-n	see-TR	v:pred	v		pred		
+arta	swateng	0077	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	swateng	0077	sibèt	strength	np:p_u	np		p_u		
+arta	swateng	0077	ni	GEN.DEF	rn	rn				
+arta	swateng	0077	butngul	butngul	rn	rn				
+arta	swateng	0077	=i	=SPC	=rn	=rn				
+arta	swateng	0078	#	#	##	##				
+arta	swateng	0078	Piniguwa	<PST.TR>repeat	v:pred	v		pred		
+arta	swateng	0078	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0078	=d	=POST	=rv	=rv				
+arta	swateng	0078	ti	OBL.DEF	ln	ln				
+arta	swateng	0078	lipat	opposite.side	np:p_u	np		p_u		
+arta	swateng	0079	#	#	#nc	#nc				
+arta	swateng	0079	Tinumaradtad	<PST><INTR>escape	nc	nc				
+arta	swateng	0079	=di	=POST	nc	nc				
+arta	swateng	0079	a:yi:	PROX	nc	nc				
+arta	swateng	0079	dinansun	<PST>stab	nc	nc				
+arta	swateng	0079	diya	3SG.OBL	nc	nc				
+arta	swateng	0080	#	#	##ds	##ds				
+arta	swateng	0080	A:ta'-a:nun	why	np:other	np		other		
+arta	swateng	0080	=a	=2SG.ABS	=pro.2:s_a	=pro	2	s_a		
+arta	swateng	0080	man-ta:radtad	INTR-escape	v:pred	v		pred		
+arta	swateng	0081	#	#	#nc	#nc				
+arta	swateng	0081	G<in>abwat	<PST.TR>assault	nc	nc				
+arta	swateng	0081	=na	=3SG.GEN	nc	nc				
+arta	swateng	0081	=y	=SPC	nc	nc				
+arta	swateng	0081	m<in>a-talingu	<PST>INTR-injure	nc	nc				
+arta	swateng	0081	ti	PSN	nc	nc				
+arta	swateng	0081	Sanuwatèng	Sanuwatèng	nc	nc				
+arta	swateng	0082	#	#	##	##				
+arta	swateng	0082	0	0	0.h:p_u	0	h	p_u		
+arta	swateng	0082	G<in>abwat	<PST.PST>attack	v:pred	v		pred		
+arta	swateng	0082	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0083	#	#	##	##				
+arta	swateng	0083	D<in>èsu:n-an	<PST>stab-LV	v:pred	v		pred		
+arta	swateng	0083	ni	GEN.DEF	ln	ln				
+arta	swateng	0083	Sanuwa:tèng	Sanuwa:tèng	np.h:a_u	np	h	a_u		
+arta	swateng	0083	a:yi:	PROX	dem_pro:p_u	dem_pro		p_u		
+arta	swateng	0083	attanan	all	rn	rn				
+arta	swateng	0083	#	#	##	##				
+arta	swateng	0083	Attanan	all	ln	ln				
+arta	swateng	0083	a	LIG	ln	ln				
+arta	swateng	0083	sinèy	intestine	np:s_a	np		s_a		
+arta	swateng	0083	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0083	m<in>a-tannag	<PST>INTR-fall	v:pred	v		pred		
+arta	swateng	0084	#	#	##	##				
+arta	swateng	0084	Man-di:ma-dima	INTR-RDP-walk	v:pred	v		pred		
+arta	swateng	0084	ti	PSN	ln	ln				
+arta	swateng	0084	Sanuwatèng	Sanuwatèng	np.h:s_a	np	h	s_a		
+arta	swateng	0084	#	#	##neg	##neg				
+arta	swateng	0084	Awan	NEG	other	other				
+arta	swateng	0084	=tep	=still	=rv	=rv				
+arta	swateng	0084	map-pati	INTR-die	v:pred	v		pred		
+arta	swateng	0084	ti	PSN	ln	ln				
+arta	swateng	0084	Sanuwatèng	Sanuwatèng	np.h:s_a	np	h	s_a		
+arta	swateng	0084	#	#	##	##				
+arta	swateng	0084	a:yi:	PROX	ln	ln				
+arta	swateng	0084	butngul	k.o.herb	np:s_other	np		s_other		
+arta	swateng	0084	=i	=SPC	=rn	=rn				
+arta	swateng	0084	talaga	really	other	other				
+arta	swateng	0084	mesessibèt	ADJ.RDP-strength	ap_other:pred	ap_other		pred		
+arta	swateng	0085	#	#	##	##				
+arta	swateng	0085	Punan	like	v:pred	v		pred		
+arta	swateng	0085	=na	=3SG.GEN	=pro.h:s_ds	=pro	h	s_ds		
+arta	swateng	0085	ti	OBL.DEF	ln	ln				
+arta	swateng	0085	buka:gan	woman	np.h:g	np	h	g		
+arta	swateng	0085	=i	=SPC	=rn	=rn				
+arta	swateng	0085	#	#	##ds	##ds				
+arta	swateng	0085	Mal-luwag	INTR-awake	v:pred	v		pred		
+arta	swateng	0085	=a	=2SG.ABS	=pro.2:s_a	=pro	2	s_a		
+arta	swateng	0085	=nen	=please	=rv	=rv				
+arta	swateng	0086	#	#	##	##				
+arta	swateng	0086	Punan	like	v:pred	v		pred		
+arta	swateng	0086	na	GEN	=pro.h:s_ds	=pro	h	s_ds		
+arta	swateng	0086	ti	OBL.DEF	ln	ln				
+arta	swateng	0086	buka:gan	woman	np.h:g	np	h	g		
+arta	swateng	0086	=i	=SPC	=rn	=rn				
+arta	swateng	0086	a	LIG	rn	rn				
+arta	swateng	0086	wadi	younger.sibling	rn_np.h	rn_np	h			
+arta	swateng	0086	ni	GEN.DEF	rn	rn				
+arta	swateng	0086	ayni	PROX.GEN	rn	rn				
+arta	swateng	0086	#	#	#rc	#rc				
+arta	swateng	0086	0	0	f0.h:p_u	f0	h	p_u		
+arta	swateng	0086	asawan	spouse-TR	v:pred	v		pred		
+arta	swateng	0086	=i	=SPC	=rn	=rn				
+arta	swateng	0086	ni	GEN.DEF	ln	ln				
+arta	swateng	0086	Sanuwatèng	Sanuwatèng	np.h:a_u	np	h	a_u		
+arta	swateng	0087	#	#	##ds	##ds				
+arta	swateng	0087	Mad-dima	INTR-walk	v:pred	v		pred		
+arta	swateng	0087	=d	=POST	=rv	=rv				
+arta	swateng	0087	=tèn	=1SG.ABS	=pro.1:s_a	=pro	1	s_a		
+arta	swateng	0087	=ta	=DIST	=dem_pro:g_a	=dem_pro		g_a		
+arta	swateng	0087	#	#	##	##				
+arta	swateng	0087	punan	like	v:pred	v		pred		
+arta	swateng	0087	=na	=3SG.GEN	=pro.h:s_ds	=pro	h	s_ds		
+arta	swateng	0088	#	#	##	##				
+arta	swateng	0088	A:nu	what	np:p_u	np		p_u		
+arta	swateng	0088	ittan	see-TR	v:pred	v		pred		
+arta	swateng	0088	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0088	ti	PSN	ln	ln				
+arta	swateng	0088	Sanuwatèng	Sanuwatèng	np.h:obl	np	h	obl		
+arta	swateng	0088	#	#	##	##				
+arta	swateng	0088	Mamma:matlèm	INTR-RDP-blood	v:pred	v		pred		
+arta	swateng	0088	=di	=POST	=rv	=rv				
+arta	swateng	0088	attanan	all	np:s_a	np		s_a		
+arta	swateng	0088	ni	GEN.DEF	rn	rn				
+arta	swateng	0088	aba:bi:	RDP.body	rn	rn				
+arta	swateng	0088	=na	=3SG.GEN	=rn	=rn				
+arta	swateng	0088	=y	=SPC	=rn	=rn				
+arta	swateng	0089	#	#	##	##				
+arta	swateng	0089	Nam-anting	PST.INTR-afraid	v:pred	v		pred		
+arta	swateng	0089	=di	=3PL.GEN	=rv	=rv				
+arta	swateng	0089	buka:gan	woman	np.h:s_a	np	h	s_a		
+arta	swateng	0089	=i	=SPC	=rn	=rn				
+arta	swateng	0090	#	#	##	##				
+arta	swateng	0090	0	0	0.h:p_u	0	h	p_u		
+arta	swateng	0090	N-atd-inan	PST-give-LV	v:pred	v		pred		
+arta	swateng	0090	ni	GEN.DEF	ln	ln				
+arta	swateng	0090	buka:gan	woman	np.h:a_u	np	h	a_u		
+arta	swateng	0090	=i	=SPC	=rn	=rn				
+arta	swateng	0090	ta	OBL	ln	ln				
+arta	swateng	0090	taba:ko	tabacco	np:obl_u	np		obl_u		
+arta	swateng	0091	#	#	##	##				
+arta	swateng	0091	0	0	0.h:s_a	0	h	s_a		
+arta	swateng	0091	D<in><um>ama	<PST><INTR>walk	v:pred	v		pred		
+arta	swateng	0091	=d	=POST	=rv	=rv				
+arta	swateng	0092	#	#	##	##				
+arta	swateng	0092	Punan	like	v:pred	v		pred		
+arta	swateng	0092	=na	=3SG.GEN	=pro.h:a_u_ds	=pro	h	a_u_ds		
+arta	swateng	0092	aytidi	PL.ABS.DEF	ln	ln				
+arta	swateng	0092	ama	father	np.h:p_u	np	h	p_u		
+arta	swateng	0092	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0092	=y	=SPC	=rn	=rn				
+arta	swateng	0092	#	#	##ds	##ds				
+arta	swateng	0092	Malluwag	INTR-awake	v:pred	v		pred		
+arta	swateng	0092	=am	=2PL.ABS	=pro.2:s_a	=pro	2	s_a		
+arta	swateng	0092	=di	=POST	=rv	=rv				
+arta	swateng	0092	#	#	##	##				
+arta	swateng	0092	M<in>ap-pati	<PST>INTR-die	v:pred	v		pred		
+arta	swateng	0092	=d	=POST	=rv	=rv				
+arta	swateng	0092	tidi	PL.DEF	ln	ln				
+arta	swateng	0092	kakka:nak	PL.child	np.h:s_a	np	h	s_a		
+arta	swateng	0092	=muyu	=2PL.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	swateng	0092	ti	OBL.DEF	ln	ln				
+arta	swateng	0092	dilod	downriver	np:other	np		other		
+arta	swateng	0093	#	#	#nc	#nc				
+arta	swateng	0093	Uman	like	nc	nc				
+arta	swateng	0093	ni	GEN.DEF	nc	nc				
+arta	swateng	0093	bunbun	house	nc	nc				
+arta	swateng	0093	ni	GEN.DEF	nc	nc				
+arta	swateng	0093	wa	PLH	nc	nc				
+arta	swateng	0093	=y	=SPC	nc	nc				
+arta	swateng	0093	#	#	##	##				
+arta	swateng	0093	uman	like	other:pred	other		pred		
+arta	swateng	0093	=na:	=DIST.GEN	=dem_pro:a_other	=dem_pro		a_other		
+arta	swateng	0093	bunbun	house	np:p_other	np		p_other		
+arta	swateng	0093	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0094	#	#	##	##				
+arta	swateng	0094	0	0	0.h:s_a	0	h	s_a		
+arta	swateng	0094	N-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	swateng	0094	=de:	=POST	=rv	=rv				
+arta	swateng	0094	=ta	=DIST	=dem_pro:g_a	=dem_pro		g_a		
+arta	swateng	0095	#	#	##	##				
+arta	swateng	0095	D<in>agayday	<PST.TR>chase	v:pred	v		pred		
+arta	swateng	0095	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0095	ti	PSN	ln	ln				
+arta	swateng	0095	Sanuwatèng	Sanuwatèng	np.h:p_u	np	h	p_u		
+arta	swateng	0096	#	#	##	##				
+arta	swateng	0096	Ittan	see-TR	v:pred	v		pred		
+arta	swateng	0096	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0096	ma'lèm	blood	np:p_u	np		p_u		
+arta	swateng	0096	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0096	#	#	##	##				
+arta	swateng	0096	0	0	0.h:a_a	0	h	a_a		
+arta	swateng	0096	Man-di:ma-dima	INTR-RDP-walk	v:pred	v		pred		
+arta	swateng	0096	ti	OBL.DEF	ln	ln				
+arta	swateng	0096	wa	PLH	ln	ln				
+arta	swateng	0096	=y	=SPC	=ln	=ln				
+arta	swateng	0096	karagatan	stone	np:p_a	np		p_a		
+arta	swateng	0097	#	#	##	##				
+arta	swateng	0097	0	0	0.h:s_a	0	h	s_a		
+arta	swateng	0097	Mantata:tardya	INTR-RDP-upstream	v:pred	v		pred		
+arta	swateng	0098	#	#	##	##				
+arta	swateng	0098	0	0	0.h:a_a	0	h	a_a		
+arta	swateng	0098	Ayti	PROX.OBL	other	other				
+arta	swateng	0098	nang-alap	PST.INTR-get	v:pred	v		pred		
+arta	swateng	0098	ta	OBL	ln	ln				
+arta	swateng	0098	wa	PLH	ln	ln				
+arta	swateng	0098	=na	=3SG.GEN	=ln	=ln				
+arta	swateng	0098	a:yi:	PROX	ln	ln				
+arta	swateng	0098	ginaddyang	fishhook	np:p_a	np		p_a		
+arta	swateng	0098	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0098	=y	=SPC	=rn	=rn				
+arta	swateng	0099	#	#	##	##				
+arta	swateng	0099	0	0	0.h:s_up	0	h	s_up		
+arta	swateng	0099	M<in>a-wa	<PST>POT-PLH	v:pred	v		pred		
+arta	swateng	0099	ti	OBL.DEF	ln	ln				
+arta	swateng	0099	i:yan	fish	np.h:other	np	h	other		
+arta	swateng	0099	#	#	##	##				
+arta	swateng	0099	0	0	0:p_u	0		p_u		
+arta	swateng	0099	ida:pak	TR-roast	v:pred	v		pred		
+arta	swateng	0099	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0099	=tep	=still	=rv	=rv				
+arta	swateng	0099	=ta	=DIST	=dem_pro:g_u	=dem_pro		g_u		
+arta	swateng	0100	#	#	#nc	#nc				
+arta	swateng	0100	Ta	OBL	nc	nc				
+arta	swateng	0100	ayta	DIST.OBL	nc	nc				
+arta	swateng	0100	p<in>angi-da:pak-an	<PST>NF-roast-LV	nc	nc				
+arta	swateng	0100	ti	OBL.DEF	nc	nc				
+arta	swateng	0100	i:yan	fish	nc	nc				
+arta	swateng	0100	#	#	##neg	##neg				
+arta	swateng	0100	awan	NEG	other:predex	other		predex		
+arta	swateng	0100	=de:	=POST	=rv	=rv				
+arta	swateng	0100	=ta	=OBL	=ln	=ln				
+arta	swateng	0100	ma:-matlèm	RDP-blood	np:ncs_other	np		ncs_other		
+arta	swateng	0100	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0100	#	#	##neg	##neg				
+arta	swateng	0100	Awan	NEG	other	other				
+arta	swateng	0100	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0100	ninta	PST.TR-see	v:pred	v		pred		
+arta	swateng	0100	ti	PSN	ln	ln				
+arta	swateng	0100	Sanuwatèng	Sanuwatèng	np.h:p_u	np	h	p_u		
+arta	swateng	0101	#	#	#nc	#nc				
+arta	swateng	0101	Awan	NEG	nc	nc				
+arta	swateng	0101	=di	=3PL.GEN	nc	nc				
+arta	swateng	0101	=d	=POST	nc	nc				
+arta	swateng	0101	#	#	##	##				
+arta	swateng	0101	Makabbirèbirèn	Makabbirèbirèn	v:pred	v		pred		
+arta	swateng	0101	=di	=3PL.GEN	=pro.h:a_ap	=pro	h	a_ap		
+arta	swateng	0101	matlèm	blood	np:p_ap	np		p_ap		
+arta	swateng	0101	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0101	=y	=SPC	=rn	=rn				
+arta	swateng	0101	awan	NGE	nc	nc				
+arta	swateng	0101	=di	=POST	nc	nc				
+arta	swateng	0102	#	#	##	##				
+arta	swateng	0102	Mangay	INTR-go	v:pred	v		pred		
+arta	swateng	0102	=de:	=POST	=rv	=rv				
+arta	swateng	0102	=ti	=PROX.OBL	=ln	=ln				
+arta	swateng	0102	ina	mother	np.h:s_a	np	h	s_a		
+arta	swateng	0102	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0102	=y	=SPC	=rn	=rn				
+arta	swateng	0102	apu	grandparent	np.h:other	np	h	other		
+arta	swateng	0102	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0102	=y	=SPC	=rn	=rn				
+arta	swateng	0103	#	#	##neg	##neg				
+arta	swateng	0103	Awan	NEG	other	other				
+arta	swateng	0103	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0103	ninta	PST.TR-see	v:pred	v		pred		
+arta	swateng	0103	ti	PSN	ln	ln				
+arta	swateng	0103	Sanuwatèng	Sanuwatèng	np.h:p_u	np	h	p_u		
+arta	swateng	0104	#	#	##	##				
+arta	swateng	0104	Ayi:	PROX	ln	ln				
+arta	swateng	0104	butngul	herb	np:s_other	np		s_other		
+arta	swateng	0104	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0104	=y	=SPC	=rn	=rn				
+arta	swateng	0104	talaga	really	other	other				
+arta	swateng	0104	meses-sibèt	ADJ.RDP-strength	ap_other:pred	ap_other		pred		
+arta	swateng	0105	#	#	##	##				
+arta	swateng	0105	Inta-n	see-TR	v:pred	v		pred		
+arta	swateng	0105	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	swateng	0105	i	DEF	ln	ln				
+arta	swateng	0105	munati	like.this	ln	ln				
+arta	swateng	0105	#	#	#rc:p_u	#rc		p_u		
+arta	swateng	0105	0	0	f0:p_u	f0		p_u		
+arta	swateng	0105	d<in><um>an-an	<PST><INTR>walk-LV	v:pred	v		pred		
+arta	swateng	0105	=na	=3SG.GEN	=rv	=rv				
+arta	swateng	0105	ni	GEN.DEF	ln	ln				
+arta	swateng	0105	Sanuwatèng	Sanuwatèng	np.h:bpi_a_u	np	h	bpi_a_u		
+arta	swateng	0105	#	#	#nc	#nc				
+arta	swateng	0105	Munati	like.this	nc	nc				
+arta	swateng	0105	tunuwan	roast-LV	nc	nc				
+arta	swateng	0105	=na	=3SG.GEN	nc	nc				
+arta	swateng	0105	ti	OBL.DEF	nc	nc				
+arta	swateng	0105	i:yan	fish	nc	nc				
+arta	swateng	0105	=i	=SPC	nc	nc				
+arta	swateng	0106	#	#	#nc	#nc				
+arta	swateng	0106	Man	like	nc	nc				
+arta	swateng	0106	na	GEN	nc	nc				
+arta	swateng	0106	ayna	MED	nc	nc				
+arta	swateng	0106	attanan	place	nc	nc				
+arta	swateng	0106	=mu	=2SG.GEN	nc	nc				
+arta	swateng	0106	=ya	=DIST	nc	nc				
+arta	swateng	0106	ta	OBL	nc	nc				
+arta	swateng	0106	Dipintin	Dipintin	nc	nc				
+arta	swateng	0106	Man	like	nc	nc				
+arta	swateng	0106	na	GEN	nc	nc				
+arta	swateng	0106	=ya	=DIST	nc	nc				
+arta	swateng	0106	d<in>ama:n-an	<PST>walk-LV	nc	nc				
+arta	swateng	0106	=na	=3SG.GEN	nc	nc				
+arta	swateng	0106	=tep	=still	nc	nc				
+arta	swateng	0107	#	#	##	##				
+arta	swateng	0107	0	0	0:s_other	0		s_other		
+arta	swateng	0107	Me'-adu:yu	ADJ-distant	ap_other:pred	ap_other		pred		
+arta	swateng	0108	#	#	##	##				
+arta	swateng	0108	Ata'ay	why	other	other				
+arta	swateng	0108	awan	NEG	other	other				
+arta	swateng	0108	m<in>ap-pati	<PST>INTR-die	v:pred	v		pred		
+arta	swateng	0108	ti	PSN	ln	ln				
+arta	swateng	0108	Sanuwatèng	Sanuwatèng	np.h:s_a	np	h	s_a		
+arta	swateng	0109	#	#	##	##				
+arta	swateng	0109	A:yi:	PROX	ln	ln				
+arta	swateng	0109	butngul	herb	np:dt_p	np		dt_p		
+arta	swateng	0109	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0109	kinuskusan	<PST>grind-LV	v:pred	v		pred		
+arta	swateng	0109	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0109	butngul	herb	np:p_u	np		p_u		
+arta	swateng	0109	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0109	=y	=SPC	=rn	=rn				
+arta	swateng	0109	#	#	##	##				
+arta	swateng	0109	0	0	0:p_u	0		p_u		
+arta	swateng	0109	Ikatan	put.between	v:pred	v		pred		
+arta	swateng	0109	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0109	ti	OBL.DEF	ln	ln				
+arta	swateng	0109	ayti	PROX.OBL	dem_pro:g	dem_pro		g		
+arta	swateng	0110	#	#	##	##				
+arta	swateng	0110	Awan	NEG	other:predex	other		predex		
+arta	swateng	0110	=di	=3PL.GEN	=rv	=rv				
+arta	swateng	0110	ta	OBL	ln	ln				
+arta	swateng	0110	ma	if	nc	nc				
+arta	swateng	0110	wa	PLH	nc	nc				
+arta	swateng	0110	=na	=3SG.GEN	nc	nc				
+arta	swateng	0110	talingu	injury	np:ncs_other	np		ncs_other		
+arta	swateng	0110	=y	=SPC	=rn	=rn				
+arta	swateng	0111	#	#	##	##				
+arta	swateng	0111	N-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	swateng	0111	=de:	=POST	=rv	=rv				
+arta	swateng	0111	=ti	=PSN	=ln	=ln				
+arta	swateng	0111	apu	grandparent	np.h:s_a	np	h	s_a		
+arta	swateng	0111	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0111	=y	=SPC	=rn	=rn				
+arta	swateng	0112	#	#	##	##				
+arta	swateng	0112	Munata	like.that	other:pred	other		pred		
+arta	swateng	0112	istoria	story	np:s_other	np		s_other		
+arta	swateng	0112	ni	GEN.DEF	rn	rn				
+arta	swateng	0112	Sanuwatèng	Sanuwatèng	rn	rn				
+arta	swateng	0113	#	#	##	##				
+arta	swateng	0113	paka-bbirè-birèn	NF.POT-RDP-search-TR	v:pred	v		pred		
+arta	swateng	0113	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0113	matlèm	blood	np:p_u	np		p_u		
+arta	swateng	0113	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0113	aydi:	and	rn	rn				
+arta	swateng	0113	#	#	#rc:p_u	#rc		p_u		
+arta	swateng	0113	0	0	0:p_u	0		p_u		
+arta	swateng	0113	nangi-tunu-an	PST.INTR-roast-LV	v:pred	v		pred		
+arta	swateng	0113	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0113	ti	OBL.DEF	ln	ln				
+arta	swateng	0113	i:yan	fish	np:obl_a	np		obl_a		
+arta	swateng	0113	=i	=SPC	=rn	=rn				
+arta	swateng	0113	#	#	#rc	#rc				
+arta	swateng	0113	0	0	f0:p_u	f0		p_u		
+arta	swateng	0113	a	LIG	other	other				
+arta	swateng	0113	b<in>ètik	<PST.TR>catch	v:pred	v		pred		
+arta	swateng	0113	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0114	#	#	##	##				
+arta	swateng	0114	Aytay	now	other	other				
+arta	swateng	0114	saddya	DIST	other	other				
+arta	swateng	0114	na-gupung-an	PST.POT-cut.off-LV	v:pred	v		pred		
+arta	swateng	0114	=de:	=POST	=rv	=rv				
+arta	swateng	0114	=na	=3SG.GEN	=pro.h:a_up	=pro	h	a_up		
+arta	swateng	0114	matlèm	blood	np:p_up	np		p_up		
+arta	swateng	0114	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0114	#	#	##	##				
+arta	swateng	0114	Awan	NEG	nc	nc				
+arta	swateng	0114	=di	=3PL.GEN	nc	nc				
+arta	swateng	0114	ta	OBL	nc	nc				
+arta	swateng	0114	#	#	##	##				
+arta	swateng	0114	0	0	0.h:s_a	0	h	s_a		
+arta	swateng	0114	Ayti	PROX.OBL	ln	ln				
+arta	swateng	0114	#	#	#rc:other	#rc		other		
+arta	swateng	0114	0	0	f0:p_stv	f0		p_stv		
+arta	swateng	0114	tit-tuttud-an	sit.down-LV	v:pred	v		pred		
+arta	swateng	0114	=ni:	=PROX.GEN	=dem_pro:a_stv	=dem_pro		a_stv		
+arta	swateng	0114	%	%	%	%				
+arta	swateng	0114	=i	=SPC	=rn	=rn				
+arta	swateng	0114	ma-ma-ma:-matlèm	INTR-RDP-RDP-blood	v:pred	v		pred		
+arta	swateng	0115	#	#	#nc	#nc				
+arta	swateng	0115	tuttud-an	sit.down-LV	nc	nc				
+arta	swateng	0115	=i	=SPC	nc	nc				
+arta	swateng	0115	a	LIG	nc	nc				
+arta	swateng	0115	pangiyakkan	NF-viand	nc	nc				
+arta	swateng	0115	ti	OBL.DEF	nc	nc				
+arta	swateng	0115	wa	PLH	nc	nc				
+arta	swateng	0115	=y	=SPC	nc	nc				
+arta	swateng	0115	i:yan	fish	nc	nc				
+arta	swateng	0116	#	#	##	##				
+arta	swateng	0116	#	#	#ac	#ac				
+arta	swateng	0116	Amma	if	other	other				
+arta	swateng	0116	adi:ni	where	np:p_u	np		p_u		
+arta	swateng	0116	nangayan	PST-go-LV	v:pred	v		pred		
+arta	swateng	0116	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0116	%	%	%	%				
+arta	swateng	0116	0	0	0.h:p_u	0	h	p_u		
+arta	swateng	0116	awan	NEG	other	other				
+arta	swateng	0116	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0116	=d	=POST	=rv	=rv				
+arta	swateng	0116	ninta	PST.TR-see	v:pred	v		pred		
+arta	swateng	0117	#	#	#ac	#ac				
+arta	swateng	0117	Ta	OBL	other	other				
+arta	swateng	0117	talaga	really	other	other				
+arta	swateng	0117	sigura:do	really	other	other				
+arta	swateng	0117	a	LIG	other	other				
+arta	swateng	0117	pa-pati-n	CAUS-die-TR	:pred			pred		
+arta	swateng	0117	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0117	=mina	=HYPO	=other	=other				
+arta	swateng	0117	ti	PSN	ln	ln				
+arta	swateng	0117	Sanuwatèng	Sanuwatèng	np.h:p_u	np	h	p_u		
+arta	swateng	0117	ta	OBL	ln	ln				
+arta	swateng	0117	ayya	DIST	dem_pro:other	dem_pro		other		
+arta	swateng	0117	#	#	#ac	#ac				
+arta	swateng	0117	0	0	0.h:p_u	0	h	p_u		
+arta	swateng	0117	amma	if	other	other				
+arta	swateng	0117	ninta	PST.TR-see	v:pred	v		pred		
+arta	swateng	0117	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0118	%	%	%	%				
+arta	swateng	0118	#	#	#ac	#ac				
+arta	swateng	0118	Da	because	other	other				
+arta	swateng	0118	awan	NEG	other	other				
+arta	swateng	0118	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0118	=d	=POST	=rv	=rv				
+arta	swateng	0118	=mandi	=again	=rv	=rv				
+arta	swateng	0118	ninta	PST.TR-see	v:pred	v		pred		
+arta	swateng	0118	#	#	#rc:p_u	#rc		p_u		
+arta	swateng	0118	0	0	f0:p_u	f0		p_u		
+arta	swateng	0118	nangayan	PST-go-LV	v:pred	v		pred		
+arta	swateng	0118	ni	GEN.DEF	ln	ln				
+arta	swateng	0118	mal'em	blood	np:a_u	np		a_u		
+arta	swateng	0118	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0118	=y	=SPC	=rn	=rn				
+arta	swateng	0119	#	#	#ac	#ac				
+arta	swateng	0119	amma	if	other	other				
+arta	swateng	0119	adi:ni	where	np:p_u	np		p_u		
+arta	swateng	0119	nangayan	PST-go-LV	v:pred	v		pred		
+arta	swateng	0119	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0120	#	#	##	##				
+arta	swateng	0120	A:yi:	PROX	ln	ln				
+arta	swateng	0120	butngul	herb	np:dt_p	np		dt_p		
+arta	swateng	0120	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0120	=y	=SPC	=rn	=rn				
+arta	swateng	0120	kinuskus-an	<PST>grind-LV	v:pred	v		pred		
+arta	swateng	0120	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0120	i	DEF	ln	ln				
+arta	swateng	0120	butngul	herb	np:p_u	np		p_u		
+arta	swateng	0120	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	swateng	0120	=y	=SPC	=rn	=rn				
+arta	swateng	0120	#	#	##	##				
+arta	swateng	0120	0	0	0:p_u	0		p_u		
+arta	swateng	0120	i-wa	TR-PLH	v:pred	v		pred		
+arta	swateng	0120	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0120	ti	OBL.DEF	ln	ln				
+arta	swateng	0120	ayti	PROX.OBL	dem_pro:g_u	dem_pro		g_u		
+arta	swateng	0120	#	#	#ac	#ac				
+arta	swateng	0120	0	0	0.h:s_a	0	h	s_a		
+arta	swateng	0120	take:ta	so.that	other	other				
+arta	swateng	0120	awan	NEG	other	other				
+arta	swateng	0120	=di	=POST	=rv	=rv				
+arta	swateng	0120	na-matlèm	PST.INTR-blood	v:pred	v		pred		
+arta	swateng	0121	#	#	##	##				
+arta	swateng	0121	0	0	0.h:s_a	0	h	s_a		
+arta	swateng	0121	D<in><um>ama	<PST><INTR>	v:pred	v		pred		
+arta	swateng	0121	=d	=POST	=rv	=rv				
+arta	swateng	0122	#	#	##neg	##neg				
+arta	swateng	0122	0	0	0.h:p_u	0	h	p_u		
+arta	swateng	0122	Awan	NEG	other	other				
+arta	swateng	0122	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	swateng	0122	ninta	PST.TR-see	v:pred	v		pred		
+arta	swateng	0122	#	#	##	##				
+arta	swateng	0122	S<in><um>o:li	<PST><INTR>return	v:pred	v		pred		
+arta	swateng	0122	=d	=POST	=rv	=rv				
+arta	swateng	0122	=tid	=3PL.ABS	=pro.h:s_a	=pro	h	s_a		
+arta	swateng	0122	aytidi	PL.ABS.DEF	nc	nc				
+arta	swateng	0122	pab-bira:	NF-search	nc	nc				
+arta	swateng	0122	=i	=SPC	nc	nc				
+arta	swateng	0122	ni	GEN.DEF	nc	nc				
+arta	swateng	0122	Sanuwatèng	Sanuwatèng	nc	nc				
+arta	swateng	0123	#	#	##neg	##neg				
+arta	swateng	0123	0	0	0.h:p_up	0	h	p_up		
+arta	swateng	0123	Awan	NEG	other	other				
+arta	swateng	0123	=di	=3PL.GEN	=pro.h:a_up	=pro	h	a_up		
+arta	swateng	0123	na-dagayday	PST.POT-chase	v:pred	v		pred		

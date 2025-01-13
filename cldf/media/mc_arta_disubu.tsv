@@ -1,0 +1,433 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+arta	disubu	0001	#	#	##	##				
+arta	disubu	0001	Ay	FILL	ln	ln				
+arta	disubu	0001	ilus	yam	np:pred	np		pred		
+arta	disubu	0001	=di:ti	=before	=other	=other				
+arta	disubu	0001	#	#	##	##				
+arta	disubu	0001	saya	DIST	dem_pro:s_np	dem_pro		s_np		
+arta	disubu	0001	i	DEF	ln	ln				
+arta	disubu	0001	pang-a:n-én	NF-eat-PV	np:pred	np		pred		
+arta	disubu	0001	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	disubu	0002	#	#	##	##				
+arta	disubu	0002	pang-a:n-èn	NF-eat-PV	np:pred	np		pred		
+arta	disubu	0002	=tam	=1+2PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	disubu	0002	0	0_yam	0:s_np	0		s_np		
+arta	disubu	0002	ta	OBL	ln	ln				
+arta	disubu	0002	ayta	DIST.OBL	ln	ln				
+arta	disubu	0002	Disubu	Disubu	pn_np:l	pn_np		l		
+arta	disubu	0002	aydi:ti	before	other	other				
+arta	disubu	0003	#	#	##	##				
+arta	disubu	0003	Ayde:=	and=	=other	=other				
+arta	disubu	0003	tidi	PL.DEF	ln	ln				
+arta	disubu	0003	wa	PLH	ln	ln				
+arta	disubu	0003	=y	=SPC	=ln	=ln				
+arta	disubu	0003	giwat	root.crop	np:pred	np		pred		
+arta	disubu	0004	ippét	kind.of.root.crop	np:other	np		other		
+arta	disubu	0005	#	#	##	##				
+arta	disubu	0005	Saya	DIST	dem_pro:p_u	dem_pro		p_u		
+arta	disubu	0005	pang-a:n-èn	NF-eat-PV	vother:pred	vother		pred		
+arta	disubu	0005	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	disubu	0005	ta	OBL	ln	ln				
+arta	disubu	0005	ayta	OBL.DIST	ln	ln				
+arta	disubu	0005	Disubu	Disubu	pn_np:l	pn_np		l		
+arta	disubu	0005	aydi:ti	before	other	other				
+arta	disubu	0006	#	#	##	##				
+arta	disubu	0006	#	#	#ac	#ac				
+arta	disubu	0006	Amma	if	other	other				
+arta	disubu	0006	mam-purab	AV-hunt	v:pred	v		pred		
+arta	disubu	0006	tidi	PL.DEF	ln	ln				
+arta	disubu	0006	ama	father	np.h:s_a	np	h	s_a		
+arta	disubu	0006	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	disubu	0006	=ti	=SPC	=rn	=rn				
+arta	disubu	0007	alallayan	parent	np.h:appos	np	h	appos		
+arta	disubu	0007	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	disubu	0008	%	%	%	%				
+arta	disubu	0008	ngay	go	lv	lv				
+arta	disubu	0008	=tid	=3PL	=pro.h:other	=pro	h	other		
+arta	disubu	0008	ngay	go	lv	lv				
+arta	disubu	0008	=tid	=3PL	=pro.h:s_a	=pro	h	s_a		
+arta	disubu	0008	mang-ali	AV-dig	v:pred	v		pred		
+arta	disubu	0008	tidi	PL.DEF	ln	ln				
+arta	disubu	0008	ina	mother	np.h:bpi_s_a	np	h	bpi_s_a		
+arta	disubu	0008	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	disubu	0008	ta	ta	ln	ln				
+arta	disubu	0008	giwat	yam	np:obl_a	np		obl_a		
+arta	disubu	0008	aydi	and	rn	rn				
+arta	disubu	0008	ilus	purple.yam	rn	rn				
+arta	disubu	0009	aydi:	and	rn	rn				
+arta	disubu	0009	igit	eel	rn_np	rn_np				
+arta	disubu	0010	i:yan	fish	np:other	np		other		
+arta	disubu	0011	#	#	##	##				
+arta	disubu	0011	Saya	DIST	dem_pro:p_u	dem_pro		p_u		
+arta	disubu	0011	pang-a:n-èn	NF-eat-PV	vother:pred	vother		pred		
+arta	disubu	0011	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	disubu	0011	ti	OBL.DEF	other	other				
+arta	disubu	0011	ayta	OBL.DIST	other	other				
+arta	disubu	0012	#	#	##neg	##neg				
+arta	disubu	0012	Awan	NEG	other	other				
+arta	disubu	0012	=tep	=ANT	=other	=other				
+arta	disubu	0012	ta	OBL	ln	ln				
+arta	disubu	0012	pam-mula	NF.AV-plant	vother:pred	vother		pred		
+arta	disubu	0012	ta	OBL	ln	ln				
+arta	disubu	0012	pagay	rice	np:other	np		other		
+arta	disubu	0013	O:ni	yes	nc	nc				
+arta	disubu	0014	Kilé-killék	RDP-small	np:other	np		other		
+arta	disubu	0014	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	disubu	0015	#	#	##	##				
+arta	disubu	0015	Saya	DIST	dem_pro:p_u	dem_pro		p_u		
+arta	disubu	0015	n-inta	PST.PV-see	v:pred	v		pred		
+arta	disubu	0015	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	disubu	0015	a	LIG	other	other				
+arta	disubu	0015	pang-a:n-èn	NF-eat-PV	other	other				
+arta	disubu	0015	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	disubu	0016	ayde:=	and=	=other	=other				
+arta	disubu	0016	tidi	PL.DEF	ln	ln				
+arta	disubu	0016	ippét	planted.yam	np:other	np		other		
+arta	disubu	0016	=i	=SPC	=other	=other				
+arta	disubu	0017	Kakillék	small	ln	ln				
+arta	disubu	0017	a	LIG	ln	ln				
+arta	disubu	0017	ipét	planted.yam	ln	ln				
+arta	disubu	0018	#	#	##	##				
+arta	disubu	0018	saya	DIST	dem_pro:p_up	dem_pro		p_up		
+arta	disubu	0018	ma-alap	POT.PV-get	v:pred	v		pred		
+arta	disubu	0018	didi	PL.GEN.DEF	ln	ln				
+arta	disubu	0018	ama	father	np.h:a_up	np	h	a_up		
+arta	disubu	0018	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	disubu	0018	=ti	=SPC	=other	=other				
+arta	disubu	0018	a	LIG	other	other				
+arta	disubu	0018	laman	wild.pig	np:pred	np		pred		
+arta	disubu	0019	#	#	##	##				
+arta	disubu	0019	Saya	DIST	dem_pro:s_np	dem_pro		s_np		
+arta	disubu	0019	i	DEF	ln	ln				
+arta	disubu	0019	yèkkan	viand	np:pred	np		pred		
+arta	disubu	0019	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	disubu	0019	ayta	OBL.DIST	ln	ln				
+arta	disubu	0019	Disubu	Disubu	pn_np:l	pn_np		l		
+arta	disubu	0020	O:ni	yes	nc	nc				
+arta	disubu	0020	ta	OBL	ln	ln				
+arta	disubu	0020	talu-talun	PL-mountain	np:l	np		l		
+arta	disubu	0020	=i	=SPC	=other	=other				
+arta	disubu	0021	#	#	##	##				
+arta	disubu	0021	Agli:pay	Aglipay	pn_np:pred	pn_np		pred		
+arta	disubu	0021	#	#	##	##				
+arta	disubu	0021	A:yina	MED	ln	ln				
+arta	disubu	0021	ka:man	big	ln	ln				
+arta	disubu	0021	=i	=SPC	=ln	=ln				
+arta	disubu	0021	a	LIG	ln	ln				
+arta	disubu	0021	wagét	river	np:pred	np		pred		
+arta	disubu	0022	O:ni	yes	other	other				
+arta	disubu	0022	#	#	##	##				
+arta	disubu	0022	Pang-a:rabis-èn	NF-cross-PV	v:pred	v		pred		
+arta	disubu	0022	i	DEF	ln	ln				
+arta	disubu	0022	wa	PLH	ln	ln				
+arta	disubu	0022	=y	=SPC	=other	=other				
+arta	disubu	0022	rangtay	bridge	np:p_u	np		p_u		
+arta	disubu	0023	ayti	OBL.PROX	other	other				
+arta	disubu	0023	Pinaripad	Pinaripad	other	other				
+arta	disubu	0023	=i	=SPC	=other	=other				
+arta	disubu	0024	ayti	OBL.PROX	ln	ln				
+arta	disubu	0024	Pinaripad	Pinaripad	pn_np:l	pn_np		l		
+arta	disubu	0024	ayta	OBL.DIST	ln	ln				
+arta	disubu	0024	diddya	upstream	np:other	np		other		
+arta	disubu	0025	#	#	##	##				
+arta	disubu	0025	Saya	DIST	dem_pro:s_np	dem_pro		s_np		
+arta	disubu	0025	attanan	place	np:pred	np		pred		
+arta	disubu	0025	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	disubu	0026	#	#	##neg	##neg				
+arta	disubu	0026	Ayta	OBL.DIST	ln	ln				
+arta	disubu	0026	wa	PLH	np:other	np		other		
+arta	disubu	0026	=di:ti	=before	=other	=other				
+arta	disubu	0026	awan	NEG	v:predex	v		predex		
+arta	disubu	0026	=tep	=ANT	=other	=other				
+arta	disubu	0026	ta	OBL	ln	ln				
+arta	disubu	0026	Iloka:no	Ilokano	np.h:ncs_other	np	h	ncs_other		
+arta	disubu	0026	ti	OBL.DEF	ln	ln				
+arta	disubu	0026	ayta	OBL.DIST	dem_pro:l	dem_pro		l		
+arta	disubu	0027	#	#	##neg	##neg				
+arta	disubu	0027	Awan	NEG	other:predex	other		predex		
+arta	disubu	0027	=tep	=ANT	=other	=other				
+arta	disubu	0028	#	#	##neg	##neg				
+arta	disubu	0028	ta	OBL	ln	ln				
+arta	disubu	0028	dutul	first	ln	ln				
+arta	disubu	0028	a	LIG	ln	ln				
+arta	disubu	0028	langit	day	np:other	np		other		
+arta	disubu	0028	awan	NEG	other:predex	other		predex		
+arta	disubu	0028	=tep	=ANT	=other	=other				
+arta	disubu	0028	ta	OBL	ln	ln				
+arta	disubu	0028	=ya	=DIST	=ln	=ln				
+arta	disubu	0028	Ilokano	Ilokano	np.h:ncs_other	np	h	ncs_other		
+arta	disubu	0029	#	#	##	##				
+arta	disubu	0029	Me'-a:du	ADJ-many	ap_other:pred	ap_other		pred		
+arta	disubu	0029	i	DEF	ln	ln				
+arta	disubu	0029	i:yan	fish	np:s_ap	np		s_ap		
+arta	disubu	0029	aydi:	and	rn	rn				
+arta	disubu	0029	laman	wild.pig	rn_np	rn_np				
+arta	disubu	0029	aydi:	and	rn	rn				
+arta	disubu	0029	bidut	deer	rn_np	rn_np				
+arta	disubu	0029	aydi:	and	rn	rn				
+arta	disubu	0029	burog	burog	rn_np	rn_np				
+arta	disubu	0030	#	#	##neg	##neg				
+arta	disubu	0030	Awan	NEG	other:predex	other		predex		
+arta	disubu	0030	=tep	=ANT	=other	=other				
+arta	disubu	0030	ta	OBL	ln	ln				
+arta	disubu	0030	agani:	non-Negrito	np.h:ncs_other	np	h	ncs_other		
+arta	disubu	0031	Awan	NEG	nc	nc				
+arta	disubu	0031	ma	if	nc	nc				
+arta	disubu	0031	...	...	nc	nc				
+arta	disubu	0032	#	#	##	##				
+arta	disubu	0032	atti:	exist	other	other				
+arta	disubu	0032	atti:	exist	other	other				
+arta	disubu	0032	0	0	0.h:s_np	0	h	s_np		
+arta	disubu	0032	konta	konta	other	other				
+arta	disubu	0032	atti::	exist	cop	cop				
+arta	disubu	0032	ti	OBL.DEF	ln	ln				
+arta	disubu	0032	ayti	OBL.PROX	ln	ln				
+arta	disubu	0032	Sinabègèn	Sinabagan	pn_np:pred_l	pn_np		pred_l		
+arta	disubu	0033	#	#	##neg	##neg				
+arta	disubu	0033	Awan	NEG	other	other				
+arta	disubu	0033	=tep	=ANT	=other	=other				
+arta	disubu	0033	maka:ngay	POT.AV-go	v:pred	v		pred		
+arta	disubu	0033	0	0	0.h:a_ap	0	h	a_ap		
+arta	disubu	0033	ta	OBL	ln	ln				
+arta	disubu	0033	ayta	OBL.DIST	dem_pro:p_ap	dem_pro		p_ap		
+arta	disubu	0034	lugar	place	np:g_ap	np		g_ap		
+arta	disubu	0035	#	#	##	##				
+arta	disubu	0035	Ta:me:ta	different	ap_other:pred	ap_other		pred		
+arta	disubu	0035	i	DEF	ln	ln				
+arta	disubu	0035	attanan	place	np:s_ap	np		s_ap		
+arta	disubu	0035	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	disubu	0035	a	LIG	rn	rn				
+arta	disubu	0035	talun	mountain	rn	rn				
+arta	disubu	0036	#	#	##	##				
+arta	disubu	0036	Ayti	OBL.PROX	ln	ln				
+arta	disubu	0036	Sinabagan	Sinabagan	pn_np:pred_l	pn_np		pred_l		
+arta	disubu	0036	i	DEF	ln	ln				
+arta	disubu	0036	attanan	place	np:s_np	np		s_np		
+arta	disubu	0036	didi	PL.GEN.DEF	ln	ln				
+arta	disubu	0036	ilongot	Ilongot	ln_np.h:poss	ln_np	h	poss		
+arta	disubu	0036	=i	=SPC	=other	=other				
+arta	disubu	0037	#	#	##	##				
+arta	disubu	0037	atti::	exist	other:predex	other		predex		
+arta	disubu	0038	ba'it	inbetween	np:s_other	np		s_other		
+arta	disubu	0039	#	#	##	##				
+arta	disubu	0039	atti:	exist	other:predex	other		predex		
+arta	disubu	0039	ba'it	inbetween	np:s_other	np		s_other		
+arta	disubu	0039	#	#	#neg	#neg				
+arta	disubu	0039	a	LIG	other	other				
+arta	disubu	0039	awan	NEG	other	other				
+arta	disubu	0039	=tep	=ANT	=other	=other				
+arta	disubu	0039	maka'angay	POT.AV-go	v:pred	v		pred		
+arta	disubu	0039	0	0	0.h:a_ap	0	h	a_ap		
+arta	disubu	0039	ta	OBL	ln	ln				
+arta	disubu	0039	Disubu	Disubu	pn_np:p_ap	pn_np		p_ap		
+arta	disubu	0040	#	#	#ac	#ac				
+arta	disubu	0040	da	because	other	other				
+arta	disubu	0040	mang-anting	AV-afraid	v:pred	v		pred		
+arta	disubu	0040	=tid	=3PL.ABS	=pro.h:s_stv	=pro	h	s_stv		
+arta	disubu	0041	#	#	#ac	#ac				
+arta	disubu	0041	da	because	other	other				
+arta	disubu	0042	ay	TOP	ln	ln				
+arta	disubu	0042	pangal	arrow	np:dt_p	np		dt_p		
+arta	disubu	0043	0	0	0:p_u	0		p_u		
+arta	disubu	0043	Pang-u:sar-én	NF-use-PV	v:pred	v		pred		
+arta	disubu	0043	didi	PL.GEN.DEF	ln	ln				
+arta	disubu	0043	ama	father	np.h:a_u	np	h	a_u		
+arta	disubu	0043	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	disubu	0043	=ti	=SPC	=rn	=rn				
+arta	disubu	0043	ta	OBL	other	other				
+arta	disubu	0043	dutul	first	other	other				
+arta	disubu	0044	#	#	##neg	##neg				
+arta	disubu	0044	Awan	NEG	other:predex	other		predex		
+arta	disubu	0044	=tep	=ANT	=other	=other				
+arta	disubu	0044	ta	OBL	ln	ln				
+arta	disubu	0044	palattug	gun	np:ncs_other	np		ncs_other		
+arta	disubu	0045	#	#	##	##				
+arta	disubu	0045	Pati	even	other	other				
+arta	disubu	0045	i	DEF	ln	ln				
+arta	disubu	0045	laman	wild.pig	np:dt_p	np		dt_p		
+arta	disubu	0046	panga:l-én	arrow-PV	v:pred	v		pred		
+arta	disubu	0046	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	disubu	0046	0	0	0:p_u	0		p_u		
+arta	disubu	0047	Ay	TOP	other	other				
+arta	disubu	0047	bisay	bow	np:other	np		other		
+arta	disubu	0047	=i	=SPC	=other	=other				
+arta	disubu	0048	pangal	arrow	np:other	np		other		
+arta	disubu	0049	#	#	##	##				
+arta	disubu	0049	Saya	DIST	dem_pro:s_np	dem_pro		s_np		
+arta	disubu	0049	i	DEF	ln	ln				
+arta	disubu	0049	pa:ng-alap	NF.AV-get	np:pred	np		pred		
+arta	disubu	0049	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	disubu	0049	ta	OBL	ln	ln				
+arta	disubu	0049	yakkan	food	rn_np	rn_np				
+arta	disubu	0049	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	disubu	0049	a	LIG	rn	rn				
+arta	disubu	0049	laman	wild.pig	rn_np	rn_np				
+arta	disubu	0050	Aydi	and	other	other				
+arta	disubu	0050	bidut	deer	rn_np	rn_np				
+arta	disubu	0050	=i	=SPC	=rn	=rn				
+arta	disubu	0051	#	#	##neg	##neg				
+arta	disubu	0051	Ay	TOP	other	other				
+arta	disubu	0051	ta	OBL	other	other				
+arta	disubu	0051	dutul	first	other	other				
+arta	disubu	0052	#	#	##neg	##neg				
+arta	disubu	0052	awan	NEG	other	other				
+arta	disubu	0052	ta	OBL	other	other				
+arta	disubu	0052	amma	if	other	other				
+arta	disubu	0053	#	#	##neg	##neg				
+arta	disubu	0053	Awan	NEG	other	other				
+arta	disubu	0053	ta	OBL	ln	ln				
+arta	disubu	0053	ma-ating	POT.PV-hear	vother:pred	vother		pred		
+arta	disubu	0053	=mu	=2SG.GEN	=pro.2:ncs_up	=pro	2	ncs_up		
+arta	disubu	0053	a	LIG	rn	rn				
+arta	disubu	0053	pong	[sound]	rn	rn				
+arta	disubu	0053	Awan	NEG	other	other				
+arta	disubu	0054	ta	OBL	other	other				
+arta	disubu	0054	a:yi:	PROX	other	other				
+arta	disubu	0054	pangal	arrow	np:other	np		other		
+arta	disubu	0054	=i	=SPC	=other	=other				
+arta	disubu	0055	#	#	##neg	##neg				
+arta	disubu	0055	awan	NEG	other	other				
+arta	disubu	0055	=man	=CONTR	=other	=other				
+arta	disubu	0055	man-ténnug	AV-emit.sound	v:pred	v		pred		
+arta	disubu	0055	i	DEF	ln	ln				
+arta	disubu	0055	pangal	arrow	np:s_a	np		s_a		
+arta	disubu	0056	#	#	#nc	#nc				
+arta	disubu	0056	Basta	just	nc	nc				
+arta	disubu	0056	chu:	chuu	nc	nc				
+arta	disubu	0056	#	#	##	##				
+arta	disubu	0056	0	0	0:s_ap	0		s_ap		
+arta	disubu	0056	m-una	AV-similar.to	ap_other:pred	ap_other		pred		
+arta	disubu	0056	=ta	=DIST.OBL	=other	=other				
+arta	disubu	0056	#	#	##neg	##neg				
+arta	disubu	0056	Awan	NEG	other:predex	other		predex		
+arta	disubu	0056	=de:	=POST	=ln	=ln				
+arta	disubu	0056	ta	OBL	ln	ln				
+arta	disubu	0056	tanug	sound	np:ncs_other	np		ncs_other		
+arta	disubu	0056	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
+arta	disubu	0057	#	#	##	##				
+arta	disubu	0057	map-pati	AV-die	v:pred	v		pred		
+arta	disubu	0057	=d	=POST	=other	=other				
+arta	disubu	0057	i	DEF	ln	ln				
+arta	disubu	0057	laman	wild.pig	np:s_a	np		s_a		
+arta	disubu	0057	m-una	AV-similar.to	other	other				
+arta	disubu	0057	=ta	=DIST.OBL	=other	=other				
+arta	disubu	0058	#	#	##	##				
+arta	disubu	0058	#	#	#ac	#ac				
+arta	disubu	0058	0	0	0:s_a	0		s_a		
+arta	disubu	0058	Amma	if	other	other				
+arta	disubu	0058	map-pati	AV-die	v:pred	v		pred		
+arta	disubu	0058	=d	=POST	=other	=other				
+arta	disubu	0059	%	%	%	%				
+arta	disubu	0059	0	0	0:p_u	0		p_u		
+arta	disubu	0059	Sa:bit-én	carry-PV	v:pred	v		pred		
+arta	disubu	0059	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	disubu	0060	#	#	##	##				
+arta	disubu	0060	0	0	0:p_u	0		p_u		
+arta	disubu	0060	Sa:bit-én	carry-PV	v:pred	v		pred		
+arta	disubu	0060	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	disubu	0060	=d	=POST	=other	=other				
+arta	disubu	0061	#	#	#	#				
+arta	disubu	0061	ngay	go	vother:pred	vother		pred		
+arta	disubu	0061	0	0	0.h:s_other	0	h	s_other		
+arta	disubu	0061	ti	OBL.DEF	ln	ln				
+arta	disubu	0061	bunbun	house	np:g	np		g		
+arta	disubu	0061	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	disubu	0062	#	#	##	##				
+arta	disubu	0062	Man-du:tung	AV-singe	v:pred	v		pred		
+arta	disubu	0062	=ami	=1PL.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	disubu	0062	=d	=POST	=other	=other				
+arta	disubu	0062	0	0	0:p_a	0		p_a		
+arta	disubu	0063	#	#	##	##				
+arta	disubu	0063	i-wa	CV-PLH	v:pred	v		pred		
+arta	disubu	0063	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	disubu	0063	=d	=POST	=other	=other				
+arta	disubu	0063	0	0	0:p_u	0		p_u		
+arta	disubu	0063	ti	OBL.DEF	ln	ln				
+arta	disubu	0063	du:t	fire	np:l	np		l		
+arta	disubu	0063	=i	=SPC	=rn	=rn				
+arta	disubu	0064	#	#	##	##				
+arta	disubu	0064	Man-dakan	AV-cook/simmer	v:pred	v		pred		
+arta	disubu	0064	=ami	=1PL.ABS	=pro.1:s_a	=pro	1	s_a		
+arta	disubu	0064	=d	=POST	=other	=other				
+arta	disubu	0064	#	#	#	#				
+arta	disubu	0064	a	LIG	other	other				
+arta	disubu	0064	mangi-yakkan	AV-viand	v:pred	v		pred		
+arta	disubu	0064	0	0	0.1:a_a	0	1	a_a		
+arta	disubu	0064	ti	OBL.DEF	ln	ln				
+arta	disubu	0064	ba:lu	wild.yam	np:p_a	np		p_a		
+arta	disubu	0064	=tidi	=SPC.PL	=other	=other				
+arta	disubu	0064	ayde:	and	ln	ln				
+arta	disubu	0064	tidi	PL.DEF	ln	ln				
+arta	disubu	0064	ilus	purple.yam	ln_np	ln_np				
+arta	disubu	0064	=i	=SPC	=other	=other				
+arta	disubu	0065	#	#	#rc	#rc				
+arta	disubu	0065	0	0	f0:p_u	f0		p_u		
+arta	disubu	0065	a	LIG	other	other				
+arta	disubu	0065	ali-an	dig-LV	v:pred	v		pred		
+arta	disubu	0065	didi	PL.GEN.DEF	ln	ln				
+arta	disubu	0065	ina	mother	np.h:a_u	np	h	a_u		
+arta	disubu	0065	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	disubu	0065	=ti	=SPC	=other	=other				
+arta	disubu	0066	#	#	##	##				
+arta	disubu	0066	Saya	DIST	dem_pro:s_np	dem_pro		s_np		
+arta	disubu	0066	i	DEF	ln	ln				
+arta	disubu	0066	panga:-to:lay	PROG.NF.AV-live	np:pred	np		pred		
+arta	disubu	0066	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	disubu	0066	ta	OBL	other	other				
+arta	disubu	0066	dutul	first	other	other				
+arta	disubu	0066	a	LIG	other	other				
+arta	disubu	0066	langit	day	other	other				
+arta	disubu	0066	ayta	OBL.DIST	other	other				
+arta	disubu	0066	Disubu	Disubu	other	other				
+arta	disubu	0067	Konta	but	other	other				
+arta	disubu	0067	aytay	now	other	other				
+arta	disubu	0067	#	#	#ac	#ac				
+arta	disubu	0067	da	because	other	other				
+arta	disubu	0067	in-um-angay	PST-AV-go	v:pred	v		pred		
+arta	disubu	0067	=ami	=1PL.ABS	=pro.1:s_a	=pro	1	s_a		
+arta	disubu	0067	=d	=POST	=other	=other				
+arta	disubu	0067	ti	OBL.DEF	ln	ln				
+arta	disubu	0067	ayti	OBL.PROX	ln	ln				
+arta	disubu	0068	ayti	OBL.PROX	ln	ln				
+arta	disubu	0068	Nagtipu:nan	Nagtipunan	pn_np:l	pn_np		l		
+arta	disubu	0068	=i	=SPC	=other	=other				
+arta	disubu	0069	#	#	##neg	##neg				
+arta	disubu	0069	Ay	TOP	other	other				
+arta	disubu	0069	ta	OBL	other	other				
+arta	disubu	0069	dutul	first	other	other				
+arta	disubu	0069	awan	NEG	other:predex	other		predex		
+arta	disubu	0069	ta	OBL	ln	ln				
+arta	disubu	0069	kape	coffee	np:ncs_other	np		ncs_other		
+arta	disubu	0070	#	#	##neg	##neg				
+arta	disubu	0070	Awan	NEG	other	other				
+arta	disubu	0071	#	#	##neg	##neg				
+arta	disubu	0071	Awan	NEG	other	other				
+arta	disubu	0071	=tep	=ANT	=other	=other				
+arta	disubu	0071	awan	NEG	other:predex	other		predex		
+arta	disubu	0071	=tep	=ANT	=other	=other				
+arta	disubu	0071	ta	OBL	ln	ln				
+arta	disubu	0071	asin	salt	np:ncs_other	np		ncs_other		
+arta	disubu	0072	#	#	##	##				
+arta	disubu	0072	Basta	just	other	other				
+arta	disubu	0072	i	DEF	ln	ln				
+arta	disubu	0072	pa:ngasin	NF.AV-salt	np:pred	np		pred		
+arta	disubu	0072	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	disubu	0072	a:yi:	PROX	dem_pro:s_np	dem_pro		s_np		
+arta	disubu	0073	#	#	##	##				
+arta	disubu	0073	Kangpéppét	kind.of.plant	np:pred	np		pred		
+arta	disubu	0073	=i	=SPC	=other	=other				
+arta	disubu	0073	#	#	#rc	#rc				
+arta	disubu	0073	0	0	f0:p_u	f0		p_u		
+arta	disubu	0073	pakki:bu	NF.AV-mix	v:pred	v		pred		
+arta	disubu	0073	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	disubu	0073	#	#	##	##				
+arta	disubu	0073	Saya	DIST	dem_pro:s_a	dem_pro		s_a		
+arta	disubu	0073	pa:ngasin	NF.AV-salt	np:pred	np		pred		
+arta	disubu	0073	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	disubu	0073	#	#	#ac	#ac				
+arta	disubu	0073	uman	like	other	other				
+arta	disubu	0073	=de:	=POST	=other	=other				
+arta	disubu	0073	na	GEN	other	other				
+arta	disubu	0073	atti:	exist	other:predex	other		predex		
+arta	disubu	0073	asin	salt	np:s_other	np		s_other		
+arta	disubu	0073	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		

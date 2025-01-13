@@ -1,0 +1,372 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+arta	alisiya	0001	#	#	##	##				
+arta	alisiya	0001	#	#	#ac	#ac				
+arta	alisiya	0001	Atti:	exist	other:pred	other		pred		
+arta	alisiya	0001	=mi	=1PL.GEN	=pro.1:s_other	=pro	1	s_other		
+arta	alisiya	0001	=ti	=SPC	=other	=other				
+arta	alisiya	0001	ta	OBL	ln	ln				
+arta	alisiya	0001	Alicia	Alicia	np:l	np		l		
+arta	alisiya	0001	%	%	%	%				
+arta	alisiya	0001	nang-uma	PST.AV-field	v:pred	v		pred		
+arta	alisiya	0001	=ami	=1PL	=pro.1:a_a	=pro	1	a_a		
+arta	alisiya	0001	ta	OBL	ln	ln				
+arta	alisiya	0001	melel-layat	ADJ.RDP-wide	ln	ln				
+arta	alisiya	0001	a	LIG	ln	ln				
+arta	alisiya	0001	uma	field	np:p_a	np		p_a		
+arta	alisiya	0001	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	alisiya	0002	#	#	##	##				
+arta	alisiya	0002	#	#	#ac	#ac				
+arta	alisiya	0002	Unadda	after	other	other				
+arta	alisiya	0002	n-angay	PST-go	other	other				
+arta	alisiya	0002	=ami	=1PL	=pro.1:s_a	=pro	1	s_a		
+arta	alisiya	0002	ti	PSN	ln	ln				
+arta	alisiya	0002	ama	father	np.h:appos	np	h	appos		
+arta	alisiya	0002	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	alisiya	0002	nang-insun	PST.AV-weed	v:pred	v		pred		
+arta	alisiya	0002	%	%	%	%				
+arta	alisiya	0002	#	#	#ac	#ac				
+arta	alisiya	0002	nan-tanga	PST.AV-middle	v:pred	v		pred		
+arta	alisiya	0002	=d	=POST	=rv	=rv				
+arta	alisiya	0002	i	DEF	ln	ln				
+arta	alisiya	0002	langit	day	np:s_a	np		s_a		
+arta	alisiya	0003	%	%	%	%				
+arta	alisiya	0003	tit-tutttud	STV.AV-sit	v:pred	v		pred		
+arta	alisiya	0003	=tèn	=1SG	=pro.1:a_a	=pro	1	a_a		
+arta	alisiya	0003	ti	OBL.DEF	ln	ln				
+arta	alisiya	0003	wa	PLH	nc	nc				
+arta	alisiya	0003	=y	=SPC	nc	nc				
+arta	alisiya	0003	bub-buntun	PL-anthill	np:p_a	np		p_a		
+arta	alisiya	0003	#	#	##	##				
+arta	alisiya	0003	n-um-angay	PST-AV-go	other	other				
+arta	alisiya	0003	=tèn	=1SG	=pro.1:a_a	=pro	1	a_a		
+arta	alisiya	0003	t<in><um>uttud	<PST><AV>sit	v:pred	v		pred		
+arta	alisiya	0003	ti	OBL.DEF	ln	ln				
+arta	alisiya	0003	buntun	anthill	np:p_a	np		p_a		
+arta	alisiya	0003	=i	=SPC	=rn	=rn				
+arta	alisiya	0003	#	#	#ac	#ac				
+arta	alisiya	0003	pa:ng-insun	NF.AV-weed	v:pred	v		pred		
+arta	alisiya	0003	ti	PSN	ln	ln				
+arta	alisiya	0003	ama	father	np.h:s_a	np	h	s_a		
+arta	alisiya	0003	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	alisiya	0004	#	#	##	##				
+arta	alisiya	0004	na-sungdu	PST.AV-finish	v:pred	v		pred		
+arta	alisiya	0004	#	#	#cc:s_a	#cc		s_a		
+arta	alisiya	0004	nang-insun	PST.AV-weed	v:pred	v		pred		
+arta	alisiya	0004	ti	PSN	ln	ln				
+arta	alisiya	0004	ama	father	np.h:s_a	np	h	s_a		
+arta	alisiya	0004	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	alisiya	0004	ta	OBL	ln	ln				
+arta	alisiya	0004	malu:tèp	afternoon	np:other	np		other		
+arta	alisiya	0004	#	#	##	##				
+arta	alisiya	0004	d<in><um>igdig	<PST><AV>arrive	v:pred	v		pred		
+arta	alisiya	0004	=ami	=1PL	=pro.1:s_a	=pro	1	s_a		
+arta	alisiya	0004	#	#	##	##				
+arta	alisiya	0004	na-paditèng	PST.AV-disease	v:pred	v		pred		
+arta	alisiya	0004	=de:	=POST	=rv	=rv				
+arta	alisiya	0004	=tèn	=1SG	=pro.1:s_a	=pro	1	s_a		
+arta	alisiya	0005	#	#	##	##				
+arta	alisiya	0005	Med-dègès	ADJ-pain	other:pred	other		pred		
+arta	alisiya	0005	i	DEF	ln	ln				
+arta	alisiya	0005	ulu	head	np:s_other	np		s_other		
+arta	alisiya	0005	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	alisiya	0005	=y	=SPC	=rn	=rn				
+arta	alisiya	0005	#	#	##	##				
+arta	alisiya	0005	med-dègès	ADJ-pain	other:pred	other		pred		
+arta	alisiya	0005	i	DEF	ln	ln				
+arta	alisiya	0005	ragaw	chest	np:s_other	np		s_other		
+arta	alisiya	0005	=u	=1SG.GEN	=rn	=rn				
+arta	alisiya	0005	=y	=SPC	=rn	=rn				
+arta	alisiya	0005	#	#	##	##				
+arta	alisiya	0005	med-dègès	ADJ-pain	other:pred	other		pred		
+arta	alisiya	0005	i	DEF	ln	ln				
+arta	alisiya	0005	sapang	back	np:s_other	np		s_other		
+arta	alisiya	0005	=ku	=1SG.GEN	=rn	=rn				
+arta	alisiya	0005	=y	=SPC	=rn	=rn				
+arta	alisiya	0006	#	#	##neg	##neg				
+arta	alisiya	0006	#	#	#ac.neg	#ac.neg				
+arta	alisiya	0006	ta	since	other	other				
+arta	alisiya	0006	awan	NEG	other	other				
+arta	alisiya	0006	=di	=3PL.GEN	=pro.h:a_up	=pro	h	a_up		
+arta	alisiya	0006	=te:	=just	=rv	=rv				
+arta	alisiya	0006	=tèn	=1SG	=pro.1:p_up	=pro	1	p_up		
+arta	alisiya	0006	na-pa:-tuma-tumar	PST.PV.POT-CAUS-PLRC-take.medicine	v:pred	v		pred		
+arta	alisiya	0006	=di	=di	nc	nc				
+arta	alisiya	0006	=tèn	=1SG	nc	nc				
+arta	alisiya	0006	ta	OBL	ln	ln				
+arta	alisiya	0006	ta'lu	ta'lu	ln	ln				
+arta	alisiya	0006	a	LIG	ln	ln				
+arta	alisiya	0006	biyungèt	biyungèt	np:other	np		other		
+arta	alisiya	0007	%	%	%	%				
+arta	alisiya	0007	awan	NEG	other	other				
+arta	alisiya	0007	=te:	=just	=rv	=rv				
+arta	alisiya	0007	ma-pili	POT.PV-remove	v:pred	v		pred		
+arta	alisiya	0007	paditèng	disease	np:s_u	np		s_u		
+arta	alisiya	0007	=u	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	alisiya	0007	=y	=SPC	=rn	=rn				
+arta	alisiya	0008	#	#	##	##				
+arta	alisiya	0008	mang-a:na	AV-say	v:pred	v		pred		
+arta	alisiya	0008	ti	PSN	ln	ln				
+arta	alisiya	0008	ama	father	np.h:s_a_ds	np	h	s_a_ds		
+arta	alisiya	0008	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	alisiya	0008	#	#	##ds	##ds				
+arta	alisiya	0008	m-angay	AV-go	v:pred	v		pred		
+arta	alisiya	0008	=ita	=1+2SG	=pro.1:a_a	=pro	1	a_a		
+arta	alisiya	0008	ta	OBL	ln	ln				
+arta	alisiya	0008	ospital	hospital	np:p_a	np		p_a		
+arta	alisiya	0008	#	#	##ds	##ds				
+arta	alisiya	0008	y-angay	CV-go	v:pred	v		pred		
+arta	alisiya	0008	=ita	=1+2SG	=pro.1:s_u	=pro	1	s_u		
+arta	alisiya	0008	=d	=POST	=rn	=rn				
+arta	alisiya	0008	=ta	=DIST.OBL	=rn	=rn				
+arta	alisiya	0008	ni	PSN.OBL	ln	ln				
+arta	alisiya	0008	mangantu:law	doctor	np.h:bpi_obl	np	h	bpi_obl		
+arta	alisiya	0008	=ya	=DIST	=rn	=rn				
+arta	alisiya	0008	ta	OBL	ln	ln				
+arta	alisiya	0008	Echuage	Echuage	np:other	np		other		
+arta	alisiya	0009	#	#	##	##				
+arta	alisiya	0009	N-y-angay	PST-CV-go	v:pred	v		pred		
+arta	alisiya	0009	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	alisiya	0009	=d	=POST	=rn	=rn				
+arta	alisiya	0009	=tèn	=1SG	=pro.1:p_u	=pro	1	p_u		
+arta	alisiya	0009	=ta	=DIST.OBL	=dem_pro:g_u	=dem_pro		g_u		
+arta	alisiya	0009	#	#	#	#				
+arta	alisiya	0009	0	0	0.h:a_u	0	h	a_u		
+arta	alisiya	0009	0	0	0.1:p_u	0	1	p_u		
+arta	alisiya	0009	n-i-pa-doktor	PST-CV-CAUS-doctor	v:pred	v		pred		
+arta	alisiya	0010	#	#	##	##				
+arta	alisiya	0010	pat-turk-an	NF-inject-LV	v:pred	v		pred		
+arta	alisiya	0010	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	alisiya	0010	ta	OBL	ln	ln				
+arta	alisiya	0010	a:gas	medicine	np:p_u	np		p_u		
+arta	alisiya	0010	ayti	PROX.OBL	ln	ln				
+arta	alisiya	0010	tallip	two	ln	ln				
+arta	alisiya	0010	=i	=SPC	=ln	=ln				
+arta	alisiya	0010	a	LIG	ln	ln				
+arta	alisiya	0010	sapang	back	np:g_u	np		g_u		
+arta	alisiya	0010	=u	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	alisiya	0010	ayti	PROX.OBL	rn	rn				
+arta	alisiya	0010	ba:lag	flesh	rn	rn				
+arta	alisiya	0010	ni	GEN.DEF	rn	rn				
+arta	alisiya	0010	buli	buttocks	rn	rn				
+arta	alisiya	0010	=ku	=1SG.GEN	=rn	=rn				
+arta	alisiya	0010	=y	=SPC	=rn	=rn				
+arta	alisiya	0010	ayde:	and	rn	rn				
+arta	alisiya	0010	ti	OBL.DEF	rn	rn				
+arta	alisiya	0010	abaga	upper.arm	rn	rn				
+arta	alisiya	0010	=ku	=1SG.GEN	=rn	=rn				
+arta	alisiya	0010	ayti	PROX.OBL	rn	rn				
+arta	alisiya	0010	tallip	two	rn	rn				
+arta	alisiya	0010	a	LIG	rn	rn				
+arta	alisiya	0010	abaga	upper.arm	rn	rn				
+arta	alisiya	0010	=ku	=1SG.GEN	=rn	=rn				
+arta	alisiya	0011	#	#	##	##				
+arta	alisiya	0011	#	#	#ac	#ac				
+arta	alisiya	0011	Unadda	after	other	other				
+arta	alisiya	0011	=d	=POST	=rv	=rv				
+arta	alisiya	0011	tallip	two	other:pred	other		pred		
+arta	alisiya	0011	=di	=POST	=rv	=rv				
+arta	alisiya	0011	bulan	month	np:s_other	np		s_other		
+arta	alisiya	0011	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	alisiya	0011	=d	=POST	=rn	=rn				
+arta	alisiya	0011	%	%	%	%				
+arta	alisiya	0011	mere:-re:teg	ADJ.RDP-thin	other:pred	other		pred		
+arta	alisiya	0011	=de:	=POST	=rv	=rv				
+arta	alisiya	0011	=tèn	=1SG	=pro.1:s_other	=pro	1	s_other		
+arta	alisiya	0011	a	LIG	other	other				
+arta	alisiya	0011	permi	very	other	other				
+arta	alisiya	0011	#	#	##neg	##neg				
+arta	alisiya	0011	Awan	NEG	other:predex	other		predex		
+arta	alisiya	0011	=de:	=POST	=rv	=rv				
+arta	alisiya	0011	ta	OBL	ln	ln				
+arta	alisiya	0011	pu:lu-pulug	PL-hair	np:ncs_other	np		ncs_other		
+arta	alisiya	0011	=di	=POST	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	alisiya	0011	a:yi:	PROX	other	other				
+arta	alisiya	0012	#	#	##neg	##neg				
+arta	alisiya	0012	Nangit-timbang	PST.RCP-opposite.side	other	other				
+arta	alisiya	0012	=di	=POST	=other	=other				
+arta	alisiya	0012	a:yi:	PROX	other	other				
+arta	alisiya	0012	awan	NEG	other:predex	other		predex		
+arta	alisiya	0012	=di	=POST	=rv	=rv				
+arta	alisiya	0012	ta	OBL	ln	ln				
+arta	alisiya	0012	pulu-pulug	PL-hair	np:ncs_other	np		ncs_other		
+arta	alisiya	0012	#	#	##	##				
+arta	alisiya	0012	na-ka:-kalbo-an	PST.POT-bald-LV	v:pred	v		pred		
+arta	alisiya	0012	=di	=POST	=rv	=rv				
+arta	alisiya	0012	ay	TOP	ln	ln				
+arta	alisiya	0012	kudi	NC	np:s_up	np		s_up		
+arta	alisiya	0013	#	#	##	##				
+arta	alisiya	0013	mang-a:na	AV-say	v:pred	v		pred		
+arta	alisiya	0013	ti	PSN	ln	ln				
+arta	alisiya	0013	ama	father	np.h:s_a_ds	np	h	s_a_ds		
+arta	alisiya	0013	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	alisiya	0013	#	#	##ds	##ds				
+arta	alisiya	0013	um-u:li	AV-return	v:pred	v		pred		
+arta	alisiya	0013	=itam	=1+2PL	=pro.1:s_a	=pro	1	s_a		
+arta	alisiya	0013	=di	=POST	=rv	=rv				
+arta	alisiya	0013	#	#	#ds_ac.neg	#ds_ac.neg				
+arta	alisiya	0013	da	because	other	other				
+arta	alisiya	0013	awan	NEG	other	other				
+arta	alisiya	0013	=di	=POST	=rv	=rv				
+arta	alisiya	0013	ma-pi:-pi:piya-n	POT-PLRC-improve-LV	v:pred	v		pred		
+arta	alisiya	0013	=na	=3SG.GEN	=pro.h:s_up	=pro	h	s_up		
+arta	alisiya	0013	ay	TOP	other	other				
+arta	alisiya	0013	#	#	#ds_ac	#ds_ac				
+arta	alisiya	0013	take:ta	so.that	other	other				
+arta	alisiya	0013	#	#	#ds_ac	#ds_ac				
+arta	alisiya	0013	0	0	0.h:s_a	0	h	s_a		
+arta	alisiya	0013	amma	if	other	other				
+arta	alisiya	0013	map-pati	AV-die	v:pred	v		pred		
+arta	alisiya	0013	%	%	%	%				
+arta	alisiya	0013	0	0	0.h:a_ap	0	h	a_ap		
+arta	alisiya	0013	maka'iman	POT.AV-rest	v:pred	v		pred		
+arta	alisiya	0013	=tep	=still	=rv	=rv				
+arta	alisiya	0013	ta	OBL	ln	ln				
+arta	alisiya	0013	bunbun	house	np:p_ap	np		p_ap		
+arta	alisiya	0013	=ya	=DIST	=rn	=rn				
+arta	alisiya	0013	#	#	##	##				
+arta	alisiya	0013	Um-u:li	AV-return	v:pred	v		pred		
+arta	alisiya	0013	=ami	=1PL	=pro.1:s_a	=pro	1	s_a		
+arta	alisiya	0013	=d	=POST	=rv	=rv				
+arta	alisiya	0014	#	#	##	##				
+arta	alisiya	0014	#	#	#ac	#ac				
+arta	alisiya	0014	Ad-digdig	IMMP-arrive	v:pred	v		pred		
+arta	alisiya	0014	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	alisiya	0014	ti	OBL.DEF	ln	ln				
+arta	alisiya	0014	bunbun	house	np:p_u	np		p_u		
+arta	alisiya	0014	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	alisiya	0014	%	%	%	%				
+arta	alisiya	0014	n-um-angay	PST-AV-go	v:pred	v		pred		
+arta	alisiya	0014	=ta	=DIST.OBL	=dem_pro:p_a	=dem_pro		p_a		
+arta	alisiya	0014	koma:re	neighbor	np.h:a_a	np	h	a_a		
+arta	alisiya	0014	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	alisiya	0014	koma:re	neighbor	nc	nc				
+arta	alisiya	0014	ni	PSN.GEN	nc	nc				
+arta	alisiya	0014	ama	father	nc	nc				
+arta	alisiya	0014	=ku	=1SG.GEN	nc	nc				
+arta	alisiya	0014	koma:re	neighbor	nc	nc				
+arta	alisiya	0014	ni	PSN.GEN	nc	nc				
+arta	alisiya	0014	ina	mother	nc	nc				
+arta	alisiya	0014	=ku	=1SG.GEN	nc	nc				
+arta	alisiya	0015	NC	NC	nc	nc				
+arta	alisiya	0016	#	#	##ds	##ds				
+arta	alisiya	0016	Koma:re	neighbor	np.h:voc	np	h	voc		
+arta	alisiya	0016	ittan	PV.see	v:pred	v		pred		
+arta	alisiya	0016	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	alisiya	0016	=nen	=please	=rv	=rv				
+arta	alisiya	0016	i	DEF	ln	ln				
+arta	alisiya	0016	ana:	child	np.h:p_u	np	h	p_u		
+arta	alisiya	0016	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	alisiya	0016	=y	=SPC	=rn	=rn				
+arta	alisiya	0016	#	#	##ds	##ds				
+arta	alisiya	0016	0	0	0.h:s_a	0	h	s_a		
+arta	alisiya	0016	manga:-paditèng	PROG.AV-disease	v:pred	v		pred		
+arta	alisiya	0016	#	#	##ds	##ds				
+arta	alisiya	0016	0	0	0.h:s_a	0	h	s_a		
+arta	alisiya	0016	map-pati	AV-die	v:pred	v		pred		
+arta	alisiya	0016	=wada	=probably	=rv	=rv				
+arta	alisiya	0016	=d	=POST	=rv	=rv				
+arta	alisiya	0017	#	#	##	##				
+arta	alisiya	0017	Tinala:duwan	<PST>offer.food-LV	v:pred	v		pred		
+arta	alisiya	0017	=de:	=POST	=rv	=rv				
+arta	alisiya	0017	=tèn	=1SG	=pro.1:p_u	=pro	1	p_u		
+arta	alisiya	0017	ni	GEN.DEF	ln	ln				
+arta	alisiya	0017	koma:re	neighbor	np.h:a_u	np	h	a_u		
+arta	alisiya	0017	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	alisiya	0017	#	#	##	##				
+arta	alisiya	0017	0	0	0.d:p_u	0	d	p_u		
+arta	alisiya	0017	inta-n	see-PV	v:pred	v		pred		
+arta	alisiya	0017	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	alisiya	0018	#	#	##	##				
+arta	alisiya	0018	0	0	0.d:a_a	0	d	a_a		
+arta	alisiya	0018	Atti:	exist	other	other				
+arta	alisiya	0018	=an	=hearsay	=rv	=rv				
+arta	alisiya	0018	nam-pe:si	PST.AV-slap	v:pred	v		pred		
+arta	alisiya	0018	ti	OBL.DEF	ln	ln				
+arta	alisiya	0018	sapang	back	np:p_a	np		p_a		
+arta	alisiya	0018	=u	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	alisiya	0018	=y	=SPC	=rn	=rn				
+arta	alisiya	0019	#	#	##	##				
+arta	alisiya	0019	0	0	0.d:s_up	0	d	s_up		
+arta	alisiya	0019	Awan	NEG	other	other				
+arta	alisiya	0019	me:ta	POT.PV.see	v:pred	v		pred		
+arta	alisiya	0020	#	#	##	##				
+arta	alisiya	0020	0	0	0.d:s_np	0	d	s_np		
+arta	alisiya	0020	Karangèt	small.spirit	np:pred	np		pred		
+arta	alisiya	0020	=an	=hearsay	=rv	=rv				
+arta	alisiya	0020	#	#	##	##				
+arta	alisiya	0020	0	0	0.d:a_u	0	d	a_u		
+arta	alisiya	0020	P<in>e:sin-an	<PST>slap-LV	v:pred	v		pred		
+arta	alisiya	0020	=an	=hearsay	=rv	=rv				
+arta	alisiya	0020	i	DEF	ln	ln				
+arta	alisiya	0020	sapang	back	np:p_u	np		p_u		
+arta	alisiya	0020	=u	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	alisiya	0020	=y	=SPC	=rn	=rn				
+arta	alisiya	0020	#	#	#ac	#ac				
+arta	alisiya	0020	ènsi:na	so.that	other	other				
+arta	alisiya	0020	mina-paditèng	PST.AV-disease	v:pred	v		pred		
+arta	alisiya	0020	=tèn	=1SG	=pro.1:s_a	=pro	1	s_a		
+arta	alisiya	0021	#	#	##	##				
+arta	alisiya	0021	Mina-pi:-pi:ya	PST.POT-improve	v:pred	v		pred		
+arta	alisiya	0021	=d	=POST	=rv	=rv				
+arta	alisiya	0021	=tèn	=1SG	=pro.1:s_a	=pro	1	s_a		
+arta	alisiya	0021	#	#	##neg	##neg				
+arta	alisiya	0021	0	0	0.h:a_up	0	h	a_up		
+arta	alisiya	0021	awan	NEG	other	other				
+arta	alisiya	0021	=di	=POST	=rv	=rv				
+arta	alisiya	0021	mina-pili-pili	PST.POT-PLRC-remove	v:pred	v		pred		
+arta	alisiya	0021	ay	TOP	ln	ln				
+arta	alisiya	0021	pilèy	crippled	np:p_up	np		p_up		
+arta	alisiya	0021	#	#	##	##				
+arta	alisiya	0021	nagèbbalin	PST.AV.possible	other	other				
+arta	alisiya	0021	=de:	=POST	=other	=other				
+arta	alisiya	0021	=tèn	=1SG	=pro.1:s_a	=pro	1	s_a		
+arta	alisiya	0021	na-pilèy	PST.AV-crippled	v:pred	v		pred		
+arta	alisiya	0022	#	#	#ac	#ac				
+arta	alisiya	0022	da	because	other	other				
+arta	alisiya	0022	na-bayag	PST.AV-long	other	other				
+arta	alisiya	0022	=hug	=as.said	=rv	=rv				
+arta	alisiya	0022	=tèn	=1SG	=pro.1:s_a	=pro	1	s_a		
+arta	alisiya	0022	a	LIG	other	other				
+arta	alisiya	0022	na-paditèng	PST.AV-disease	v:pred	v		pred		
+arta	alisiya	0023	#	#	#ac	#ac				
+arta	alisiya	0023	Ènsi:na	so.that	other	other				
+arta	alisiya	0023	aytay	now	other	other				
+arta	alisiya	0023	na-pilèy	PST.AV-crippled	v:pred	v		pred		
+arta	alisiya	0023	=de:	=POST	=rv	=rv				
+arta	alisiya	0023	=tèn	=1SG	=pro.1:s_a	=pro	1	s_a		
+arta	alisiya	0024	#	#	##	##				
+arta	alisiya	0024	konta	but	other	other				
+arta	alisiya	0024	dyo:bèbbèlèt	NC	nc	nc				
+arta	alisiya	0024	ta	OBL	other	other				
+arta	alisiya	0024	salamat	thank	np:pred	np		pred		
+arta	alisiya	0024	=tèn	=1SG	=pro.1:a_np	=pro	1	a_np		
+arta	alisiya	0024	ta	OBL	ln	ln				
+arta	alisiya	0024	Dios	god	np:p_np	np		p_np		
+arta	alisiya	0024	#	#	#	#				
+arta	alisiya	0024	0	0	0:a_a	0		a_a		
+arta	alisiya	0024	nam-ara:tu	AV-create	v:pred	v		pred		
+arta	alisiya	0024	dèn	1SG.OBL	pro.1:p_a	pro	1	p_a		
+arta	alisiya	0024	#	#	#ac	#ac				
+arta	alisiya	0024	maski	even	other	other				
+arta	alisiya	0024	pilèy	crippled	np:pred	np		pred		
+arta	alisiya	0024	=tèn	=1SG	=pro.1:s_np	=pro	1	s_np		
+arta	alisiya	0025	Atti:	exist	nc	nc				
+arta	alisiya	0025	=tep	=still	nc	nc				
+arta	alisiya	0025	i	DEF	nc	nc				
+arta	alisiya	0025	#	#	##	##				
+arta	alisiya	0025	ma-i-kari	POT-CV-promise	v:pred	v		pred		
+arta	alisiya	0025	=te:	=just	=rv	=rv				
+arta	alisiya	0025	=tèn	=1SG	=pro.1:s_up	=pro	1	s_up		
+arta	alisiya	0025	#	#	#cc:obl	#cc		obl		
+arta	alisiya	0025	0	0	0.1:a_a	0	1	a_a		
+arta	alisiya	0025	a	LIG	other	other				
+arta	alisiya	0025	ti'-adu-adup	STV.AV-PLRC-help	v:pred	v		pred		
+arta	alisiya	0025	didi	PL.OBL.DEF	ln	ln				
+arta	alisiya	0025	a:na:	PL.child	np.h:p_a	np	h	p_a		
+arta	alisiya	0025	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	alisiya	0025	=y	=SPC	=rv	=rv				
+arta	alisiya	0025	aydi:	and	nc	nc				
+arta	alisiya	0025	ta	OBL	nc	nc				
+arta	alisiya	0025	ta:me:ta	different	nc	nc				
+arta	alisiya	0025	a	LIG	nc	nc				
+arta	alisiya	0025	arta	person	nc	nc				

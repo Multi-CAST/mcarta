@@ -1,0 +1,1220 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+arta	child	0001	NC	NC	nc	nc				
+arta	child	0002	#	#	##neg	##neg				
+arta	child	0002	Awan	NEG	other	other				
+arta	child	0002	=u	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	child	0002	i-bud	CV-say	v:pred	v		pred		
+arta	child	0002	#	#	#cc:p_u	#cc		p_u		
+arta	child	0002	a	LIG	other	other				
+arta	child	0002	ay	TOP	ln	ln				
+arta	child	0002	tidi	DEF.PL	ln	ln				
+arta	child	0002	kakka:nak	child.PL	np.h:dt_p	np	h	dt_p		
+arta	child	0002	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0002	ta:me:ta	different	np.h:a_a	np	h	a_a		
+arta	child	0002	i	DEF	other	other				
+arta	child	0002	m<in>aN-pa-ka:man	<PST>AV-CAUS-big	v:pred	v		pred		
+arta	child	0002	=did	=3PL.OBL	=pro.h:p_a	=pro	h	p_a		
+arta	child	0003	#	#	##	##				
+arta	child	0003	Konta	but	other	other				
+arta	child	0003	tami	1PL.TOP	pro:dt_a	pro		dt_a		
+arta	child	0003	=te	=only	=rn	=rn				
+arta	child	0003	a	LIG	rn	rn				
+arta	child	0003	passa:sawa	couple	rn	rn				
+arta	child	0003	tami	1PL.TOP	pro.1:a_a	pro	1	a_a		
+arta	child	0003	=te	=only	=rn	=rn				
+arta	child	0003	minaN-pa-ka:man	<PST>AV-CAUS-big	v:pred	v		pred		
+arta	child	0003	=did	=3PL.OBL	=pro.h:p_a	=pro	h	p_a		
+arta	child	0003	ta	OBL	ln	ln				
+arta	child	0003	sakripi:syo	sacrifice	np:obl	np		obl		
+arta	child	0003	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0004	#	#	##	##				
+arta	child	0004	Saya	DIST	dem_pro:p_u	dem_pro		p_u		
+arta	child	0004	i	DEF	other	other				
+arta	child	0004	g<in>imit	<PST.PV>do	v:pred	v		pred		
+arta	child	0004	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	child	0004	#	#	#	#				
+arta	child	0004	g<in>imit	<PST.PV>do	v:pred	v		pred		
+arta	child	0004	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	child	0004	a	LIG	ln	ln				
+arta	child	0004	sakripisu	sacrifice	np:p_u	np		p_u		
+arta	child	0005	#	#	#ac	#ac				
+arta	child	0005	take:ta	so that	other	other				
+arta	child	0005	ma-to:lay	AV-live	v:pred	v		pred		
+arta	child	0005	tidi	PL.DEF	ln	ln				
+arta	child	0005	kakka:nak	child.PL	np.h:s_a	np	h	s_a		
+arta	child	0005	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0005	a	LIG	rn	rn				
+arta	child	0005	ta'lo	three	rn	rn				
+arta	child	0006	si:pang	one	rn	rn				
+arta	child	0006	a	LIG	rn	rn				
+arta	child	0006	gilangan	male	rn	rn				
+arta	child	0006	tallip	two	rn	rn				
+arta	child	0006	a	LIG	rn	rn				
+arta	child	0006	bukka:gan	female	rn	rn				
+arta	child	0007	tidi	PL.DEF	nc	nc				
+arta	child	0007	ta'lu	three	nc	nc				
+arta	child	0007	=y	=SPC	nc	nc				
+arta	child	0007	a	LIG	nc	nc				
+arta	child	0007	aytidi	PL.DEF	nc	nc				
+arta	child	0007	tallip	three	nc	nc				
+arta	child	0007	=i	=SPC	nc	nc				
+arta	child	0007	a	LIG	nc	nc				
+arta	child	0007	buka:gan	female	nc	nc				
+arta	child	0008	#	#	##	##				
+arta	child	0008	ay	TOP	ln	ln				
+arta	child	0008	nedutul	first.child	np.h:dt_poss	np	h	dt_poss		
+arta	child	0008	=i	=SPC	=rn	=rn				
+arta	child	0008	ta'lu	three	other:pred	other		pred		
+arta	child	0008	ana:	child	np.h:s_other	np	h	s_other		
+arta	child	0008	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	child	0008	tallip	two	rn	rn				
+arta	child	0008	a	LIG	rn	rn				
+arta	child	0008	buka:gan	female	rn	rn				
+arta	child	0008	si:pang	one	rn	rn				
+arta	child	0008	a	LIG	rn	rn				
+arta	child	0008	gilangan	male	rn	rn				
+arta	child	0009	#	#	#nc	#nc				
+arta	child	0009	ay	TOP	nc	nc				
+arta	child	0009	sumaruno	next	nc	nc				
+arta	child	0009	=ti	=SPC	nc	nc				
+arta	child	0009	d<in><um>utuli-an	<PST><AV>first-LV	nc	nc				
+arta	child	0009	na	GEN	nc	nc				
+arta	child	0009	ana:	child	nc	nc				
+arta	child	0009	=na	=3SG.GEN	nc	nc				
+arta	child	0010	#	#	##	##				
+arta	child	0010	Uppat	four	other:pred	other		pred		
+arta	child	0010	=tid	=3PL	=pro.h:s_other	=pro	h	s_other		
+arta	child	0010	Tal'lu	three	rn	rn				
+arta	child	0010	a	LIG	rn	rn				
+arta	child	0010	gilangan	male	rn	rn				
+arta	child	0011	Tallip	two	rn	rn				
+arta	child	0011	a	LIG	rn	rn				
+arta	child	0011	buka:gan	female	rn	rn				
+arta	child	0012	#	#	##	##				
+arta	child	0012	aytay	now	other	other				
+arta	child	0012	satiddya	PL.DIST	dem_pro:s_np	dem_pro		s_np		
+arta	child	0012	appu	grandchild.PL	np:pred	np		pred		
+arta	child	0012	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0012	=tidiya	=SPC	=rn	=rn				
+arta	child	0012	aytiddya	PL.DIST	rn	rn				
+arta	child	0012	a	LIG	rn	rn				
+arta	child	0012	a:na:	child.PL	rn	rn				
+arta	child	0012	didi	PL.GEN	rn	rn				
+arta	child	0012	a:na:	child.PL	rn	rn				
+arta	child	0012	=mi	=1PL.GEN	=rn	=rn				
+arta	child	0012	#	#	##neg	##neg				
+arta	child	0012	konta	but	other	other				
+arta	child	0012	ayti	PROX.OBL	ln	ln				
+arta	child	0012	gilangan	male	np.h:dt_poss	np	h	dt_poss		
+arta	child	0012	=i	=SPC	=rn	=rn				
+arta	child	0012	awan	NEG	other:predex	other		predex		
+arta	child	0012	=tep	=ANT	=other	=other				
+arta	child	0012	ta	OBL	ln	ln				
+arta	child	0012	ana:	child	np.h:s_other	np	h	s_other		
+arta	child	0012	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	child	0013	#	#	##	##				
+arta	child	0013	#	#	#ac	#ac				
+arta	child	0013	Amma	if	other	other				
+arta	child	0013	bu:tit-an	pregnancy-LV	v:pred	v		pred		
+arta	child	0013	=tep	=ANT	=rv	=rv				
+arta	child	0013	i	DEF	ln	ln				
+arta	child	0013	asawa	spouse	np.h:s_u	np	h	s_u		
+arta	child	0013	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	child	0013	aytay	now	nc	nc				
+arta	child	0013	a	LIG	nc	nc				
+arta	child	0013	langit	day	nc	nc				
+arta	child	0013	aytay	now	other	other				
+arta	child	0013	a	LIG	other	other				
+arta	child	0013	kwa	PLH	other	other				
+arta	child	0014	bulan	month	np:other	np		other		
+arta	child	0015	NC	NC	nc	nc				
+arta	child	0016	#	#	##	##				
+arta	child	0016	Nam-mula-mula	PST.AV-PLRC-plant	v:pred	v		pred		
+arta	child	0016	=ami	=1PL	=pro.1:a_a	=pro	1	a_a		
+arta	child	0016	ta	OBL	ln	ln				
+arta	child	0016	pagay	rice	np:p_a	np		p_a		
+arta	child	0017	#	#	#ac	#ac				
+arta	child	0017	take:ta	so that	other	other				
+arta	child	0017	amma	if	other	other				
+arta	child	0017	ma-to:lay	AV-live	v:pred	v		pred		
+arta	child	0017	tidi	PL.DEF	ln	ln				
+arta	child	0017	kakka:nak	child.PL	np.h:s_a	np	h	s_a		
+arta	child	0017	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0018	#	#	#ac	#ac				
+arta	child	0018	Amma	if	other	other				
+arta	child	0018	maka-mula	POT.AV-plant	v:pred	v		pred		
+arta	child	0018	=ami	=1PL	=pro.1:a_ap	=pro	1	a_ap		
+arta	child	0018	ta	OBL	ln	ln				
+arta	child	0018	pagay	rice	np:p_ap	np		p_ap		
+arta	child	0018	#	#	#ac	#ac				
+arta	child	0018	0	0	0:p_a	0		p_a		
+arta	child	0018	amma	if	other	other				
+arta	child	0018	mang-ga:ni	AV-harvest	v:pred	v		pred		
+arta	child	0018	=ami	=1PL	=pro.1:a_a	=pro	1	a_a		
+arta	child	0019	#	#	##	##				
+arta	child	0019	maN-purab	AV-hunt	v:pred	v		pred		
+arta	child	0019	=man	=CONTR	=other	=other				
+arta	child	0019	=tèn	=1SG	=pro.1:a_a	=pro	1	a_a		
+arta	child	0019	ta	OBL	ln	ln				
+arta	child	0019	laman	wild pig	np:p_a	np		p_a		
+arta	child	0019	aydi	and	rn	rn				
+arta	child	0019	talun	mountain	rn	rn				
+arta	child	0019	=i	=SPC	=rn	=rn				
+arta	child	0019	#	#	#ac	#ac				
+arta	child	0019	take:ta	so that	other	other				
+arta	child	0019	atti	exist	other:predex	other		predex		
+arta	child	0019	yakkan	food	np:s_other	np		s_other		
+arta	child	0019	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0019	a	LIG	rn	rn				
+arta	child	0019	laman	wild pig	rn	rn				
+arta	child	0020	#	#	#ac.neg	#ac.neg				
+arta	child	0020	ki:gad	up to	other	other				
+arta	child	0020	a	LIG	other	other				
+arta	child	0020	awan	NEG	other	other				
+arta	child	0020	k<in><um>a:man	<PST><AV>big	v:pred	v		pred		
+arta	child	0020	tidi	PL.DEF	ln	ln				
+arta	child	0020	kakka:nak	child.PL	np.h:s_a	np	h	s_a		
+arta	child	0020	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0020	a	LIG	rn	rn				
+arta	child	0020	ta'lu	three	rn	rn				
+arta	child	0021	#	#	##	##				
+arta	child	0021	m-una	AV-similar.to	nc	nc				
+arta	child	0021	=ta	=DIST.OBL	nc	nc				
+arta	child	0022	NC	NC	nc	nc				
+arta	child	0023	#	#	##neg	##neg				
+arta	child	0023	#	#	#ac	#ac				
+arta	child	0023	Amma	if	other	other				
+arta	child	0023	manga:-paditéng	PROG.AV-sickness	v:pred	v		pred		
+arta	child	0023	tidi	PL.DEF	ln	ln				
+arta	child	0023	kakka:nak	child.PL	np.h:s_stv	np	h	s_stv		
+arta	child	0023	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0023	ay	TOP	rn	rn				
+arta	child	0023	tidi	PL.PROX	rn	rn				
+arta	child	0023	#	#	#ac	#ac				
+arta	child	0023	amma	if	other	other				
+arta	child	0023	tatin	who	np.h:s_a	np	h	s_a		
+arta	child	0023	i	DEF	other	other				
+arta	child	0023	ma-paditéng	AV-sickness	v:pred	v		pred		
+arta	child	0023	didi	PL.OBL.DEF	ln	ln				
+arta	child	0023	kakka:nak	child.PL	np.h:other	np	h	other		
+arta	child	0023	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0023	a	LIG	rn	rn				
+arta	child	0023	ta'lu	three	rn	rn				
+arta	child	0023	%	%	%	%				
+arta	child	0024	Awan	NEG	other:predex	other		predex		
+arta	child	0024	ta	OBL	ln	ln				
+arta	child	0024	pang-alap-an	NF-get-LV	np:ncs_other	np		ncs_other		
+arta	child	0024	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0024	ta	OBL	ln	ln				
+arta	child	0024	kuwarto	money	np:other	np		other		
+arta	child	0024	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0024	#	#	#ac.neg	#ac.neg				
+arta	child	0024	da	because	other	other				
+arta	child	0024	awan	NEG	other:predex	other		predex		
+arta	child	0024	=man	=CONTR	=other	=other				
+arta	child	0024	ta	OBL	ln	ln				
+arta	child	0024	kuwarto	money	np:ncs_other	np		ncs_other		
+arta	child	0024	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0024	%	%	%	%				
+arta	child	0024	mang-purab	AV-hunt	v:pred	v		pred		
+arta	child	0024	=tén	=1SG	=pro.1:a_a	=pro	1	a_a		
+arta	child	0024	ta	OBL	ln	ln				
+arta	child	0024	laman	wild pig	np:p_a	np		p_a		
+arta	child	0025	#	#	##	##				
+arta	child	0025	0	0	0:p_u	0		p_u		
+arta	child	0025	i-la:ku	CV-sell	v:pred	v		pred		
+arta	child	0025	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	child	0025	ta	OBL	ln	ln				
+arta	child	0025	kuwarto	money	np:obl_u	np		obl_u		
+arta	child	0026	#	#	##	##				
+arta	child	0026	Saya	DIST	other	other				
+arta	child	0026	pam-pa-doktor	NF-CAUS-doctor	v:pred	v		pred		
+arta	child	0026	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	child	0026	=d	=POST	=other	=other				
+arta	child	0026	i	DEF	ln	ln				
+arta	child	0026	kakka:nak	child.PL	np.h:p_u	np	h	p_u		
+arta	child	0026	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0026	#	#	#ac	#ac				
+arta	child	0026	0	0	0.h:s_a	0	h	s_a		
+arta	child	0026	amma	if	other	other				
+arta	child	0026	atti	exist	other	other				
+arta	child	0026	manga:-paditéng	PROG.AV-disease	v:pred	v		pred		
+arta	child	0027	#	#	##	##				
+arta	child	0027	#	#	#ac	#ac				
+arta	child	0027	0	0	0.h:s_a	0	h	s_a		
+arta	child	0027	Amma	if	other	other				
+arta	child	0027	ma-pi:piya	AV-good	v:pred	v		pred		
+arta	child	0027	=d	=POST	=rv	=rv				
+arta	child	0027	=mandi	=again	=other	=other				
+arta	child	0027	%	%	%	%				
+arta	child	0027	m-angay	AV-go	v:pred	v		pred		
+arta	child	0027	=ami	=1PL	=pro.1:a_a	=pro	1	a_a		
+arta	child	0027	=d	=POST	=rv	=rv				
+arta	child	0027	ti	OBL.DEF	ln	ln				
+arta	child	0027	bunbun	house	np:p_a	np		p_a		
+arta	child	0027	=mi	=1PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	child	0028	#	#	##	##				
+arta	child	0028	Man-taraba:ho	AV-work	v:pred	v		pred		
+arta	child	0028	=ami	=1PL	=pro.1:s_a	=pro	1	s_a		
+arta	child	0028	#	#	#ac	#ac				
+arta	child	0028	ta	OBL	other	other				
+arta	child	0028	pam-mula-mula	NF.AV-PLRC-plant	v:pred	v		pred		
+arta	child	0028	=ami	=1PL	=pro.1:a_a	=pro	1	a_a		
+arta	child	0028	ta	OBL	ln	ln				
+arta	child	0028	pagay	rice	np:p_a	np		p_a		
+arta	child	0028	aydi	and	rn	rn				
+arta	child	0028	kamo:ti	sweet potato	rn	rn				
+arta	child	0028	aydi	and	rn	rn				
+arta	child	0028	galiyang	taro	rn	rn				
+arta	child	0028	aydi	and	rn	rn				
+arta	child	0028	u:bi	taro	rn	rn				
+arta	child	0029	#	#	##	##				
+arta	child	0029	#	#	#ac.neg	#ac.neg				
+arta	child	0029	Amma	if	other	other				
+arta	child	0029	awan	NEG	other:predex	other		predex		
+arta	child	0029	ta	OBL	ln	ln				
+arta	child	0029	baggat	rice	np:ncs_other	np		ncs_other		
+arta	child	0029	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0029	%	%	%	%				
+arta	child	0029	aytidi	PL.DEF	ln	ln				
+arta	child	0029	kamo:ti	sweet potato	np:p_u	np		p_u		
+arta	child	0029	aydi:	and	rn	rn				
+arta	child	0029	galiyang	taro	rn	rn				
+arta	child	0029	saya	DIST	other	other				
+arta	child	0029	a	LIG	other	other				
+arta	child	0029	pang-a:n-én	NF-eat-PV	v:pred	v		pred		
+arta	child	0029	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	child	0029	a	LIG	other	other				
+arta	child	0029	#	#	##	##				
+arta	child	0029	0	0	0:p_u	0		p_u		
+arta	child	0029	mangi-yakkan	AV-eat.with.viand	v:pred	v		pred		
+arta	child	0029	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	child	0029	ta	OBL	ln	ln				
+arta	child	0029	laman	wild pig	np:other	np		other		
+arta	child	0030	#	#	##	##				
+arta	child	0030	Muna	AV-similar.to	ap_other:pred	ap_other		pred		
+arta	child	0030	=ta	=DIST.OBL	=other	=other				
+arta	child	0030	i	DEF	ln	ln				
+arta	child	0030	bu:hay	life	np:s_other	np		s_other		
+arta	child	0030	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0030	aydi:ti	OBL.DEF	other	other				
+arta	child	0030	ta	OBL	other	other				
+arta	child	0030	dutul	before	other	other				
+arta	child	0030	a	LIG	other	other				
+arta	child	0030	langit	day	other	other				
+arta	child	0031	#	#	#ac	#ac				
+arta	child	0031	ta	when	other	other				
+arta	child	0031	kaki:lék	small	ap_other:pred	ap_other		pred		
+arta	child	0031	=tep	=still	=other	=other				
+arta	child	0031	tidi	PL.DEF	ln	ln				
+arta	child	0031	kakka:nak	child.PL	np.h:s_other	np	h	s_other		
+arta	child	0031	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0032	NC	NC	nc	nc				
+arta	child	0033	#	#	##neg	##neg				
+arta	child	0033	Aytidi	PL.DEF	ln	ln				
+arta	child	0033	kakka:nak	child.PL	np:s_other	np		s_other		
+arta	child	0033	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0033	a	LIG	rn	rn				
+arta	child	0033	tal'lu	three	rn	rn				
+arta	child	0034	awan	NEG	other	other				
+arta	child	0034	ta	OBL	other	other				
+arta	child	0034	meses-subég	ADJ.RDP-anger	other:pred	other		pred		
+arta	child	0034	did	3PL.OBL	pro.h:obl	pro	h	obl		
+arta	child	0035	#	#	##	##				
+arta	child	0035	me'-a:nus	ADJ-kindness	ap_other:pred	ap_other		pred		
+arta	child	0035	=tid	=3PL	=pro.h:s_other	=pro	h	s_other		
+arta	child	0035	a	LIG	rn	rn				
+arta	child	0035	ta'lo	three	rn	rn				
+arta	child	0036	#	#	#ac	#ac				
+arta	child	0036	ki:gad	up to	other	other				
+arta	child	0036	a	LIG	other	other				
+arta	child	0036	nang-asawa	PST.AV-spouse	v:pred	v		pred		
+arta	child	0036	=tid	=3PL	=pro.h:s_a	=pro	h	s_a		
+arta	child	0037	#	#	#ac	#ac				
+arta	child	0037	amma	if	other	other				
+arta	child	0037	i-sugnud	CV-allow	v:pred	v		pred		
+arta	child	0037	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	child	0037	=tid	=3PL	=pro.1:p_u	=pro	1	p_u		
+arta	child	0037	#	#	#cc:obl	#cc		obl		
+arta	child	0037	a	LIG	other	other				
+arta	child	0037	m-angay	AV-go	other	other				
+arta	child	0037	=tid	=3PL	=pro.h:s_a	=pro	h	s_a		
+arta	child	0037	mam-taraba:ho	AV-work	v:pred	v		pred		
+arta	child	0037	#	#	#	#				
+arta	child	0037	maddit	unmarried females	np:pred	np		pred		
+arta	child	0037	=de:	=POST	=other	=other				
+arta	child	0037	=tid	=3PL	=pro.h:s_np	=pro	h	s_np		
+arta	child	0038	#	#	##	##				
+arta	child	0038	m-angay	AV-go	other	other				
+arta	child	0038	=tid	=3PL	=pro.h:s_a	=pro	h	s_a		
+arta	child	0038	man-taraba:ho	AV-work	v:pred	v		pred		
+arta	child	0038	#	#	#ac	#ac				
+arta	child	0038	take:ta	so that	other	other				
+arta	child	0038	to:p-an	accompany-LV	v:pred	v		pred		
+arta	child	0038	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	child	0038	=ami	=1PL	nc	nc				
+arta	child	0038	a	LIG	other	other				
+arta	child	0038	passa:sawa	married couple	np.h:bpi_a_u	np	h	bpi_a_u		
+arta	child	0038	#	#	#ac	#ac				
+arta	child	0038	0	0	0.h:a_a	0	h	a_a		
+arta	child	0038	a	LIG	other	other				
+arta	child	0038	man-taraba:ho	AV-work	v:pred	v		pred		
+arta	child	0038	ta	OBL	ln	ln				
+arta	child	0038	pang-a:n-én	NF-eat-TR	np:p_a	np		p_a		
+arta	child	0038	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0038	#	#	#ac	#ac				
+arta	child	0038	da	because	other	other				
+arta	child	0038	kak-ka:man	big	ap_other:pred	ap_other		pred		
+arta	child	0038	=di	=POT	=other	=other				
+arta	child	0038	a	LIG	other	other				
+arta	child	0038	tidi	PL.DEF	ln	ln				
+arta	child	0038	a:na:	child.PL	np:s_other	np		s_other		
+arta	child	0038	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0039	NC	NC	nc	nc				
+arta	child	0040	#	#	##neg	##neg				
+arta	child	0040	tidi	PL.DEF	ln	ln				
+arta	child	0040	tallip	two	ln	ln				
+arta	child	0040	=i	=SPC	=ln	=ln				
+arta	child	0040	a	LIG	ln	ln				
+arta	child	0040	buka:gan	famale	np.h:dt_s	np	h	dt_s		
+arta	child	0040	awan	NEG	other	other				
+arta	child	0040	=tid	=3PL	=pro.h:s_other	=pro	h	s_other		
+arta	child	0040	naka-pang-a:dal	PST.POT.AV-NF.AV-learn	v:pred	v		pred		
+arta	child	0040	#	#	#ac	#ac				
+arta	child	0040	da	because	other	other				
+arta	child	0041	aydi:ti	OBL.DEF	other	other				
+arta	child	0041	ta	OBL	ln	ln				
+arta	child	0041	dutul	before	np:other	np		other		
+arta	child	0041	manga:-anting	PROG.AV-afraid	v:pred	v		pred		
+arta	child	0041	=ami	=1PL	=pro.1:a_ap	=pro	1	a_ap		
+arta	child	0041	ta	OBL	ln	ln				
+arta	child	0041	ay	TOP	ln	ln				
+arta	child	0041	impi:i	NPA	np:p_ap	np		p_ap		
+arta	child	0041	aydi	and	rn	rn				
+arta	child	0041	sinda:lu	Sundalo	rn	rn				
+arta	child	0041	#	#	##	##				
+arta	child	0041	n-um-angay	PST-AV-go	v:pred	v		pred		
+arta	child	0041	=ami	=1PL	=pro.1:a_a	=pro	1	a_a		
+arta	child	0041	ti	OBL.DEF	ln	ln				
+arta	child	0041	buki-bukid	PL-mountain	np:p_a	np		p_a		
+arta	child	0041	=i	=SPC	=rn	=rn				
+arta	child	0041	#	#	##neg	##neg				
+arta	child	0041	Awan	NEG	other	other				
+arta	child	0041	0	0	0.h:s_ap	0	h	s_ap		
+arta	child	0041	ti	OBL.DEF	ln	ln				
+arta	child	0041	naka-pang-iskuela	PST.POT.AV-NF.AV-school	v:pred	v		pred		
+arta	child	0042	#	#	##	##				
+arta	child	0042	Ay	TOP	ln	ln				
+arta	child	0042	gilèngan	male	np.h:dt_other	np	h	dt_other		
+arta	child	0042	=i	=SPC	=rn	=rn				
+arta	child	0042	a	LIG	rn	rn				
+arta	child	0042	ana:	child	rn	rn				
+arta	child	0042	=mi	=1PL.GEN	=rn	=rn				
+arta	child	0043	Saya	DIST	other	other				
+arta	child	0043	0	0	0.h:p_up	0	h	p_up		
+arta	child	0043	i	DEF	other	other				
+arta	child	0043	na-pa-iskuela	PST.POT.PV-CAUS-school	v:pred	v		pred		
+arta	child	0043	=mi	=1PL.GEN	=pro.1:a_up	=pro	1	a_up		
+arta	child	0043	#	#	#ac	#ac				
+arta	child	0043	da	because	other	other				
+arta	child	0043	n-um-angay	PST-AV-go	v:pred	v		pred		
+arta	child	0043	=ami	=1PL	=pro.1:a_a	=pro	1	a_a		
+arta	child	0043	=d	=POST	=other	=other				
+arta	child	0043	ti	OBL.DEF	ln	ln				
+arta	child	0043	ayti	PROX.OBL	ln	ln				
+arta	child	0043	Barangay	Barangay	np:p_a	np		p_a		
+arta	child	0043	na	GEN	rn	rn				
+arta	child	0043	Disimungal	Disimungal	rn_np:poss	rn_np		poss		
+arta	child	0043	aydi:ti	before	other	other				
+arta	child	0044	#	#	##	##				
+arta	child	0044	0	0	0.h:p_u	0	h	p_u		
+arta	child	0044	Da	because	other	other				
+arta	child	0044	p<in>ang-iskuela	<PST.PV>CAUS-school	v:pred	v		pred		
+arta	child	0044	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	child	0044	ayti	PROX.OBL	ln	ln				
+arta	child	0044	Barangay	Barangay	np:l	np		l		
+arta	child	0045	#	#	##	##				
+arta	child	0045	Saya	DIST	other	other				
+arta	child	0045	nap-pa-eskuela	AV-CAUS-school	v:pred	v		pred		
+arta	child	0045	ti	PSN	ln	ln				
+arta	child	0045	ana:	child	np.h:s_a	np	h	s_a		
+arta	child	0045	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0045	a	LIG	rn	rn				
+arta	child	0045	gilèngan	male	rn	rn				
+arta	child	0045	ti	PSN	ln	ln				
+arta	child	0045	Bulleo	Bulleo	np.h:appos	np	h	appos		
+arta	child	0046	#	#	##	##				
+arta	child	0046	P<in>a-eskela	<PST.PV>CAUS-school	v:pred	v		pred		
+arta	child	0046	=na	=3SG.GEN	=pro.h:s_u	=pro	h	s_u		
+arta	child	0046	#	#	##	##				
+arta	child	0046	kigad	up to	ln	ln				
+arta	child	0046	ta	OBL	ln	ln				
+arta	child	0046	grad	grade	np:p_u	np		p_u		
+arta	child	0046	5	five	rn	rn				
+arta	child	0046	#	#	#rc	#rc				
+arta	child	0046	0	0	0:p_up	0		p_up		
+arta	child	0046	i	DEF	other	other				
+arta	child	0046	na-abut	PST.POT.PV-reach	v:pred	v		pred		
+arta	child	0046	=na	=3SG.GEN	=pro.h:a_up	=pro	h	a_up		
+arta	child	0047	#	#	##neg	##neg				
+arta	child	0047	0	0	0:s_ap	0		s_ap		
+arta	child	0047	Awan	NEG	other	other				
+arta	child	0047	=di	=POST	=other	=other				
+arta	child	0047	naka-tu:luy	PST.POT.AV-continue	v:pred	v		pred		
+arta	child	0047	#	#	#ac.neg	#ac.neg				
+arta	child	0047	da	because	other	other				
+arta	child	0047	awan	NEG	other:predex	other		predex		
+arta	child	0047	=mandi	=again	=other	=other				
+arta	child	0047	ta	OBL	ln	ln				
+arta	child	0047	kuwarto	money	np:ncs_other	np		ncs_other		
+arta	child	0047	=mi	=1PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	child	0047	#	#	##neg	##neg				
+arta	child	0047	Awan	NEG	other:predex	other		predex		
+arta	child	0047	=de:	=POST	=rv	=rv				
+arta	child	0047	ta	OBL	ln	ln				
+arta	child	0047	kuwarto	money	np:ncs_other	np		ncs_other		
+arta	child	0047	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0048	#	#	##	##				
+arta	child	0048	Saya	DIST	other	other				
+arta	child	0048	g<in><um>i:nek	<PST><AV>stop	v:pred	v		pred		
+arta	child	0048	=di	=POT	=other	=other				
+arta	child	0048	#	#	#cc:p_a	#cc		p_a		
+arta	child	0048	nang-iskuela	PST.AV-school	v:pred	v		pred		
+arta	child	0048	ay	TOP	ln	ln				
+arta	child	0048	ana:	child	np.h:a_a	np	h	a_a		
+arta	child	0048	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0048	a	LIG	rn	rn				
+arta	child	0048	gilangan	male	rn	rn				
+arta	child	0048	aydi:ti							
+arta	child	0049	NC	NC	nc	nc				
+arta	child	0050	#	#	#nc	#nc				
+arta	child	0050	Ay	TOP	nc	nc				
+arta	child	0050	uli:ti	male teenager	nc	nc				
+arta	child	0050	pak-ka:rawèg	NF.AV-play	nc	nc				
+arta	child	0050	=di	=3PL.GEN	nc	nc				
+arta	child	0050	ay	TOP	nc	nc				
+arta	child	0050	ta	OBL	nc	nc				
+arta	child	0050	dutul	before	nc	nc				
+arta	child	0050	a	LIG	nc	nc				
+arta	child	0050	langit	day	nc	nc				
+arta	child	0050	#	#	#neg	#neg				
+arta	child	0050	Awan	NEG	other	other				
+arta	child	0050	=tid	=3PL	=pro.h:s_up	=pro	h	s_up		
+arta	child	0050	me:-te:-tuntu:ru	POT.CV-PLRC-learn	v:pred	v		pred		
+arta	child	0051	#	#	##	##				
+arta	child	0051	Ay	TOP	ln	ln				
+arta	child	0051	tidi	PL.DEF	ln	ln				
+arta	child	0051	kakka:nak	child.PL	np:dt_s	np		dt_s		
+arta	child	0051	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0051	#	#	#ac	#ac				
+arta	child	0051	amma	if	other	other				
+arta	child	0052	pa-gi:nak-èn	CAUS-stop-PV	v:pred	v		pred		
+arta	child	0052	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	child	0052	=tid	=3PL	=pro.h:p_u	=pro	h	p_u		
+arta	child	0052	#	#	#ac	#ac				
+arta	child	0052	da	because	other	other				
+arta	child	0052	maski	even	other	other				
+arta	child	0052	mepep-pu:nèdi-pu:nèdi	ADJ-RDP-rain	ap_other:pred	ap_other		pred		
+arta	child	0052	%	%	%	%				
+arta	child	0052	maka-kèrè-kèrèwèg	POT.AV-PLRC-play	v:pred	v		pred		
+arta	child	0052	=tid	=3PL	=pro.h:a_ap	=pro	h	a_ap		
+arta	child	0052	ta	OBL	ln	ln				
+arta	child	0052	lattong	outside	np:p_ap	np		p_ap		
+arta	child	0053	#	#	##neg	##neg				
+arta	child	0053	Awan	NEG	other	other				
+arta	child	0053	=tid	=3PL	=pro.h:s_up	=pro	h	s_up		
+arta	child	0053	ma:na:nawa	POT.PV.be.prevented	v:pred	v		pred		
+arta	child	0053	=d	=POST	=other	=other				
+arta	child	0053	#	#	#ac	#ac				
+arta	child	0053	a	LIG	other	other				
+arta	child	0053	mekek-karawèg	ADJ.RDP-play	ap_other:pred	ap_other		pred		
+arta	child	0053	=tid	=3PL	=rv	=rv				
+arta	child	0053	tidi	PL.DEF	ln	ln				
+arta	child	0053	kakka:nak	child.PL	np.h:bpi_s_other	np	h	bpi_s_other		
+arta	child	0053	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0054	#	#	##	##				
+arta	child	0054	#	#	#ac	#ac				
+arta	child	0054	Maski	even	other	other				
+arta	child	0054	angin	go	other	other				
+arta	child	0054	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	child	0054	=tid	=3PL	=pro.h:p_u	=pro	h	p_u		
+arta	child	0054	pa-sèdèp-èn	CAUS-enter-PV	v:pred	v		pred		
+arta	child	0054	ti	OBL.DEF	ln	ln				
+arta	child	0054	bunbun	house	np:g_u	np		g_u		
+arta	child	0054	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0054	%	%	%	%				
+arta	child	0055	m-angay	AV-go	v:pred	v		pred		
+arta	child	0055	=te:	=only	=other	=other				
+arta	child	0055	=tid	=3PL	=pro.h:a_a	=pro	h	a_a		
+arta	child	0055	ta	OBL	ln	ln				
+arta	child	0055	lattong	outside	np:p_a	np		p_a		
+arta	child	0055	#	#	#ac.neg	#ac.neg				
+arta	child	0055	a	LIG	other	other				
+arta	child	0055	awan	NEG	other:predex	other		predex		
+arta	child	0055	ta	OBL	ln	ln				
+arta	child	0055	ba:-baruwasi	PL-clothing	np:ncs_other	np		ncs_other		
+arta	child	0055	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	child	0055	#	#	#ac	#ac				
+arta	child	0055	0	0	0.h:s_ap	0	h	s_ap		
+arta	child	0055	a	LIG	other	other				
+arta	child	0055	paka-k-kèrèwèg	NF.POT.AV-RDP-play	v:pred	v		pred		
+arta	child	0055	ti	OBL.DEF	ln	ln				
+arta	child	0055	diso:no:	inside	np:other	np		other		
+arta	child	0055	=ni	=PROX.GEN	=rn	=rn				
+arta	child	0056	#	#	##	##				
+arta	child	0056	m-angay	AV-go	v:pred	v		pred		
+arta	child	0056	=tid	=3PL	=pro.h:a_a	=pro	h	a_a		
+arta	child	0056	ti	OBL.DEF	ln	ln				
+arta	child	0056	kettalutalu:nan	forest	np:p_a	np		p_a		
+arta	child	0056	=i	=SPC	=rn	=rn				
+arta	child	0056	diso:no	inside	np:appos	np		appos		
+arta	child	0056	=na	=3SG.GEN	=rn_pro:poss	=rn_pro		poss		
+arta	child	0056	#	#	##	##				
+arta	child	0056	masa-sa:-sèdsèd	PROG.AV-PLRC-enter	v:pred	v		pred		
+arta	child	0056	=tid	=3PL	=pro.h:a_a	=pro	h	a_a		
+arta	child	0056	ti	OBL.DEF	ln	ln				
+arta	child	0056	talun	mountain	np:p_a	np		p_a		
+arta	child	0056	=ya	=DIST	=rn	=rn				
+arta	child	0057	#	#	#ac.neg	#ac.neg				
+arta	child	0057	ki:gad	up to	other	other				
+arta	child	0057	a	LIG	other	other				
+arta	child	0057	awan	NEG	other	other				
+arta	child	0057	=de:	=POST	=other	=other				
+arta	child	0057	=tid	=3PL	=pro.h:s_a	=pro	h	s_a		
+arta	child	0057	ma-dègnin	AV-cold	v:pred	v		pred		
+arta	child	0057	a	LIG	other	other				
+arta	child	0058	#	#	##	##				
+arta	child	0058	m-angay	AV-go	other	other				
+arta	child	0058	=de:	=POST	=other	=other				
+arta	child	0058	=tid	=3PL	=pro.h:a_a	=pro	h	a_a		
+arta	child	0058	mad-dingding	AV-put.on.fire	v:pred	v		pred		
+arta	child	0058	ti	OBL.DEF	ln	ln				
+arta	child	0058	du:t	fire	np:p_a	np		p_a		
+arta	child	0058	=i	=SPC	=rn	=rn				
+arta	child	0059	#	#	##	##				
+arta	child	0059	Tungpa-n	ignite-PV	v:pred	v		pred		
+arta	child	0059	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	child	0059	du:t	fire	np:p_u	np		p_u		
+arta	child	0059	=i	=SPC	=other	=other				
+arta	child	0059	#	#	#	#				
+arta	child	0059	y-angay	CV-go	other	other				
+arta	child	0059	=de:	=POST	=other	=other				
+arta	child	0059	=tid	=3PL	=pro.h:s_a	=pro	h	s_a		
+arta	child	0059	man-dingding	AV-heat	v:pred	v		pred		
+arta	child	0060	#	#	##	##				
+arta	child	0060	Puna-n	say-PV	v:pred	v		pred		
+arta	child	0060	=na	=3SG.GEN	=rv	=rv				
+arta	child	0060	i	DEF	other	other				
+arta	child	0060	ni	DEF.GEN	ln	ln				
+arta	child	0060	babakat	old woman	np.h:bpi_a_u	np	h	bpi_a_u		
+arta	child	0060	=i	=SPC	=rn	=rn				
+arta	child	0060	#	#	#cc:p_u	#cc		p_u		
+arta	child	0060	a	LIG	nc	nc				
+arta	child	0060	sadman	TOP	nc	nc				
+arta	child	0060	=ina	=MED	nc	nc				
+arta	child	0060	paka-kèrè-kèrèwèg	NF.POT.AV-PRCL-play	np:pred	np		pred		
+arta	child	0060	=mu	=2SG.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	child	0060	ti	OBL.DEF	rn	rn				
+arta	child	0060	talun	mountain	rn_np	rn_np				
+arta	child	0060	=i	=SPC	=rn	=rn				
+arta	child	0060	#	#	#	#				
+arta	child	0060	mepep-pu:nèd	ADJ.RDP-rain	ap_other:pred	ap_other		pred		
+arta	child	0060	=i	=SPC	=rn	=rn				
+arta	child	0061	#	#	#nc	#nc				
+arta	child	0061	Saya	DIST	nc	nc				
+arta	child	0062	#	#	##	##				
+arta	child	0062	m-angay	AV-go	v:pred	v		pred		
+arta	child	0062	=tid	=3PL	=pro.h:a_a	=pro	h	a_a		
+arta	child	0062	ta	OBL	ln	ln				
+arta	child	0062	wagèt	water	np:p_a	np		p_a		
+arta	child	0062	#	#	#	#				
+arta	child	0062	0	0	0.h:s_a	0	h	s_a		
+arta	child	0062	man-di:muy	AV-bathe	v:pred	v		pred		
+arta	child	0063	#	#	##	##				
+arta	child	0063	manga:-dègnin	PROG.AV-coldness	v:pred	v		pred		
+arta	child	0063	=de:	=POST	=other	=other				
+arta	child	0063	=tid	=3PL	=other	=other				
+arta	child	0063	Sa=	TOP=	=ln	=ln				
+arta	child	0063	=tep	=ANT	=ln	=ln				
+arta	child	0063	=de:	=POST	=ln	=ln				
+arta	child	0063	=tidi	=PROX	=ln	=ln				
+arta	child	0063	kakka:nak	child.PL	np.h:bpi_s_a	np	h	bpi_s_a		
+arta	child	0064	Ki:gad	up to	other	other				
+arta	child	0064	amma	like	other	other				
+arta	child	0064	alas kuwatro	four o'clock	np:other	np		other		
+arta	child	0064	=d	=POST	=rn	=rn				
+arta	child	0065	#	#	##	##				
+arta	child	0065	Bahag	come.near	v:pred	v		pred		
+arta	child	0065	=tid	=3PL	=pro.h:a_a	=pro	h	a_a		
+arta	child	0065	=dya	=3SG.OBL	=pro.h:p_a	=pro	h	p_a		
+arta	child	0065	=y	=SPC	=other	=other				
+arta	child	0065	#	#	#	#				
+arta	child	0065	0	0	0.h:a_a	0	h	a_a		
+arta	child	0065	m-angay	AV-go	v:pred	v		pred		
+arta	child	0065	ti	OBL.DEF	ln	ln				
+arta	child	0065	bunbun	house	np:p_a	np		p_a		
+arta	child	0065	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0065	malu:tèp	afternoon	other	other				
+arta	child	0065	=di	=POST	=other	=other				
+arta	child	0066	#	#	##neg	##neg				
+arta	child	0066	Awan	NEG	other	other				
+arta	child	0066	=di	=3PL.GEN	=pro.h:a_up	=pro	h	a_up		
+arta	child	0066	=d	=POST	=other	=other				
+arta	child	0066	ma-asika:so	POT.PV-pay.attention	v:pred	v		pred		
+arta	child	0066	#	#	#cc:p_up	#cc		p_up		
+arta	child	0066	0	0	0.h:s_a	0	h	s_a		
+arta	child	0066	mamangan	AV.eat	v:pred	v		pred		
+arta	child	0066	#	#	#ac	#ac				
+arta	child	0066	da	because	other	other				
+arta	child	0066	si:pang	one	ln	ln				
+arta	child	0066	a	LIG	ln	ln				
+arta	child	0066	obran	work	np:pred	np		pred		
+arta	child	0066	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	child	0066	paka-di:-di:muy	NF.POT.AV-PLRC-bathe	np:s_np	np		s_np		
+arta	child	0066	ti	OBL.DEF	rn	rn				
+arta	child	0066	wagèt	river	rn_np	rn_np				
+arta	child	0066	=i	=SPC	=rn	=rn				
+arta	child	0067	#	#	#nc	#nc				
+arta	child	0067	tip-purpur	STV-sleep	nc	nc				
+arta	child	0067	=te	=only	nc	nc				
+arta	child	0067	#	#	##neg	##neg				
+arta	child	0067	Awan	NEG	other:predex	other		predex		
+arta	child	0067	ta	OBL	ln	ln				
+arta	child	0067	ulès	blanket	np:ncs_other	np		ncs_other		
+arta	child	0067	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	child	0068	NC	NC	nc	nc				
+arta	child	0069	#	#	#nc	#nc				
+arta	child	0069	Ay	NC	nc	nc				
+arta	child	0069	pulo:t	loincloth	nc	nc				
+arta	child	0069	=i	=SPC	nc	nc				
+arta	child	0070	#	#	##neg	##neg				
+arta	child	0070	Awan	NEG	other:predex	other		predex		
+arta	child	0070	ta	OBL	ln	ln				
+arta	child	0070	pulot	loincloth	np:ncs_other	np		ncs_other		
+arta	child	0070	#	#	##	##				
+arta	child	0070	atti:	exist	other:predex	other		predex		
+arta	child	0070	pulo-pulot	PL-loincloth	np:s_other	np		s_other		
+arta	child	0070	ay	TOP	nc	nc				
+arta	child	0070	wa	PLH	nc	nc				
+arta	child	0070	=y	=SPC	nc	nc				
+arta	child	0070	ulit	bark	np:appos	np		appos		
+arta	child	0070	ni	DEF.GEN	rn	rn				
+arta	child	0070	ayu	tree	rn_np	rn_np				
+arta	child	0070	=y	=SPC	=rn	=rn				
+arta	child	0070	#	#	#rc	#rc				
+arta	child	0070	0	0	f0:s_u	f0		s_u		
+arta	child	0070	a	LIG	other	other				
+arta	child	0070	t<in>engteng	<PST.PV>hit	v:pred	v		pred		
+arta	child	0070	#	#	#rc	#rc				
+arta	child	0070	0	0	0:s_u	0		s_u		
+arta	child	0070	a	LIG	other	other				
+arta	child	0070	pap-puna-n	NF-similar.to-PV	v:pred	v		pred		
+arta	child	0070	=di	=POST	=rv	=rv				
+arta	child	0070	ti	OBL.DEF	ln	ln				
+arta	child	0070	wa	PLH	nc	nc				
+arta	child	0070	=y	=SPC	nc	nc				
+arta	child	0070	karagatan	stone	np:other	np		other		
+arta	child	0071	#	#	##	##				
+arta	child	0071	0	0	0:p_u	0		p_u		
+arta	child	0071	Tot-tokto:k-an	PLRC-hit-LV	v:pred	v		pred		
+arta	child	0071	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	child	0072	#	#	##neg	##neg				
+arta	child	0072	Awan	NEG	other:predex	other		predex		
+arta	child	0072	=di	=POST	=other	=other				
+arta	child	0072	ti	DEF.OBL	ln	ln				
+arta	child	0072	wagèt	water	np:ncs_other	np		ncs_other		
+arta	child	0072	#	#	##	##				
+arta	child	0072	0	0	0:p_u	0		p_u		
+arta	child	0072	i-bilag	CV-sunshine	v:pred	v		pred		
+arta	child	0072	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	child	0072	#	#	##	##				
+arta	child	0072	Saya	DIST	dem_pro:pred	dem_pro		pred		
+arta	child	0072	pap-pulot	NF.AV-loincloth	np:s_pro	np		s_pro		
+arta	child	0072	didi	PL.GEN.DEF	rn	rn				
+arta	child	0072	amma	PL.father	rn_np.h:poss	rn_np	h	poss		
+arta	child	0072	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0072	=ti	=SPC	=rn	=rn				
+arta	child	0072	ta	OBL	rn	rn				
+arta	child	0072	dutul	before	rn	rn				
+arta	child	0073	Ayti	PROX.OBL	rn	rn				
+arta	child	0073	ulit	bark	rn_np	rn_np				
+arta	child	0073	ni	ni	rn	rn				
+arta	child	0073	ayu	tree	rn_np	rn_np				
+arta	child	0073	=y	=SPC	=rn	=rn				
+arta	child	0073	a	LIG	rn	rn				
+arta	child	0073	agi	cloth	rn	rn				
+arta	child	0073	attanan	place	rn	rn				
+arta	child	0073	=di	=3PL.GEN	=rn	=rn				
+arta	child	0074	#	#	##	##				
+arta	child	0074	Saya	DIST	dem_pro:s_np	dem_pro		s_np		
+arta	child	0074	#	#	#rc	#rc				
+arta	child	0074	0	0	f0:p_u	f0		p_u		
+arta	child	0074	i	DEF	other	other				
+arta	child	0074	gimit-èn	do-PV	v:pred	v		pred		
+arta	child	0074	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	child	0074	%	%	%	%				
+arta	child	0074	a	LIG	other	other				
+arta	child	0074	pulot	loincloth	np:pred	np		pred		
+arta	child	0075	#	#	##neg	##neg				
+arta	child	0075	Awan	NEG	other:predex	other		predex		
+arta	child	0075	ta	OBL	ln	ln				
+arta	child	0075	agi	cloth	np:ncs_other	np		ncs_other		
+arta	child	0076	NC	NC	nc	nc				
+arta	child	0077	#	#	##neg	##neg				
+arta	child	0077	Awan	NEG	other:predex	other		predex		
+arta	child	0077	ta	OBL	ln	ln				
+arta	child	0077	barowa:si	clothing	np:ncs_other	np		ncs_other		
+arta	child	0078	#	#	##	##				
+arta	child	0078	#	#	#ac	#ac				
+arta	child	0078	0	0	0:p_u	0		p_u		
+arta	child	0078	Amma	if	other	other				
+arta	child	0078	i-wa	CV-PLH	v:pred	v		pred		
+arta	child	0078	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	child	0078	ti	OBL.DEF	ln	ln				
+arta	child	0078	tabug	mud	np:g_u	np		g_u		
+arta	child	0078	aydi	and	rn	rn				
+arta	child	0078	tèpa	soil	rn	rn				
+arta	child	0078	a	LIG	rn	rn				
+arta	child	0078	melel-lunna	ADJ-soft	rn	rn				
+arta	child	0079	%	%	%	%				
+arta	child	0079	0	0	0:p_u	0		p_u		
+arta	child	0079	i-wa	CV-PLH	v:pred	v		pred		
+arta	child	0079	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	child	0079	=ta	=DIST.OBL	=dem_pro:g_u	=dem_pro		g_u		
+arta	child	0079	#	#	##	##				
+arta	child	0079	#	#	#ac	#ac				
+arta	child	0079	amma	if	other	other				
+arta	child	0079	tallip	two	ln	ln				
+arta	child	0079	a	LIG	ln	ln				
+arta	child	0079	langit	day	np:pred	np		pred		
+arta	child	0079	%	%	%	%				
+arta	child	0079	0	0	0.h:a_u	0	h	a_u		
+arta	child	0079	0	0	0:p_u	0		p_u		
+arta	child	0079	i-midit	CV-wash	v:pred	v		pred		
+arta	child	0079	ti	OBL.DEF	ln	ln				
+arta	child	0079	wagèt	water	np:g_u	np		g_u		
+arta	child	0079	=i	=SPC	=rn	=rn				
+arta	child	0080	#	#	##	##				
+arta	child	0080	Pili-an	remove-LV	v:pred	v		pred		
+arta	child	0080	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	child	0080	tabug	mud	np:p_u	np		p_u		
+arta	child	0080	ni	DEF.GEN	ln	ln				
+arta	child	0080	barowasi	clothes	np:obl	np		obl		
+arta	child	0081	#	#	##	##				
+arta	child	0081	Saya	DIST	dem_pro:pred	dem_pro		pred		
+arta	child	0081	i	DEF	ln	ln				
+arta	child	0081	ta:pis	cloth	np:s_pro	np		s_pro		
+arta	child	0081	didi	PL.GEN.DEF	rn	rn				
+arta	child	0081	buka:gan	female	rn_np.h:poss	rn_np	h	poss		
+arta	child	0081	=i	=SPC	=rn	=rn				
+arta	child	0082	#	#	##	##				
+arta	child	0082	Siyèy	PROX	other	other				
+arta	child	0082	dima-n	walk-PV	v:pred	v		pred		
+arta	child	0082	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	child	0082	a:yi:	PROX	dem_pro:p_u	dem_pro		p_u		
+arta	child	0082	#	#	##	##				
+arta	child	0082	M-una	AV-similar.to	ap_other:pred	ap_other		pred		
+arta	child	0082	=ti	=PROX.OBL	=other	=other				
+arta	child	0082	tiyèd	foot	np:s_other	np		s_other		
+arta	child	0082	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	child	0082	ayti	PROX.OBL	dem_pro:other	dem_pro		other		
+arta	child	0083	#	#	##	##				
+arta	child	0083	Saya	DIST	other	other				
+arta	child	0083	iggam-an	carry-LV	v:pred	v		pred		
+arta	child	0083	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	child	0083	a:yi:	PROX	dem_pro:p_u	dem_pro		p_u		
+arta	child	0083	ni	GEN.DEF	rn	rn				
+arta	child	0083	kanakannak	child	rn_np.h	rn_np	h			
+arta	child	0083	=i	=SPC	=rn	=rn				
+arta	child	0084	#	#	#ac.neg	#ac.neg				
+arta	child	0084	da	because	other	other				
+arta	child	0084	awan	NEG	other:predex	other		predex		
+arta	child	0084	ta	OBL	ln	ln				
+arta	child	0084	barowa:si	clothes	np:ncs_other	np		ncs_other		
+arta	child	0084	#	#	#rc	#rc				
+arta	child	0084	0	0	f0:s_np	f0		s_np		
+arta	child	0084	a	LIG	other	other				
+arta	child	0085	pang-abbit	NF.AV-carry	np:pred	np		pred		
+arta	child	0085	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	child	0086	#	#	##	##				
+arta	child	0086	M-una	AV-similar.to	ap_other:pred	ap_other		pred		
+arta	child	0086	=ta	=DIST.OBL	=dem_pro:s_other	=dem_pro		s_other		
+arta	child	0086	aydi:ti	before	other	other				
+arta	child	0086	ta	OBL	other	other				
+arta	child	0086	dutul	before	other	other				
+arta	child	0086	a	LIG	other	other				
+arta	child	0086	langit	day	other	other				
+arta	child	0086	a	LIG	other	other				
+arta	child	0086	amma	PL.father	other	other				
+arta	child	0086	=mi	=1PL.GEN	=other	=other				
+arta	child	0087	#	#	##	##				
+arta	child	0087	Saya	DIST	dem_pro:pred	dem_pro		pred		
+arta	child	0087	i	DEF	ln	ln				
+arta	child	0087	traba:ho	work	np:s_pro	np		s_pro		
+arta	child	0087	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	child	0087	=d	=POST	=other	=other				
+arta	child	0087	#	#	#rc	#rc				
+arta	child	0087	0	0	f0:p_u	f0		p_u		
+arta	child	0087	a	LIG	other	other				
+arta	child	0087	n-inta	PST.PV-see	v:pred	v		pred		
+arta	child	0087	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	child	0087	di	NC	other	other				
+arta	child	0087	aydi:ti	before	other	other				
+arta	child	0087	ta	OBL	ln	ln				
+arta	child	0087	ka-ki:lèk	NMZ-small	np:other	np		other		
+arta	child	0087	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0088	#	#	##	##				
+arta	child	0088	m-una	AV-similar.to	v:pred	v		pred		
+arta	child	0088	=ta	=DIST.OBL	=dem_pro:p_a	=dem_pro		p_a		
+arta	child	0088	i	DEF	ln	ln				
+arta	child	0088	taraba:ho	work	np:a_a	np		a_a		
+arta	child	0088	didi	PL.GEN.DEF	rn	rn				
+arta	child	0088	amma	PL.father	rn_np.h:poss	rn_np	h	poss		
+arta	child	0088	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0089	Awan	NEG	nc	nc				
+arta	child	0089	ti	OBL.DEF	nc	nc				
+arta	child	0089	tiyèd	foot	nc	nc				
+arta	child	0089	di	3PL.GEN	nc	nc				
+arta	child	0089	ayti	PROX.OBL	nc	nc				
+arta	child	0089	n-iggam-an	PST-carry-LV	nc	nc				
+arta	child	0089	=mi	=1PL.GEN	nc	nc				
+arta	child	0089	ti	OBL.DEF	nc	nc				
+arta	child	0089	ayti	PROX.OBL	nc	nc				
+arta	child	0090	#	#	##	##				
+arta	child	0090	Mad-di:ma-dima	AV-MPLRC-walk	v:pred	v		pred		
+arta	child	0090	=tid	=3PL	=pro.h:s_a	=pro	h	s_a		
+arta	child	0091	#	#	##	##				
+arta	child	0091	#	#	#ac	#ac				
+arta	child	0091	Maski	even	other	other				
+arta	child	0091	maba-ba:-bagio	PROG.AV-PLRC-typhoon	v:pred	v		pred		
+arta	child	0091	%	%	%	%				
+arta	child	0092	#	#	#ac	#ac				
+arta	child	0092	Amma	if	other	other				
+arta	child	0092	mab-ba:gio	AV-typhoon	v:pred	v		pred		
+arta	child	0092	%	%	%	%				
+arta	child	0093	M-angay	AV-go	v:pred	v		pred		
+arta	child	0093	=ami	=1PL1PL	=pro.1:a_a	=pro	1	a_a		
+arta	child	0093	=d	=POST	=other	=other				
+arta	child	0093	ti	OBL.DEF	ln	ln				
+arta	child	0093	wa	PLH	np:p_a	np		p_a		
+arta	child	0093	=didi	=PL.GEN.DEF	=rn	=rn				
+arta	child	0093	karagatan	stone	rn_np:poss	rn_np		poss		
+arta	child	0093	a	LIG	rn	rn				
+arta	child	0093	melel-lawa	ADJ.RDP-wide	rn	rn				
+arta	child	0094	#	#	##	##				
+arta	child	0094	Saya	DIST	dem_pro:s_np	dem_pro		s_np		
+arta	child	0094	attanan	place	np:pred	np		pred		
+arta	child	0094	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0095	#	#	#ac	#ac				
+arta	child	0095	mab-ba:-ba:gio	AV-PLRC-typhoon	v:pred	v		pred		
+arta	child	0096	#	#	##	##				
+arta	child	0096	Man-tungpa	AV-light.fire	v:pred	v		pred		
+arta	child	0096	=ami	=1PL	=pro.1:a_a	=pro	1	a_a		
+arta	child	0096	=d	=POST	=other	=other				
+arta	child	0096	ta	OBL	ln	ln				
+arta	child	0096	diso:no	inside	np:p_a	np		p_a		
+arta	child	0096	ni	GEN.DEF	rn	rn				
+arta	child	0096	karagatan	stone	rn_np:poss	rn_np		poss		
+arta	child	0096	=i	=SPC	=rn	=rn				
+arta	child	0097	#	#	##	##				
+arta	child	0097	0	0	0:p_a	0		p_a		
+arta	child	0097	Man-tungpa	AV-light.fire	v:pred	v		pred		
+arta	child	0097	=ami	=1PL	=pro.1:a_a	=pro	1	a_a		
+arta	child	0097	=d	=POST	=other	=other				
+arta	child	0097	#	#	##	##				
+arta	child	0097	saya	DIST	dem_pro:s_np	dem_pro		s_np		
+arta	child	0097	i	DEF	ln	ln				
+arta	child	0097	pad-dingding-an	NF-heat-LV	np:pred	np		pred		
+arta	child	0097	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0098	#	#	##	##				
+arta	child	0098	Ma-si:gi	AV-continue	v:pred	v		pred		
+arta	child	0098	=te	=only	=other	=other				
+arta	child	0098	ba:gio	typhoon	np:s_a	np		s_a		
+arta	child	0098	#	#	##neg	##neg				
+arta	child	0098	0	0	0:s_a	0		s_a		
+arta	child	0098	awan	NEG	other	other				
+arta	child	0098	ma-gittud	AV-stop	v:pred	v		pred		
+arta	child	0099	#	#	#ac.neg	#ac.neg				
+arta	child	0099	ki:gad	up to	other	other				
+arta	child	0099	a	LIG	other	other				
+arta	child	0099	awan	NEG	other	other				
+arta	child	0099	g<um>i:nak	<AV>stop	v:pred	v		pred		
+arta	child	0099	i	DEF	ln	ln				
+arta	child	0099	bagio	typhoon	np:s_a	np		s_a		
+arta	child	0099	=y	=SPC	=rn	=rn				
+arta	child	0100	#	#	##	##				
+arta	child	0100	m-angay	AV-go	other	other				
+arta	child	0100	=de:	=POST	=other	=other				
+arta	child	0100	=tid	=3PL	=pro.h:s_a	=pro	h	s_a		
+arta	child	0100	mang-porab	AV-hunt	v:pred	v		pred		
+arta	child	0100	#	#	#ac.neg	#ac.neg				
+arta	child	0100	da	because	other	other				
+arta	child	0100	awan	NEG	other:predex	other		predex		
+arta	child	0100	ta	OBL	ln	ln				
+arta	child	0100	an-èn	eat-PV	np:s_other	np		s_other		
+arta	child	0100	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0100	NC	NC	rn	rn				
+arta	child	0100	a	LIG	rn	rn				
+arta	child	0100	mabaw	carbohydrate	rn_np	rn_np				
+arta	child	0101	#	#	##	##				
+arta	child	0101	m-angay	AV-go	other	other				
+arta	child	0101	=de:	=POST	=other	=other				
+arta	child	0101	=tid	=3PL	=pro.h:s_a	=pro	h	s_a		
+arta	child	0101	mang-purab	AV-hunt	v:pred	v		pred		
+arta	child	0102	#	#	##	##				
+arta	child	0102	maka-alap	POT.AV-get	v:pred	v		pred		
+arta	child	0102	=tid	=3PL	=pro.h:a_ap	=pro	h	a_ap		
+arta	child	0102	ta	OBL	ln	ln				
+arta	child	0102	laman	wild pig	np:p_ap	np		p_ap		
+arta	child	0102	aydi	and	rn	rn				
+arta	child	0102	bidut	deer	rn_np	rn_np				
+arta	child	0103	#	#	##	##				
+arta	child	0103	Man-du:tung	AV-singe	v:pred	v		pred		
+arta	child	0103	=de:	=POST	=rv	=rv				
+arta	child	0103	=tid	=3PL	=pro.h:a_a	=pro	h	a_a		
+arta	child	0103	a	LIG	nc	nc				
+arta	child	0103	mang-wa	AV-PLH	nc	nc				
+arta	child	0103	ta	OBL	ln	ln				
+arta	child	0103	laman	wild pig	np:p_a	np		p_a		
+arta	child	0103	=i	=SPC	=rn	=rn				
+arta	child	0103	#	#	##	##				
+arta	child	0103	0	0	0:p_a	0		p_a		
+arta	child	0103	man-da:pak	AV-roast	v:pred	v		pred		
+arta	child	0103	=ami	=1PL	=pro.1:a_a	=pro	1	a_a		
+arta	child	0104	#	#	#nc	#nc				
+arta	child	0104	Ay	TOP	nc	nc				
+arta	child	0104	biyas	bamboo	nc	nc				
+arta	child	0104	=i	=SPC	nc	nc				
+arta	child	0104	saya	DIST	nc	nc				
+arta	child	0104	i	DEF	nc	nc				
+arta	child	0104	pang-uwa	NF.AV-PLH	nc	nc				
+arta	child	0104	=mi	=1PL.GEN	nc	nc				
+arta	child	0104	ta	OBL	nc	nc				
+arta	child	0104	pang-uwa-n	NF-PLH-PV	nc	nc				
+arta	child	0104	=di	=3PL.GEN	nc	nc				
+arta	child	0104	ta	OBL	nc	nc				
+arta	child	0104	na-ga:-gèlgèl	PST.POT.PV-PLRC-cut	nc	nc				
+arta	child	0104	a	LIG	nc	nc				
+arta	child	0104	laman	wild pig	nc	nc				
+arta	child	0105	#	#	##	##				
+arta	child	0105	Saya	DIST	dem_pro:s_np	dem_pro		s_np		
+arta	child	0105	pangi:-lutu-an	NF-CV-cook-LV	np:pred	np		pred		
+arta	child	0105	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	child	0105	#	#	#ac.neg	#ac.neg				
+arta	child	0105	ta	OBL	other	other				
+arta	child	0105	awan	NEG	other:predex	other		predex		
+arta	child	0105	=man	=CONTR	=other	=other				
+arta	child	0105	ta	OBL	ln	ln				
+arta	child	0105	kande:ro	pot	np:ncs_other	np		ncs_other		
+arta	child	0105	aydi:ti	before	other	other				
+arta	child	0106	NC	NC	nc	nc				
+arta	child	0107	#	#	##	##				
+arta	child	0107	Kabbat	want	nc	nc				
+arta	child	0107	=mi	=1PL.GEN	nc	nc				
+arta	child	0107	=mina	=hopefully	nc	nc				
+arta	child	0107	a	LIG	nc	nc				
+arta	child	0107	aydi:ta	DIST.OBL	nc	nc				
+arta	child	0108	#	#	##	##				
+arta	child	0108	Aydi:ti	before	other	other				
+arta	child	0108	ta	OBL	other	other				
+arta	child	0108	dutul	before	other	other				
+arta	child	0108	a	LIG	other	other				
+arta	child	0108	langit	day	other	other				
+arta	child	0108	a	LIG	other	other				
+arta	child	0108	m-una	AV-similar.to	v:pred	v		pred		
+arta	child	0108	=ta	=DST.OBL	=dem_pro:p_a	=dem_pro		p_a		
+arta	child	0108	i	DEF	ln	ln				
+arta	child	0108	bu:hay	life	np:a_a	np		a_a		
+arta	child	0108	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0109	#	#	##	##				
+arta	child	0109	Ayde:tay	now	other	other				
+arta	child	0109	a	LIG	other	other				
+arta	child	0109	nag-isukuela	PST.AV-school	v:pred	v		pred		
+arta	child	0109	tidi	PL.DEF	ln	ln				
+arta	child	0109	a:na:	PL.child	np.h:s_a	np	h	s_a		
+arta	child	0109	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0109	appu	PL.grandchild	rn_np.h	rn_np	h			
+arta	child	0109	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0110	#	#	##neg	##neg				
+arta	child	0110	awan	NEG	other	other				
+arta	child	0110	=mi	=1PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	child	0110	arig-èn	imitate-PV	v:pred	v		pred		
+arta	child	0110	i	DEF	ln	ln				
+arta	child	0110	traba:ho	work	np:p_u	np		p_u		
+arta	child	0110	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0110	aydi:ti	before	other	other				
+arta	child	0110	ta	OBL	other	other				
+arta	child	0110	dutul	before	other	other				
+arta	child	0110	a	LIG	other	other				
+arta	child	0110	langit	day	other	other				
+arta	child	0111	#	#	#ac	#ac				
+arta	child	0111	da	because	other	other				
+arta	child	0111	nang-isukuela	PST.AV-school	v:pred	v		pred		
+arta	child	0111	tidi	PL.DEF	ln	ln				
+arta	child	0111	kakka:nak	PL.child	np.h:s_a	np	h	s_a		
+arta	child	0111	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0111	aytay	now	other	other				
+arta	child	0111	a	LIG	other	other				
+arta	child	0111	dagun	year	other	other				
+arta	child	0112	#	#	#ac.neg	#ac.neg				
+arta	child	0112	ki:gad	up to	other	other				
+arta	child	0112	a	LIG	other	other				
+arta	child	0112	awan	NEG	other	other				
+arta	child	0112	maka-torpos	POT.AV-continue	v:pred	v		pred		
+arta	child	0112	tidi	PL.DEF	ln	ln				
+arta	child	0112	kakka:nak	children	np.h:s_ap	np	h	s_ap		
+arta	child	0112	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0113	#	#	##	##				
+arta	child	0113	talaga	surely	other	other				
+arta	child	0113	ma-ita	POT.PV-see	v:pred	v		pred		
+arta	child	0113	=mi	=1PL.GEN	=pro.1:a_up	=pro	1	a_up		
+arta	child	0113	=d	=POST	=rv	=rv				
+arta	child	0113	i	DEF	ln	ln				
+arta	child	0113	ay	TOP	ln	ln				
+arta	child	0113	mepep-piya	ADJ-good	ln	ln				
+arta	child	0113	a	LIG	ln	ln				
+arta	child	0113	attinan	place	np:p_up	np		p_up		
+arta	child	0113	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0114	#	#	#ac	#ac				
+arta	child	0114	da	because	other	other				
+arta	child	0114	naka-a:dal	PST.POT.AV-learn	v:pred	v		pred		
+arta	child	0114	=de:	=POST	=other	=other				
+arta	child	0114	=tidi	=PL.DEF	=ln	=ln				
+arta	child	0114	kakka:nak	PL.child	np.h:s_ap	np	h	s_ap		
+arta	child	0114	=mi	=1PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	child	0114	aytidi	PL.DEF	rn	rn				
+arta	child	0114	appu	PL.grandchild	rn_np.h	rn_np	h			
+arta	child	0114	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0115	#	#	##	##				
+arta	child	0115	Saddya	DIST	dem_pro:s_np	dem_pro		s_np		
+arta	child	0115	i	DEF	ln	ln				
+arta	child	0115	pang-inta-n	NF-see-PV	np:pred	np		pred		
+arta	child	0115	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0115	#	#	#ac	#ac				
+arta	child	0115	ta	OBL	other	other				
+arta	child	0115	mepep-piya	ADJ.RDP-good	ap_other:pred	ap_other		pred		
+arta	child	0115	=sika	=MIR	=other	=other				
+arta	child	0115	#	#	#cc:s_other	#cc		s_other		
+arta	child	0115	0	0	0.h:s_a	0	h	s_a		
+arta	child	0115	i	DEF	ln	ln				
+arta	child	0115	mang-isukuela	AV-school	v:pred	v		pred		
+arta	child	0116	#	#	##	##				
+arta	child	0116	Attanan	all	other	other				
+arta	child	0116	a	LIG	other	other				
+arta	child	0116	mepep-piya	ADJ.RDP-good	ap_other:pred	ap_other		pred		
+arta	child	0116	=d	=POST	=other	=other				
+arta	child	0116	i	DEF	ln	ln				
+arta	child	0116	pang-atti-nan	NF-exist-LV	np:s_other	np		s_other		
+arta	child	0116	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0116	a	LIG	rn	rn				
+arta	child	0116	bunbun	house	rn	rn				
+arta	child	0117	#	#	##neg	##neg				
+arta	child	0117	0	0	0:s_np	0		s_np		
+arta	child	0117	awan	NEG	other	other				
+arta	child	0117	=di	=POST	=other	=other				
+arta	child	0117	ka-pare:ho	NMZ-same	np:pred	np		pred		
+arta	child	0117	aydi:ti	before	other	other				
+arta	child	0117	ta	OBL	other	other				
+arta	child	0117	dutul	before	other	other				
+arta	child	0117	a	LIG	other	other				
+arta	child	0117	langit	day	other	other				
+arta	child	0117	a	LIG	other	other				
+arta	child	0117	memem-marakèt	ADJ.RDP-bad	other	other				
+arta	child	0118	#	#	##	##				
+arta	child	0118	Saya	DIST	dem_pro:pred	dem_pro		pred		
+arta	child	0118	#	#	#rc:s_np	#rc		s_np		
+arta	child	0118	0	0	f0:p_u	f0		p_u		
+arta	child	0118	i	DEF	ln	ln				
+arta	child	0118	kabbat	want	v:pred	v		pred		
+arta	child	0118	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	child	0118	%	%	%	%				
+arta	child	0118	a	LIG	other	other				
+arta	child	0118	ma-pa-sa:mak	POT.PV-CAUS-happen	v:pred	v		pred		
+arta	child	0118	=di	=3PL.GEN	=other	=other				
+arta	child	0118	ayde:tay	now	other	other				
+arta	child	0118	a	LIG	other	other				
+arta	child	0118	dagun	year	other	other				
+arta	child	0118	#	#	#ac	#ac				
+arta	child	0118	da	because	other	other				
+arta	child	0119	aytidi	PL.DEF	ln	ln				
+arta	child	0119	appu	PL.grandchild	np.h:pred	np	h	pred		
+arta	child	0119	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0119	=y	=SPC	=rn	=rn				
+arta	child	0119	a	LIG	ln	ln				
+arta	child	0119	buka:gan	female	ln	ln				
+arta	child	0119	a	LIG	ln	ln				
+arta	child	0119	panga:nay	eldest.child	ln	ln				
+arta	child	0119	ana:	child	np.h:s_np	np	h	s_np		
+arta	child	0119	ni	DEF.GEN	rn	rn				
+arta	child	0119	Joli	Joli	rn_np.h:poss	rn_np	h	poss		
+arta	child	0120	Ensi:na	so that	other	other				
+arta	child	0120	ki:gad	up to	other	other				
+arta	child	0120	ta	OBL	other	other				
+arta	child	0120	grade	grade	other	other				
+arta	child	0120	5	5	other	other				
+arta	child	0120	ayde:tay	now	other	other				
+arta	child	0121	#	#	##	##				
+arta	child	0121	pang-iskuela	NF.AV-school	np:s_np	np		s_np		
+arta	child	0121	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	child	0121	aytay	now	other	other				
+arta	child	0121	Grade	Grade	ln	ln				
+arta	child	0121	5	5	np:pred	np		pred		
+arta	child	0121	=di	=POST	=other	=other				
+arta	child	0122	#	#	#ac	#ac				
+arta	child	0122	ki:gad	up to	other	other				
+arta	child	0122	=mina	=hopefully	=other	=other				
+arta	child	0122	ta	OBL	ln	ln				
+arta	child	0122	haisukul	high school	np:other	np		other		
+arta	child	0122	=i	=SPC	=rn	=rn				
+arta	child	0122	ma:-di:s-an	POT-reach-LV	v:pred	v		pred		
+arta	child	0122	=na	=GEN	=pro.h:a_up	=pro	h	a_up		
+arta	child	0122	pang-iskuela	NF.AV-school	np:p_u	np		p_u		
+arta	child	0122	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	child	0122	#	#	#ac	#ac				
+arta	child	0122	take:ta	so that	other	other				
+arta	child	0123	ma-ita	POT.PV.see	v:pred	v		pred		
+arta	child	0123	=na	=3SG.GEN	=pro.h:a_up	=pro	h	a_up		
+arta	child	0123	#	#	#rc:p_up	#rc		p_up		
+arta	child	0123	i	DEF	ln	ln				
+arta	child	0123	mepep-piya	ADJ.RDP-good	ln	ln				
+arta	child	0123	a	LIG	ln	ln				
+arta	child	0123	atti-nan	exist-LV	np:predex	np		predex		
+arta	child	0123	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0124	#	#	#ac	#ac				
+arta	child	0124	pati	even	other	other				
+arta	child	0124	tami	1PL	pro:dt_s	pro		dt_s		
+arta	child	0124	ha:bang	while	other	other				
+arta	child	0124	manga:-to:lay	PROG.AV-live	v:pred	v		pred		
+arta	child	0124	=ami	=1PL	=pro.1:s_a	=pro	1	s_a		
+arta	child	0125	#	#	##	##				
+arta	child	0125	ma-ita	POT.PV-see	v:pred	v		pred		
+arta	child	0125	=mi	=1PL.GEN	=pro.1:a_up	=pro	1	a_up		
+arta	child	0125	=mina	=hopefully	=other	=other				
+arta	child	0125	=tep	=ANT	=other	=other				
+arta	child	0125	#	#	#cc:p_up	#cc		p_up		
+arta	child	0125	a	LIG	other	other				
+arta	child	0125	mepep-piya	ADJ.RDP-good	ap_other:pred	ap_other		pred		
+arta	child	0125	=d	=POST	=other	=other				
+arta	child	0125	i	DEF	ln	ln				
+arta	child	0125	bu:hay	life	np:s_other	np		s_other		
+arta	child	0125	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	child	0125	aytay	now	other	other				
+arta	child	0125	a	LIG	other	other				
+arta	child	0125	dagun	year	other	other				
+arta	child	0126	#	#	##	##				
+arta	child	0126	Saya	DIST	dem_pro:pred	dem_pro		pred		
+arta	child	0126	#	#	#rc:s_np	#rc		s_np		
+arta	child	0126	0	0	f0:p_u	f0		p_u		
+arta	child	0126	i	DEF	ln	ln				
+arta	child	0126	kabbat	want	v:pred	v		pred		
+arta	child	0126	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	child	0126	#	#	#cc	#cc				
+arta	child	0126	a	LIG	other	other				
+arta	child	0126	ma-pa-sa:mak	POT.PV-CAUS-happen	v:pred	v		pred		
+arta	child	0126	ta	OBL	ln	ln				
+arta	child	0126	bu:hay	life	np:other	np		other		
+arta	child	0126	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	child	0126	aytay	now	other	other				
+arta	child	0127	#	#	#nc	#nc				
+arta	child	0127	palakpak-an	NF-clap-LV	nc	nc				
+arta	child	0127	=ku	=1SG.GEN	nc	nc				

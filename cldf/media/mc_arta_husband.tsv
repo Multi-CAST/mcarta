@@ -1,0 +1,332 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+arta	husband	0001	#	#	##	##				
+arta	husband	0001	Asawa	husband	np.h:s_other	np	h	s_other		
+arta	husband	0001	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	husband	0001	=ti	=SPC	=rn	=rn				
+arta	husband	0001	awan	NEG	other	other				
+arta	husband	0001	=kurug	=really	=other	=other				
+arta	husband	0001	a	LIG	other	other				
+arta	husband	0001	meddingatu	ADJ-tall	ap_other:pred	ap_other		pred		
+arta	husband	0001	#	#	##	##				
+arta	husband	0001	0	0	0.h:s_other	0	h	s_other		
+arta	husband	0001	apitti	short	ap_other:pred	ap_other		pred		
+arta	husband	0001	=te	=only	=other	=other				
+arta	husband	0002	#	#	##	##				
+arta	husband	0002	Sakay	and	other	other				
+arta	husband	0002	abi:	body	np:s_other	np		s_other		
+arta	husband	0002	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	husband	0002	=y	=SPC	=rn	=rn				
+arta	husband	0002	merra:pis	ADJ-thin	ap_other:pred	ap_other		pred		
+arta	husband	0002	=te	=only	=other	=other				
+arta	husband	0002	#	#	##	##				
+arta	husband	0002	0	0	0.h:s_other	0	h	s_other		
+arta	husband	0002	killèk	small	ap_other:pred	ap_other		pred		
+arta	husband	0002	=te	=only	=other	=other				
+arta	husband	0003	#	#	##	##				
+arta	husband	0003	0	0	0.h:s_other	0	h	s_other		
+arta	husband	0003	Awan	NEG	other	other				
+arta	husband	0003	ka:man	big	ap_other:pred	ap_other		pred		
+arta	husband	0004	#	#	##	##				
+arta	husband	0004	0	0	0.h:s_other	0	h	s_other		
+arta	husband	0004	Apitti	short	ap_other:pred	ap_other		pred		
+arta	husband	0004	=te	=only	=other	=other				
+arta	husband	0005	#	#	#nc	#nc				
+arta	husband	0005	Ninta	PST.TR-see	nc	nc				
+arta	husband	0005	=mu	=2SG.GEN	nc	nc				
+arta	husband	0005	ti	PSN	nc	nc				
+arta	husband	0005	Ma:ni	Mani	nc	nc				
+arta	husband	0005	#	#	##	##				
+arta	husband	0005	0	0	0.h:s_other	0	h	s_other		
+arta	husband	0005	munata	like.that	ap_other:pred	ap_other		pred		
+arta	husband	0006	ka:pi:rit	NMZ-short	np:s_other	np		s_other		
+arta	husband	0006	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	husband	0007	#	#	##	##				
+arta	husband	0007	0	0	0.h:s_other	0	h	s_other		
+arta	husband	0007	Konta	but	other	other				
+arta	husband	0007	ta	OBL	ln	ln				
+arta	husband	0007	abi:	body	np:dt_s	np		dt_s		
+arta	husband	0007	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	husband	0007	killèk	small	ap_other:pred	ap_other		pred		
+arta	husband	0007	=te	=only	=other	=other				
+arta	husband	0008	#	#	#nc	#nc				
+arta	husband	0008	Ayte	and.here	nc	nc				
+arta	husband	0008	ka:man	big	nc	nc				
+arta	husband	0008	i	DEF	nc	nc				
+arta	husband	0008	tiyan	belly	nc	nc				
+arta	husband	0008	=na	=3SG.GEN	nc	nc				
+arta	husband	0008	=y	=SPC	nc	nc				
+arta	husband	0009	#	#	##	##				
+arta	husband	0009	#	#	#ac	#ac				
+arta	husband	0009	0	0	0.1:a_a	0	1	a_a		
+arta	husband	0009	Amma	if	other	other				
+arta	husband	0009	mattim	INTR-drink	v:pred	v		pred		
+arta	husband	0009	ta	OBL	ln	ln				
+arta	husband	0009	binara:yan	wine	np:p_a	np		p_a		
+arta	husband	0009	%	%	%	%				
+arta	husband	0009	maski	even	other	other				
+arta	husband	0009	ta	OBL	ln	ln				
+arta	husband	0009	daddiman	path	np:dt_p	np		dt_p		
+arta	husband	0009	o:gipan	lie.down-LV	v:pred	v		pred		
+arta	husband	0009	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	husband	0009	tadde:	only	other	other				
+arta	husband	0009	=ta	=DIST.OBL	=dem_pro:p_u	=dem_pro		p_u		
+arta	husband	0010	#	#	##	##				
+arta	husband	0010	To:top	companion	np:pred	np		pred		
+arta	husband	0010	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	husband	0010	=te:	=only	=rn	=rn				
+arta	husband	0010	ti	PSN	ln	ln				
+arta	husband	0010	Ma:ni	Mani	np.h:s_np	np	h	s_np		
+arta	husband	0010	ta	OBL	ln	ln				
+arta	husband	0010	kakkillèk	babyhood	np:other	np		other		
+arta	husband	0010	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	husband	0011	#	#	##neg	##neg				
+arta	husband	0011	awan	NEG	other:predex	other		predex		
+arta	husband	0011	=ami	=1PL.GEN	=pro.1:s_other	=pro	1	s_other		
+arta	husband	0011	ta	OBL	ln	ln				
+arta	husband	0011	to:top	companion	np:obl	np		obl		
+arta	husband	0011	#	#	#	#				
+arta	husband	0011	Basta	just	other	other				
+arta	husband	0011	maddagsu	INTR-lie.down	v:pred	v		pred		
+arta	husband	0011	=ami	=1PL.ABS	=pro.1:s_a	=pro	1	s_a		
+arta	husband	0012	#	#	##	##				
+arta	husband	0012	Manguwa	INTR-PLH	v:pred	v		pred		
+arta	husband	0012	=tadde:	=only	=rv	=rv				
+arta	husband	0012	=tèn	=1SG.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	husband	0012	ta	OB	ln	ln				
+arta	husband	0012	ulès	blanket	np:p_a	np		p_a		
+arta	husband	0013	#	#	#nc	#nc				
+arta	husband	0013	Saya	DEM.DIST	nc	nc				
+arta	husband	0013	#	#	#rc	#rc				
+arta	husband	0013	0	0	f0:p_u	f0		p_u		
+arta	husband	0013	gimit-èn	do-TR	v:pred	v		pred		
+arta	husband	0013	=u	=1SG.ABS	=pro.1:a_u	=pro	1	a_u		
+arta	husband	0013	%	%	%	%				
+arta	husband	0013	a	LIG	other	other				
+arta	husband	0013	bunbun	house	np:pred	np		pred		
+arta	husband	0013	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	husband	0013	#	#	#ac	#ac				
+arta	husband	0013	Take:ta	so.that	nc	nc				
+arta	husband	0013	mal-linu:nu:ng	INTR-nc	nc	nc				
+arta	husband	0013	=ami	=1PL.ABS	nc	nc				
+arta	husband	0014	#	#	##	##				
+arta	husband	0014	Ma	if	other	other				
+arta	husband	0014	ta	OBL	ln	ln				
+arta	husband	0014	damadmang	morning	np:other	np		other		
+arta	husband	0014	mad-dima	INTR-go.back	v:pred	v		pred		
+arta	husband	0014	=ami	=1PL	=pro.1:s_a	=pro	1	s_a		
+arta	husband	0014	=d	=POST	=rv	=rv				
+arta	husband	0014	=mandi	=again	=rv	=rv				
+arta	husband	0015	#	#	##	##				
+arta	husband	0015	Abbi:t-èn	carry-TR	v:pred	v		pred		
+arta	husband	0015	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	husband	0015	=d	=POST	=rv	=rv				
+arta	husband	0015	=mandi	=again	=rv	=rv				
+arta	husband	0015	ti	PSN	ln	ln				
+arta	husband	0015	Ma:ni	Mani	np.h:p_u	np	h	p_u		
+arta	husband	0015	#	#	#ac.neg	#ac.neg				
+arta	husband	0015	0	0	0.h:p_up	0	h	p_up		
+arta	husband	0015	da	because	other	other				
+arta	husband	0015	awan	NEG	other	other				
+arta	husband	0015	=ku	=1SG.GEN	=pro.1:a_up	=pro	1	a_up		
+arta	husband	0015	ma-abbit	POT-carry.with.cloth	v:pred	v		pred		
+arta	husband	0016	#	#	##	##				
+arta	husband	0016	Mad-dima	INTR-go.back	v:pred	v		pred		
+arta	husband	0016	=ami	=1PL.ABS	=pro.1:s_a	=pro	1	s_a		
+arta	husband	0016	=d	=POST	=rv	=rv				
+arta	husband	0016	=mandi	=again	=rv	=rv				
+arta	husband	0017	#	#	##	##				
+arta	husband	0017	#	#	#ac	#ac				
+arta	husband	0017	Ma	if	other	other				
+arta	husband	0017	maka-ita	POT-see	v:pred	v		pred		
+arta	husband	0017	=d	=POST	=rv	=rv				
+arta	husband	0017	=man	=CONTR	=rv	=rv				
+arta	husband	0017	=tèn	=1SG.ABS	=pro.1:s_ap	=pro	1	s_ap		
+arta	husband	0017	#	#	#	#				
+arta	husband	0017	0	0	0.h:s_a	0	h	s_a		
+arta	husband	0017	m-atti	INTR-exist	v:pred	v		pred		
+arta	husband	0017	%	%	%	%				
+arta	husband	0017	0	0	0.h:a_a	0	h	a_a		
+arta	husband	0017	mat-tim	INTR-drink	v:pred	v		pred		
+arta	husband	0017	=mandi	=again	=other	=other				
+arta	husband	0017	ta	OBL	ln	ln				
+arta	husband	0017	binara:yan	wine	np:p_a	np		p_a		
+arta	husband	0018	#	#	##	##				
+arta	husband	0018	0	0	0.1:s_a	0	1	s_a		
+arta	husband	0018	Ma-ke:num	INTR-intoxicated	v:pred	v		pred		
+arta	husband	0018	=mandi	=again	=other	=other				
+arta	husband	0019	Tatin	who	nc	nc				
+arta	husband	0019	ti	PSN	nc	nc				
+arta	husband	0019	ama	father	nc	nc				
+arta	husband	0019	=na	=3SG.GEN	nc	nc				
+arta	husband	0019	aydi:	and	nc	nc				
+arta	husband	0019	ina	mother	nc	nc				
+arta	husband	0019	=na	=3SG.GEN	nc	nc				
+arta	husband	0020	#	#	##	##				
+arta	husband	0020	Awan	NEG	nc	nc				
+arta	husband	0020	=ku	=1SG.GEN	nc	nc				
+arta	husband	0020	tataw	know	nc	nc				
+arta	husband	0020	#	#	#nc	#nc				
+arta	husband	0020	da	because	nc	nc				
+arta	husband	0020	awan	NEG	nc	nc				
+arta	husband	0020	=ku	=1SG.GEN	nc	nc				
+arta	husband	0020	na-da:ngan-an	POT-measure-LV	nc	nc				
+arta	husband	0021	#	#	##	##				
+arta	husband	0021	Nap-pati	PST.INTR-die	nc	nc				
+arta	husband	0021	=d	=POST	nc	nc				
+arta	husband	0021	tidi	3PL.ABS	nc	nc				
+arta	husband	0021	ama	father	nc	nc				
+arta	husband	0021	=na	=3SG.GEN	nc	nc				
+arta	husband	0021	=y	=SPC	nc	nc				
+arta	husband	0021	aydi:	and	nc	nc				
+arta	husband	0021	ina	mother	nc	nc				
+arta	husband	0021	=na	=3SG.GEN	nc	nc				
+arta	husband	0022	#	#	#nc	#nc				
+arta	husband	0022	Konta	but	nc	nc				
+arta	husband	0022	tataw	know	nc	nc				
+arta	husband	0022	na	GEN	nc	nc				
+arta	husband	0022	asawa	spouse	nc	nc				
+arta	husband	0022	=mu	=2SG.GEN	nc	nc				
+arta	husband	0022	=ti	=SPC	nc	nc				
+arta	husband	0022	i	DEF	nc	nc				
+arta	husband	0022	tyempo	time	nc	nc				
+arta	husband	0022	na	GEN	nc	nc				
+arta	husband	0022	hapon	Japan	nc	nc				
+arta	husband	0023	#	#	##	##				
+arta	husband	0023	Tataw	know	nc	nc				
+arta	husband	0023	=na	=3SG.GEN	nc	nc				
+arta	husband	0023	#	#	##	##				
+arta	husband	0023	Maski	even	nc	nc				
+arta	husband	0023	ta	OBL	nc	nc				
+arta	husband	0023	Marsello	Marshall	nc	nc				
+arta	husband	0023	tataw	know	nc	nc				
+arta	husband	0023	=na	=3SG.GEN	nc	nc				
+arta	husband	0024	tyempo	time	nc	nc				
+arta	husband	0024	na	GEN	nc	nc				
+arta	husband	0024	Marsello	Marshall	nc	nc				
+arta	husband	0025	#	#	##	##				
+arta	husband	0025	Tidi	3PL.ABS	ln	ln				
+arta	husband	0025	sunda:lu	Sundalo	np.h:dt_s	np	h	dt_s		
+arta	husband	0025	=ti	=SPC	=rn	=rn				
+arta	husband	0025	meses-subèg	ADJ.RDP-anger	ap_other:pred	ap_other		pred		
+arta	husband	0025	=tid	=3PL.ABS	=pro.h:s_other	=pro	h	s_other		
+arta	husband	0025	#	#	#	#				
+arta	husband	0025	pa-ga:-gapèt-an	CAUS-RDP-tie-LV	v:pred	v		pred		
+arta	husband	0025	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	husband	0025	gilèngan	male	np.h:p_u	np	h	p_u		
+arta	husband	0026	#	#	##	##				
+arta	husband	0026	Illa:yug	long	other	other				
+arta	husband	0026	a	LIG	other	other				
+arta	husband	0026	lubid	rope	np:pred	np		pred		
+arta	husband	0026	#	#	#ac	#ac				
+arta	husband	0026	Ma	if	other	other				
+arta	husband	0026	mang-gèpè-gpèt	INTR-RDP-tie	v:pred	v		pred		
+arta	husband	0026	tidi	3PL.ABS	ln	ln				
+arta	husband	0026	gillèngan	male	np.h:s_a	np	h	s_a		
+arta	husband	0026	=i	=i	=rn	=rn				
+arta	husband	0026	%	%	%	%				
+arta	husband	0026	y-angay	TR-go	v:pred	v		pred		
+arta	husband	0026	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	husband	0026	=tid	=3PL.ABS	=pro.h:p_u	=pro	h	p_u		
+arta	husband	0026	ta	OBL	ln	ln				
+arta	husband	0026	lattong	outside	np:g_u	np		g_u		
+arta	husband	0027	#	#	##	##				
+arta	husband	0027	Parè-rèbrèb	RDP-cn	v:pred	v		pred		
+arta	husband	0027	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	husband	0027	=tid	=3PL.ABS	=pro.h:p_u	=pro	h	p_u		
+arta	husband	0027	ta	OBL	ln	ln				
+arta	husband	0027	wagèt	water/river	np:g_u	np		g_u		
+arta	husband	0028	#	#	##	##				
+arta	husband	0028	0	0	0.h:s_a	0	h	s_a		
+arta	husband	0028	Aydi:	and	other	other				
+arta	husband	0028	tiw-wanawana	STV-like.similar	v:pred	v		pred		
+arta	husband	0028	=ta	=DEM.DIST	=other	=other				
+arta	husband	0029	#	#	##	##				
+arta	husband	0029	Pa:-pandag-an	RDP-press-LV	v:pred	v		pred		
+arta	husband	0029	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	husband	0029	=d	=POST	=rv	=rv				
+arta	husband	0029	0	0	0.h:p_u	0	h	p_u		
+arta	husband	0029	ta	OBL	ln	ln				
+arta	husband	0029	karatagan	stone	np:obl_u	np		obl_u		
+arta	husband	0030	#	#	##	##				
+arta	husband	0030	Meses-subèg	ADJ.RDP-anger	ap_other:pred	ap_other		pred		
+arta	husband	0030	=tid	=3PL.ABS	=pro.h:s_other	=pro	h	s_other		
+arta	husband	0031	#	#	##	##				
+arta	husband	0031	Lalla:lu	in particular	other	other				
+arta	husband	0031	ngngarigan	for example	other	other				
+arta	husband	0032	ayti	here	ln	ln				
+arta	husband	0032	ayti	here	ln	ln				
+arta	husband	0032	Dipintin	Dipintin	np:p_u	np		p_u		
+arta	husband	0032	=i	=SPC	=rn	=rn				
+arta	husband	0032	atti-nan	exist-LV	v:pred	v		pred		
+arta	husband	0032	na	GEN	ln	ln				
+arta	husband	0032	kampu	camp	np:a_u	np		a_u		
+arta	husband	0032	na	GEN	rn	rn				
+arta	husband	0032	Sunda:lu	Sundalo	rn_np.h:poss	rn_np	h	poss		
+arta	husband	0033	#	#	##	##				
+arta	husband	0033	Atti	exist	other	other				
+arta	husband	0033	=ami	=1PL.ABS	=pro.1:s_np	=pro	1	s_np		
+arta	husband	0033	ta	OBL	ln	ln				
+arta	husband	0033	Kalbo	Kalbo	np:pred_l	np		pred_l		
+arta	husband	0034	#	#	##	##				
+arta	husband	0034	M-angay	INTR-go	v:pred	v		pred		
+arta	husband	0034	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	husband	0034	=ta	=there	=dem_pro:p_a	=dem_pro		p_a		
+arta	husband	0034	#	#	#	#				
+arta	husband	0034	0	0	0.h:a_a	0	h	a_a		
+arta	husband	0034	mang-alap	INTR-get	v:pred	v		pred		
+arta	husband	0034	ta	OBL	ln	ln				
+arta	husband	0034	gillèngan	male	np.h:p_a	np	h	p_a		
+arta	husband	0034	#	#	##	##				
+arta	husband	0034	Gèpè-gpèt-an	RDP-tie-LV	v:pred	v		pred		
+arta	husband	0034	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	husband	0034	=tid	=3PL.ABS	=pro.h:p_u	=pro	h	p_u		
+arta	husband	0035	#	#	#	#				
+arta	husband	0035	Pasaray	even	other	other				
+arta	husband	0035	munata	like.that	ap_other:pred	ap_other		pred		
+arta	husband	0035	#	#	#nc	#nc				
+arta	husband	0035	pasaray	even	nc	nc				
+arta	husband	0035	munata	like.that	nc	nc				
+arta	husband	0036	#	#	#nc	#nc				
+arta	husband	0036	a:duwan	other	nc	nc				
+arta	husband	0037	#	#	##	##				
+arta	husband	0037	Sakay	and	other	other				
+arta	husband	0037	atti:	exist	other:predex	other		predex		
+arta	husband	0037	lubid	rope	np:s_other	np		s_other		
+arta	husband	0037	a	LIG	rn	rn				
+arta	husband	0037	il-illa:yug	RDP-ADJ.long	rn	rn				
+arta	husband	0038	#	#	#nc	#nc				
+arta	husband	0038	Me'-'a:du	ADJ-many	nc	nc				
+arta	husband	0038	a	LIG	nc	nc				
+arta	husband	0038	gilèngan	male	nc	nc				
+arta	husband	0038	pa:mansalusalunu	nc	nc	nc				
+arta	husband	0039	#	#	##	##				
+arta	husband	0039	G<in>èpè-gèpèt-an	<PST>RDP-tie-LV	v:pred	v		pred		
+arta	husband	0039	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	husband	0039	=tid	=3PL.ABS	=pro.h:p_u	=pro	h	p_u		
+arta	husband	0039	#	#	##	##				
+arta	husband	0039	Guyu-guyud	RDP-pull	v:pred	v		pred		
+arta	husband	0039	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	husband	0039	=tid	=3PL.ABS	=pro.h:p_u	=pro	h	p_u		
+arta	husband	0039	ti	OBL.DEF	nc	nc				
+arta	husband	0039	wa	PLH	nc	nc				
+arta	husband	0039	=y	=SPC	nc	nc				
+arta	husband	0039	illa:yug	long	other	other				
+arta	husband	0039	a	LIG	other	other				
+arta	husband	0039	lubid	rope	np:other	np		other		
+arta	husband	0040	#	#	##	##				
+arta	husband	0040	D<um>igdig	<INTR>arrive	v:pred	v		pred		
+arta	husband	0040	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	husband	0040	ta	OBL	ln	ln				
+arta	husband	0040	ka:man	big	ap_other:p_a	ap_other		p_a		
+arta	husband	0040	=ya	=DEM.DIST	=rn	=rn				
+arta	husband	0041	#	#	#nc	#nc				
+arta	husband	0041	#	#	#ac	#ac				
+arta	husband	0041	Amma	if	other	other				
+arta	husband	0041	me'-imemmayas	ADJ-slow	ap_other:pred	ap_other		pred		
+arta	husband	0041	=taw	=2SG.ABS	=pro.2:s_other	=pro	2	s_other		
+arta	husband	0042	%	%	%	%				
+arta	husband	0042	Kattsalung	NC	nc	nc				
+arta	husband	0042	ta	OBL	nc	nc				
+arta	husband	0042	palattug	gun	nc	nc				
+arta	husband	0042	ayna	DEM.MED	nc	nc				
+arta	husband	0042	=y	=SPC	nc	nc				

@@ -1,0 +1,518 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+arta	udulan	0001	#	#	##	##				
+arta	udulan	0001	istoria	story	np:predex	np		predex		
+arta	udulan	0001	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	udulan	0001	ay	TOP	ln	ln				
+arta	udulan	0001	taga-Danak	from-Danak	ln	ln				
+arta	udulan	0001	a	LIG	ln	ln				
+arta	udulan	0001	gilèngan	male	np.h:dt_poss	np	h	dt_poss		
+arta	udulan	0002	Udulan	Udulan	np.h:appos	np	h	appos		
+arta	udulan	0003	#	#	##	##				
+arta	udulan	0003	Ni-pangal	PST.CV-arrow	v:pred	v		pred		
+arta	udulan	0003	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	udulan	0003	ay	TOP	ln	ln				
+arta	udulan	0003	pangal	arrow	np:p_u	np		p_u		
+arta	udulan	0003	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	udulan	0003	=y	=SPC	=other	=other				
+arta	udulan	0004	#	#	##	##				
+arta	udulan	0004	0	0	0:a_a	0		a_a		
+arta	udulan	0004	n-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	udulan	0004	ta	OBL	ln	ln				
+arta	udulan	0004	ayta	there	ln	ln				
+arta	udulan	0004	Sabing	Sabing	np:p_a	np		p_a		
+arta	udulan	0005	#	#	##	##				
+arta	udulan	0005	0	0	0:a_a	0		a_a		
+arta	udulan	0005	n-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	udulan	0005	minumi:	NC	nc	nc				
+arta	udulan	0005	madit	unmarried.female	np.h:p_a	np	h	p_a		
+arta	udulan	0005	=i	=SPC	=other	=other				
+arta	udulan	0006	Taga-Sabing	from-Sabing	other	other				
+arta	udulan	0007	#	#	##	##				
+arta	udulan	0007	ay	TOP	ln	ln				
+arta	udulan	0007	pangal	arrow	np:dt_s	np		dt_s		
+arta	udulan	0007	ni	GEN.DEF	rn	rn				
+arta	udulan	0007	Udulan	Udulan	rn_np.h:poss	rn_np	h	poss		
+arta	udulan	0007	=i	=SPC	=other	=other				
+arta	udulan	0007	a	LIG	other	other				
+arta	udulan	0007	atti:	exist	other:predex	other		predex		
+arta	udulan	0007	0	0	0:s_other	0		s_other		
+arta	udulan	0007	ta	OBL	ln	ln				
+arta	udulan	0007	Danak	Danak	np:l	np		l		
+arta	udulan	0008	#	#	##	##				
+arta	udulan	0008	#	#	#	#				
+arta	udulan	0008	Aytay	now	other	other				
+arta	udulan	0008	na-bayag	PST.INTR-long.time	v:pred	v		pred		
+arta	udulan	0008	a	LIG	other	other				
+arta	udulan	0008	o:ras	time	np:other	np		other		
+arta	udulan	0008	aydi	and	other	other				
+arta	udulan	0008	bulan	month	np:other	np		other		
+arta	udulan	0008	%	%	%	%				
+arta	udulan	0009	Nang-a:na:	PST.INTR-child	v:pred	v		pred		
+arta	udulan	0009	=di	=POST	=rv	=rv				
+arta	udulan	0009	gilangan	male	np.h:s_a	np	h	s_a		
+arta	udulan	0009	=i	=SPC	=other	=other				
+arta	udulan	0009	#	#	##	##				
+arta	udulan	0009	0	0	0.h:s_other	0	h	s_other		
+arta	udulan	0009	Ay	TOP	other	other				
+arta	udulan	0009	atti:	exist	other:predex	other		predex		
+arta	udulan	0009	=tep	=ANT	=other	=other				
+arta	udulan	0009	=ta	=DIST.OBL	=dem_pro:l	=dem_pro		l		
+arta	udulan	0009	#	#	##	##				
+arta	udulan	0009	Ay	TOP	other	other				
+arta	udulan	0009	buka:gan	female	np.h:pred	np	h	pred		
+arta	udulan	0009	#	#	#rc:s_np	#rc		s_np		
+arta	udulan	0009	0	0	f0.h:s_a	f0	h	s_a		
+arta	udulan	0009	nang-a:na:	PST.INTR-child	v:pred	v		pred		
+arta	udulan	0009	=di	=3PL.GEN	=other	=other				
+arta	udulan	0010	#	#	##	##				
+arta	udulan	0010	Nang-a:na:	PST.INTR-child	v:pred	v		pred		
+arta	udulan	0010	=di	=3PL.GEN	=other	=other				
+arta	udulan	0010	buka:gan	female	np.h:s_a	np	h	s_a		
+arta	udulan	0010	=i	=SPC	=other	=other				
+arta	udulan	0010	ayta	there	ln	ln				
+arta	udulan	0010	Sabing	Sabing	np:other	np		other		
+arta	udulan	0011	#	#	##	##				
+arta	udulan	0011	Atti:	exist	other:predex	other		predex		
+arta	udulan	0011	=tep	=ANT	=other	=other				
+arta	udulan	0011	i	DEF	ln	ln				
+arta	udulan	0011	gilangan	male	np.h:s_other	np	h	s_other		
+arta	udulan	0011	=i	=SPC	=rn	=rn				
+arta	udulan	0011	ta	OBL	ln	ln				
+arta	udulan	0011	ayta	there	ln	ln				
+arta	udulan	0011	Danak	Danak	np:l	np		l		
+arta	udulan	0012	#	#	##	##				
+arta	udulan	0012	0	0	0.h:s_a	0	h	s_a		
+arta	udulan	0012	Nanga:na:	PST.INTR-child	v:pred	v		pred		
+arta	udulan	0012	=di	=POST	=other	=other				
+arta	udulan	0012	#	#	##	##				
+arta	udulan	0012	Gilangan	male	np.h:pred	np	h	pred		
+arta	udulan	0012	i	DEF	ln	ln				
+arta	udulan	0012	ana:	child	np.h:s_np	np	h	s_np		
+arta	udulan	0012	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	udulan	0013	#	#	##	##				
+arta	udulan	0013	0	0	0.h:s_a	0	h	s_a		
+arta	udulan	0013	Aytay	now	other	other				
+arta	udulan	0013	n-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	udulan	0013	=di	=PST	=other	=other				
+arta	udulan	0013	#	#	##	##				
+arta	udulan	0013	0	0	0.h:s_u	0	h	s_u		
+arta	udulan	0013	N-angay-an	PST-go-LV	vother:pred	vother		pred		
+arta	udulan	0013	#	#	#	#				
+arta	udulan	0013	0	0	0.h:a_u	0	h	a_u		
+arta	udulan	0013	a	LIG	other	other				
+arta	udulan	0013	n-alap	PST.TR-get	v:pred	v		pred		
+arta	udulan	0013	i	DEF	ln	ln				
+arta	udulan	0013	pangal	arrow	np:p_u	np		p_u		
+arta	udulan	0013	ni	GEN.DEF	rn	rn				
+arta	udulan	0013	gilangan	male	rn_np.h:poss	rn_np	h	poss		
+arta	udulan	0013	=i	=SPC	=rn	=rn				
+arta	udulan	0014	#	#	##	##				
+arta	udulan	0014	0	0	0:p_u	0		p_u		
+arta	udulan	0014	Pap-pe:t-èn	NF-CAUS.see-TR	v:pred	v		pred		
+arta	udulan	0014	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	udulan	0014	didi	PL.OBL.DEF	ln	ln				
+arta	udulan	0014	arta	person	np.h:g_u	np	h	g_u		
+arta	udulan	0014	=y	=SPC	=other	=other				
+arta	udulan	0015	#	#	##ds	##ds				
+arta	udulan	0015	Tatin	who	np.h:s_a	np	h	s_a		
+arta	udulan	0015	mam-pangal	INTR-arrow	v:pred	v		pred		
+arta	udulan	0015	=ti	=PROX.OBL	=dem_pro:obl_a	=dem_pro		obl_a		
+arta	udulan	0016	#	#	##ds.neg	##ds.neg				
+arta	udulan	0016	0	0	0:p_u	0		p_u		
+arta	udulan	0016	Awan	NEG	other	other				
+arta	udulan	0016	=ku	=1SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	udulan	0016	na-pangal	PST.POT-arrow	v:pred	v		pred		
+arta	udulan	0017	#	#	##	##				
+arta	udulan	0017	Punan	say	v:pred	v		pred		
+arta	udulan	0017	=di	=3PL.GEN	=pro.h:s_ds	=pro	h	s_ds		
+arta	udulan	0018	#	#	##	##				
+arta	udulan	0018	0	0	0.h:a_a	0	h	a_a		
+arta	udulan	0018	Ki:gad	up.to	other	other				
+arta	udulan	0018	=i	=SPC	=other	=other				
+arta	udulan	0018	n-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	udulan	0018	ta	OBL	ln	ln				
+arta	udulan	0018	Danak	Danak	np:p_a	np		p_a		
+arta	udulan	0019	#	#	##	##				
+arta	udulan	0019	#	#	#ds:p_u	#ds		p_u		
+arta	udulan	0019	Saya	DEM.DIST	other	other				
+arta	udulan	0019	i	DEF	ln	ln				
+arta	udulan	0019	pangal	arrow	np:pred	np		pred		
+arta	udulan	0019	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	udulan	0019	=ina	=DEM.MED	=dem_pro:s_np	=dem_pro		s_np		
+arta	udulan	0019	%	%	%	%				
+arta	udulan	0019	Punan	according.to	v:pred	v		pred		
+arta	udulan	0019	=na	=3SG.GEN	=rv	=rv				
+arta	udulan	0019	ayni	DEM.PROX.GEN	ln	ln				
+arta	udulan	0019	gilangan	male	np.h:bpi_a_u	np	h	bpi_a_u		
+arta	udulan	0020	#	#	##ds	##ds				
+arta	udulan	0020	Nang-a:na:	PST.INTR-child	v:pred	v		pred		
+arta	udulan	0020	=di	=POST	=other	=other				
+arta	udulan	0020	asawa	spouse	np.h:s_a	np	h	s_a		
+arta	udulan	0020	pakèt	spouse	np.h:dt_s	np	h	dt_s		
+arta	udulan	0020	=mu	=2SG.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	udulan	0020	=ti	=SPC	=other	=other				
+arta	udulan	0020	ayta	there	ln	ln				
+arta	udulan	0020	Sabing	Sabing	np:other	np		other		
+arta	udulan	0021	#	#	##	##				
+arta	udulan	0021	0	0	0:p_u	0		p_u		
+arta	udulan	0021	Punan	according.to	v:pred	v		pred		
+arta	udulan	0021	=na	=3SG.GEN	=rv	=rv				
+arta	udulan	0021	ayni	DEM.PROX.GEN	ln	ln				
+arta	udulan	0021	babakat	old.female	np.h:bpi_a_u	np	h	bpi_a_u		
+arta	udulan	0021	=i	=SPC	=rn	=rn				
+arta	udulan	0021	a	LIG	rn	rn				
+arta	udulan	0021	ina	DEM.MED	np.h:dt_a	np	h	dt_a		
+arta	udulan	0021	ni	GEN.DEF	rn	rn				
+arta	udulan	0021	buka:gan	female	rn_np.h:poss	rn_np	h	poss		
+arta	udulan	0021	=i	=SPC	=other	=other				
+arta	udulan	0022	#	#	##	##				
+arta	udulan	0022	N-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	udulan	0022	=de:	=POST	=rv	=rv				
+arta	udulan	0022	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	udulan	0022	=ta	=DIST.OBL	=rn	=rn				
+arta	udulan	0023	Ayta	there	ln	ln				
+arta	udulan	0023	Sabing	Sabing	np:bpi_p_a	np		bpi_p_a		
+arta	udulan	0024	#	#	##	##				
+arta	udulan	0024	#	#	#ac	#ac				
+arta	udulan	0024	Neb-bu:lun	PST.INTR-together	v:pred	v		pred		
+arta	udulan	0024	=de:	=POST	=other	=other				
+arta	udulan	0024	=tid	=3PL.ABS	=pro.h:s_a	=pro	h	s_a		
+arta	udulan	0024	%	%	%	%				
+arta	udulan	0024	a	LIG	other	other				
+arta	udulan	0024	n-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	udulan	0024	ta	OBL	ln	ln				
+arta	udulan	0024	Danak	Danak	np:p_a	np		p_a		
+arta	udulan	0024	#	#	#rc:a_a	#rc		a_a		
+arta	udulan	0024	aytidi	aytidi	ln	ln				
+arta	udulan	0024	nam-pakat	PST.INTR-spouse	v:pred	v		pred		
+arta	udulan	0024	=de:	=POST	=other	=other				
+arta	udulan	0024	=tid	=3PL.ABS	=pro.h:s_a	=pro	h	s_a		
+arta	udulan	0025	#	#	#ac	#ac				
+arta	udulan	0025	ta	when/because	other	other				
+arta	udulan	0025	atti:	exist	other:predex	other		predex		
+arta	udulan	0025	=di	=3PL.GEN	=rv	=rv				
+arta	udulan	0025	ana:	child	np.h:s_other	np	h	s_other		
+arta	udulan	0025	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	udulan	0025	a	LIG	rn	rn				
+arta	udulan	0025	si:pang	one	rn	rn				
+arta	udulan	0026	#	#	##	##				
+arta	udulan	0026	Udulan	Udulan	np.h:pred	np	h	pred		
+arta	udulan	0026	i	DEF	ln	ln				
+arta	udulan	0026	gilangan	male	np.h:s_np	np	h	s_np		
+arta	udulan	0026	=i	=SPC	=rn	=rn				
+arta	udulan	0027	#	#	##	##				
+arta	udulan	0027	Ni-pangal	PST.CV-arrow	v:pred	v		pred		
+arta	udulan	0027	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	udulan	0027	i	DEF	ln	ln				
+arta	udulan	0027	pangal	arrow	np:p_u	np		p_u		
+arta	udulan	0027	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	udulan	0027	=y	=SPC	=other	=other				
+arta	udulan	0028	#	#	##	##				
+arta	udulan	0028	Saddya	DEM.DIST	other	other				
+arta	udulan	0028	i	DEF	other	other				
+arta	udulan	0028	nang-a:na:	PST.INTR-child	v:pred	v		pred		
+arta	udulan	0028	=di	=3PL.GEN	=rv	=rv				
+arta	udulan	0028	buka:gan	female	np.h:a_a	np	h	a_a		
+arta	udulan	0028	=i	=SPC	=other	=other				
+arta	udulan	0028	ta	OBL	ln	ln				
+arta	udulan	0028	gilangan	male	np.h:p_a	np	h	p_a		
+arta	udulan	0029	#	#	##	##				
+arta	udulan	0029	N-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	udulan	0029	=de:	=POST	=other	=other				
+arta	udulan	0029	=tid	=3PL.ABS	=np.h:a_a	=np	h	a_a		
+arta	udulan	0029	ta	OBL	ln	ln				
+arta	udulan	0029	bunbun	house	np.h:p_a	np	h	p_a		
+arta	udulan	0029	=di	=3PL.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	udulan	0029	=ya	=DEM.DIST	=rn	=rn				
+arta	udulan	0030	#	#	##	##				
+arta	udulan	0030	Na-sungdu	PST.INTR-finish	v:pred	v		pred		
+arta	udulan	0030	=d	=POST	=other	=other				
+arta	udulan	0030	#	#	##neg	##neg				
+arta	udulan	0030	Awan	NEG	vother:pred	vother		pred		
+arta	udulan	0030	=d	=POST	=other	=other				
+arta	udulan	0031	Isanuwa:tèn	Isanuwa:tèn	nc	nc				
+arta	udulan	0032	#	#	##	##				
+arta	udulan	0032	Pang-istoria	Pang-istoria	np:predex	np		predex		
+arta	udulan	0032	na	GEN	rn	rn				
+arta	udulan	0032	ama	father	rn_np.h:poss	rn_np	h	poss		
+arta	udulan	0032	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	udulan	0032	=ti	=SPC	=other	=other				
+arta	udulan	0033	#	#	##	##				
+arta	udulan	0033	Isanuwa:tèng	Isanuwa:tèng	np.h:a_a	np	h	a_a		
+arta	udulan	0034	N-angay	PST.TR-go	nc	nc				
+arta	udulan	0034	=na	=3SG.GEN	nc	nc				
+arta	udulan	0034	n-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	udulan	0034	ta	OBL	ln	ln				
+arta	udulan	0034	dilod	downriver	np:p_a	np		p_a		
+arta	udulan	0035	#	#	##	##				
+arta	udulan	0035	N-inta	PST.TR-see	v:pred	v		pred		
+arta	udulan	0035	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	udulan	0035	i	DEF	ln	ln				
+arta	udulan	0035	buka:gan	female	np.h:p_u	np	h	p_u		
+arta	udulan	0036	#	#	##	##				
+arta	udulan	0036	Na-rapu	PST.TR-come.from	v:pred	v		pred		
+arta	udulan	0036	=na	=3SG.GEN	=pro.h:a_up	=pro	h	a_up		
+arta	udulan	0036	#	#	#rc:p_up	#rc		p_up		
+arta	udulan	0036	i	DEF	nc	nc				
+arta	udulan	0036	uman	like	nc	nc				
+arta	udulan	0036	=ni	=DEM.PROX.GEN	nc	nc				
+arta	udulan	0036	ni	GEN.DEF	nc	nc				
+arta	udulan	0036	ayni	DEM.PROX.GEN	nc	nc				
+arta	udulan	0037	#	#	##	##				
+arta	udulan	0037	0	0	0:p_u	0		p_u		
+arta	udulan	0037	N-y-atèd	PST-CV-give	v:pred	v		pred		
+arta	udulan	0037	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	udulan	0037	ti	PSN	ln	ln				
+arta	udulan	0037	buka:gan	female	np.h:g_u	np	h	g_u		
+arta	udulan	0038	#	#	##	##				
+arta	udulan	0038	Nang-atèd	PST.INTR-give	v:pred	v		pred		
+arta	udulan	0038	=man	=as.for	=other	=other				
+arta	udulan	0038	i	DEF	ln	ln				
+arta	udulan	0038	buka:gan	female	np.h:a_a	np	h	a_a		
+arta	udulan	0038	=i	=SPC	=other	=other				
+arta	udulan	0038	#	#	#rc:p_a	#rc		p_a		
+arta	udulan	0038	0	0	f0:p_a	f0		p_a		
+arta	udulan	0038	ta	OBL	ln	ln				
+arta	udulan	0038	man	like	v:pred	v		pred		
+arta	udulan	0038	#	#	#rc:a_a	#rc		a_a		
+arta	udulan	0038	0	0	f0:p_u	f0		p_u		
+arta	udulan	0038	ni	GEN.DEF	ln	ln				
+arta	udulan	0038	nyatèd	TR-give	v:pred	v		pred		
+arta	udulan	0038	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	udulan	0038	=d	=POST	=other	=other				
+arta	udulan	0039	#	#	##	##				
+arta	udulan	0039	0	0	0:p_u	0		p_u		
+arta	udulan	0039	Ny-atèd	PST.CV-give	v:pred	v		pred		
+arta	udulan	0039	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	udulan	0039	tamman	in return	other	other				
+arta	udulan	0039	ti	PSN	ln	ln				
+arta	udulan	0039	gilèngan	male	np.h:g_u	np	h	g_u		
+arta	udulan	0039	=i	=SPC	=rn	=rn				
+arta	udulan	0040	#	#	##	##				
+arta	udulan	0040	Mang-a:na	INTR-child	v:pred	v		pred		
+arta	udulan	0040	i	DEF	ln	ln				
+arta	udulan	0040	gilangan	male	np.h:s_a	np	h	s_a		
+arta	udulan	0041	#	#	##	##				
+arta	udulan	0041	Ma-tagi:	INTR-wait	v:pred	v		pred		
+arta	udulan	0041	=te:	=only	=other	=other				
+arta	udulan	0041	=taw	=2SG.ABS	=pro.2:s_a	=pro	2	s_a		
+arta	udulan	0041	=ti:	=PROX.OBL	=dem_pro:l	=dem_pro		l		
+arta	udulan	0041	#	#	#ac	#ac				
+arta	udulan	0041	da	because	other	other				
+arta	udulan	0041	n-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	udulan	0041	=tèn	=1SG.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	udulan	0041	=ta	=DIST.OBL	=dem_pro:p_a	=dem_pro		p_a		
+arta	udulan	0041	#	#	#	#				
+arta	udulan	0041	0	0	0.1:a_a	0	1	a_a		
+arta	udulan	0041	mam-bira	INTR-search.for	v:pred	v		pred		
+arta	udulan	0041	ta	OBL	ln	ln				
+arta	udulan	0041	laman	wild.pig	np:p_a	np		p_a		
+arta	udulan	0041	#	#	#rc	#rc				
+arta	udulan	0041	a	LIG	other	other				
+arta	udulan	0041	pang-kasar-an	NF-wedding-LV	vother:pred	vother		pred		
+arta	udulan	0041	=ta	=1+2SG	=pro.1:s_u	=pro	1	s_u		
+arta	udulan	0042	##]	#	##	##				
+arta	udulan	0042	#	#	#ds:p_u	#ds		p_u		
+arta	udulan	0042	O:ni	Yes	other:pred	other		pred		
+arta	udulan	0042	%	%	%	%				
+arta	udulan	0042	Punan	according.to	v:pred	v		pred		
+arta	udulan	0042	ni	GEN.DEF	ln	ln				
+arta	udulan	0042	buka:gan	female	np.h:a_u	np	h	a_u		
+arta	udulan	0042	=i	=SPC	=rn	=rn				
+arta	udulan	0043	#	#	##	##				
+arta	udulan	0043	Na-bayag	PST.INTR-long.time	v:pred	v		pred		
+arta	udulan	0043	i	DEF	ln	ln				
+arta	udulan	0043	gilèngan	male	np.h:a_a	np	h	a_a		
+arta	udulan	0043	=i	=SPC	=rn	=rn				
+arta	udulan	0043	ta	OBL	ln	ln				
+arta	udulan	0043	diddya	upriver	np:p_a	np		p_a		
+arta	udulan	0044	#	#	##neg	##neg				
+arta	udulan	0044	Awan	NEG	other	other				
+arta	udulan	0044	=d	=POST	=other	=other				
+arta	udulan	0044	n-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	udulan	0044	=ta	=DIST.OBL	=dem_pro:p_a	=dem_pro		p_a		
+arta	udulan	0044	gilèngan	male	np.h:a_a	np	h	a_a		
+arta	udulan	0044	=i	=SPC	=other	=other				
+arta	udulan	0045	#	#	##	##				
+arta	udulan	0045	0	0	0.h:a_a	0	h	a_a		
+arta	udulan	0045	Nang-asawa	PST.INTR-spouse	v:pred	v		pred		
+arta	udulan	0045	=d	=POST	=other	=other				
+arta	udulan	0045	ta	OBL	ln	ln				
+arta	udulan	0045	gissa	one	ln	ln				
+arta	udulan	0045	gilèngan	male	np.h:p_a	np	h	p_a		
+arta	udulan	0046	#	#	##	##				
+arta	udulan	0046	N-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	udulan	0046	=de:	=POST	=other	=other				
+arta	udulan	0046	=ta	=there	=pro:p_a	=pro		p_a		
+arta	udulan	0046	isanuwa:tèng	isanuwa:tèng	np.h:a_a	np	h	a_a		
+arta	udulan	0046	#	#	##	##				
+arta	udulan	0046	0	0	0.h:a_a	0	h	a_a		
+arta	udulan	0046	n-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	udulan	0046	=de:	=POST	=rv	=rv				
+arta	udulan	0046	ta	OBL	ln	ln				
+arta	udulan	0046	buka:gan	female	np.h:p_a	np	h	p_a		
+arta	udulan	0047	#	#	##	##				
+arta	udulan	0047	A:nu	what	np:p_u	np		p_u		
+arta	udulan	0047	itta-n	see-TR	v:pred	v		pred		
+arta	udulan	0047	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	udulan	0047	#	#	##	##				
+arta	udulan	0047	Atti:	exist	other:predex	other		predex		
+arta	udulan	0047	=di	=POST	=rv	=rv				
+arta	udulan	0047	asawa	spouse	np.h:s_other	np	h	s_other		
+arta	udulan	0047	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		
+arta	udulan	0048	#	#	##ds	##ds				
+arta	udulan	0048	Y-angay	TR-go	v:pred	v		pred		
+arta	udulan	0048	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	udulan	0048	=d	=POST	=rv	=rv				
+arta	udulan	0048	=ti	=PROX.OBL	=dem_pro:g_u	=dem_pro		g_u		
+arta	udulan	0048	bi:lèg	necklace	np:p_u	np		p_u		
+arta	udulan	0048	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	udulan	0048	=ti	=SPC	=rn	=rn				
+arta	udulan	0049	#	#	#ds_ac	#ds_ac				
+arta	udulan	0049	da	because	other	other				
+arta	udulan	0049	nang-asawa	PST.INTR-spouse	v:pred	v		pred		
+arta	udulan	0049	=d	=POST	=rv	=rv				
+arta	udulan	0049	=mande:	=again	=rv	=rv				
+arta	udulan	0049	=taw	=2SG.ABS	=pro.2:a_a	=pro	2	a_a		
+arta	udulan	0049	ta	OBL	ln	ln				
+arta	udulan	0049	si:pang	one	ln	ln				
+arta	udulan	0049	a	LIG	ln	ln				
+arta	udulan	0049	gilèngan	male	np.h:p_a	np	h	p_a		
+arta	udulan	0050	#	#	##	##				
+arta	udulan	0050	0	0	0:p_u	0		p_u		
+arta	udulan	0050	Y-angay	TR-come	v:pred	v		pred		
+arta	udulan	0050	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	udulan	0050	=d	=POST	=rv	=rv				
+arta	udulan	0050	=ti	=PROX.OBL	=dem_pro:g_u	=dem_pro		g_u		
+arta	udulan	0051	#	#	##	##				
+arta	udulan	0051	0	0	0:p_u	0		p_u		
+arta	udulan	0051	0	0	0.h:g_u	0	h	g_u		
+arta	udulan	0051	n-y-atèd	PST-CV-give	v:pred	v		pred		
+arta	udulan	0051	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	udulan	0051	#	#	##neg	##neg				
+arta	udulan	0051	awan	NEG	other:predex	other		predex		
+arta	udulan	0051	=de:	=POST	=rv	=rv				
+arta	udulan	0051	#	#	#rc:ncs_other	#rc		ncs_other		
+arta	udulan	0051	0	0	f0:p_u	f0		p_u		
+arta	udulan	0051	ta	OBL	ln	ln				
+arta	udulan	0051	y-atèd	TR-give	v:pred	v		pred		
+arta	udulan	0051	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	udulan	0051	#	#	#ac	#ac				
+arta	udulan	0051	da	because	other	other				
+arta	udulan	0051	atti:	exist	other:predex	other		predex		
+arta	udulan	0051	=di	=3PL.GEN	=rv	=rv				
+arta	udulan	0051	#	#	#rc:s_other	#rc		s_other		
+arta	udulan	0051	0	0	f0.h:p_a	f0	h	p_a		
+arta	udulan	0051	0	0	0.h:a_a	0	h	a_a		
+arta	udulan	0051	nang-asawa	PST.INTR-spouse	v:pred	v		pred		
+arta	udulan	0051	=d	=POST	=rv	=rv				
+arta	udulan	0052	#	#	##	##				
+arta	udulan	0052	Nan-subèg	PST.INTR-anger	v:pred	v		pred		
+arta	udulan	0052	ti	PSN	ln	ln				
+arta	udulan	0052	sanuwa:tèn	sanuwa:tèn	np.h:s_a	np	h	s_a		
+arta	udulan	0053	#	#	##	##				
+arta	udulan	0053	P<in>a-pati	<PST>CAUS-die	v:pred	v		pred		
+arta	udulan	0053	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	udulan	0053	i	DEF	ln	ln				
+arta	udulan	0053	buka:gan	female	np.h:p_u	np	h	p_u		
+arta	udulan	0053	=i	=SPC	=rn	=rn				
+arta	udulan	0054	#	#	#ac	#ac				
+arta	udulan	0054	0	0	0.h:a_a	0	h	a_a		
+arta	udulan	0054	da	because	other	other				
+arta	udulan	0054	nang-asawa	INTR-spouse	v:pred	v		pred		
+arta	udulan	0054	ta	OBL	ln	ln				
+arta	udulan	0054	gissa	one	ln	ln				
+arta	udulan	0054	gilangan	male	np.h:p_a	np	h	p_a		
+arta	udulan	0055	#	#	##	##				
+arta	udulan	0055	wa	PLH	nc	nc				
+arta	udulan	0055	=y	=SPC	nc	nc				
+arta	udulan	0055	n-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	udulan	0055	=de:	=POST	=other	=other				
+arta	udulan	0055	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	udulan	0055	ta	OBL	ln	ln				
+arta	udulan	0055	diddya	upriver	np:p_a	np		p_a		
+arta	udulan	0055	#	#	##	##				
+arta	udulan	0055	N-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	udulan	0055	=de:	=POST	=other	=other				
+arta	udulan	0055	ti	ti	ln	ln				
+arta	udulan	0055	sanuwatèn	sanuwatèn	np.h:a_a	np	h	a_a		
+arta	udulan	0055	ta	OBL	ln	ln				
+arta	udulan	0055	diddya	upriver	np:p_a	np		p_a		
+arta	udulan	0056	#	#	##	##				
+arta	udulan	0056	Na-sagbit	PST.POT-attack	v:pred	v		pred		
+arta	udulan	0056	=na	=3SG.GEN	=pro.h:a_up	=pro	h	a_up		
+arta	udulan	0056	i	DEF	ln	ln				
+arta	udulan	0056	buka:gan	female	np.h:p_up	np	h	p_up		
+arta	udulan	0056	=i	=SPC	=rn	=rn				
+arta	udulan	0056	aydi:	and	rn	rn				
+arta	udulan	0056	gilèngan	male	rn_np.h	rn_np	h			
+arta	udulan	0056	=i	=SPC	=rn	=rn				
+arta	udulan	0056	#	#	#	#				
+arta	udulan	0056	0	0	0.h:a_up	0	h	a_up		
+arta	udulan	0056	aydi:	and	other	other				
+arta	udulan	0056	na-sagbit	PST.POT-attack	v:pred	v		pred		
+arta	udulan	0056	=tep	=ANT	=other	=other				
+arta	udulan	0056	ti	ti	ln	ln				
+arta	udulan	0056	sanuwa:tèn	sanuwa:tèn	np.h:p_up	np	h	p_up		
+arta	udulan	0057	#	#	##	##				
+arta	udulan	0057	0	0	0.h:a_a	0	h	a_a		
+arta	udulan	0057	Konta	but	other	other				
+arta	udulan	0057	n-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	udulan	0057	=de:	=POST	=rv	=rv				
+arta	udulan	0057	ta	OBL	ln	ln				
+arta	udulan	0057	diddya	upriver	np:p_a	np		p_a		
+arta	udulan	0058	#	#	##neg	##neg				
+arta	udulan	0058	Awan	NEG	other	other				
+arta	udulan	0058	=mi	=1PL.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	udulan	0058	tataw	know	v:pred	v		pred		
+arta	udulan	0058	#	#	#cc:p_u	#cc		p_u		
+arta	udulan	0058	amma	if	other	other				
+arta	udulan	0058	nap-pati	PST.INTR-die	v:pred	v		pred		
+arta	udulan	0058	ti	PSN	ln	ln				
+arta	udulan	0058	sanuwa:tèn	sanuwa:tèn	np.h:s_a	np	h	s_a		
+arta	udulan	0058	#	#	#nc	#nc				
+arta	udulan	0058	da	because	nc	nc				
+arta	udulan	0058	a:yi	DEM.PROX	nc	nc				
+arta	udulan	0058	matlèm	blood	nc	nc				
+arta	udulan	0058	=na	=3SG.GEN	nc	nc				
+arta	udulan	0058	=y	=SPC	nc	nc				
+arta	udulan	0058	a	LIG	nc	nc				
+arta	udulan	0058	nang-e:be:bud	PST.INTR-ask	nc	nc				
+arta	udulan	0058	=di	=3PL.GEN	nc	nc				
+arta	udulan	0058	ti	ti	nc	nc				
+arta	udulan	0058	nad-dima	PST.INTR-go.back	nc	nc				
+arta	udulan	0058	ni	GEN.DEF	nc	nc				
+arta	udulan	0058	ayti	here	nc	nc				
+arta	udulan	0058	mangik-karagatan	INTR.RCP-stone	nc	nc				
+arta	udulan	0058	a	LIG	nc	nc				
+arta	udulan	0058	s<in>agbid	<PST.TR>attack	nc	nc				
+arta	udulan	0058	=di	=3PL.GEN	nc	nc				
+arta	udulan	0059	#	#	#nc	#nc				
+arta	udulan	0059	Ayta	There	other	other				
+arta	udulan	0059	d<in>agayday	<PST.TR>chase	v:pred	v		pred		
+arta	udulan	0059	didi	PL.GEN.DEF	ln	ln				
+arta	udulan	0059	ama	father	np.h:a_u	np	h	a_u		
+arta	udulan	0059	ni	GEN.DEF	ln	ln				
+arta	udulan	0059	buka:gan	female	ln_np.h:poss	ln_np	h	poss		
+arta	udulan	0059	#	#	#rc	#rc				
+arta	udulan	0059	0	0	f0:s_a	f0		s_a		
+arta	udulan	0059	a	LIG	other	other				
+arta	udulan	0059	nap-pati	PST.INTR-die	v:pred	v		pred		
+arta	udulan	0059	aydi:	and	other	other				
+arta	udulan	0059	gila:ngan	male	np.h:other	np	h	other		
+arta	udulan	0059	=i	=SPC	=other	=other				
+arta	udulan	0060	#	#	##neg	##neg				
+arta	udulan	0060	Awan	NEG	other:predex	other		predex		
+arta	udulan	0060	=d	=POST	=other	=other				
+arta	udulan	0060	di:ta	any.longer	other	other				
+arta	udulan	0060	ti	ti	ln	ln				
+arta	udulan	0060	Sanuwa:tèn	Sanuwa:tèn	np.h:ncs_other	np	h	ncs_other		
+arta	udulan	0060	#	#	##	##				
+arta	udulan	0060	s<in><um>u:lid	<PST><INTR>return	v:pred	v		pred		
+arta	udulan	0060	=tid	=3PL.ABS	=pro.h:s_a	=pro	h	s_a		
+arta	udulan	0060	#	#	#nc	#nc				
+arta	udulan	0060	Saddya	DEM.DIST.PL	nc	nc				
+arta	udulan	0060	kigad	end	nc	nc				
+arta	udulan	0060	=na	=3SG.GEN	nc	nc				
+arta	udulan	0060	awan	NEG	nc	nc				
+arta	udulan	0060	=di	=3PL.GEN	nc	nc				

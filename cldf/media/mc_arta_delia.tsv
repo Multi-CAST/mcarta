@@ -1,0 +1,801 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+arta	delia	0001	#	#	##	##				
+arta	delia	0001	Konta	but	other	other				
+arta	delia	0001	ayde:tay	now	other	other				
+arta	delia	0001	k<in><um>a:man	<PST><INTR>big	v:pred	v		pred		
+arta	delia	0001	=ami	=1PL.ABS	=pro.1:s_a	=pro	1	s_a		
+arta	delia	0001	=d	=POST	=other	=other				
+arta	delia	0001	#	#	#	#				
+arta	delia	0001	atti:	exist	other:predex	other		predex		
+arta	delia	0001	=ami	=1PL.ABS	=pro.1:s_other	=pro	1	s_other		
+arta	delia	0001	ti	OBL.DEF	ln	ln				
+arta	delia	0001	aytina	DEM.MED.OBL	ln	ln				
+arta	delia	0001	=y	=SPC	=ln	=ln				
+arta	delia	0001	Disubu	Disubu	np:l	np		l		
+arta	delia	0001	=y	=SPC	=rn	=rn				
+arta	delia	0002	#	#	##	##				
+arta	delia	0002	#	#	#ac	#ac				
+arta	delia	0002	Ki:gad	up.to	other	other				
+arta	delia	0002	ta	OBL	other	other				
+arta	delia	0002	k<in><um>a:man	<PST><INTR>big	v:pred	v		pred		
+arta	delia	0002	=ami	=1PL.ABS	=pro.1:s_a	=pro	1	s_a		
+arta	delia	0003	#	#	#ac	#ac				
+arta	delia	0003	ki:gad	up.to	other	other				
+arta	delia	0003	ta	OBL	other	other				
+arta	delia	0003	na-ulitaw	PST.INTR-male.teeanger	v:pred	v		pred		
+arta	delia	0003	=ami	=1PL.ABS	=pro.1:s_a	=pro	1	s_a		
+arta	delia	0003	%	%	%	%				
+arta	delia	0004	atti:	exist	other	other				
+arta	delia	0004	=ami	=1PL.ABS	=pro.1:s_np	=pro	1	s_np		
+arta	delia	0004	ti	OBL.DEF	ln	ln				
+arta	delia	0004	Aglipay	Aglipay	np:pred_l	np		pred_l		
+arta	delia	0004	wa	PHL	other	other				
+arta	delia	0005	Disubu	Disubu	other	other				
+arta	delia	0006	#	#	##	##				
+arta	delia	0006	Awan	NEG	other	other				
+arta	delia	0006	n-um-angay	PST.INTR-go	v:pred	v		pred		
+arta	delia	0006	=ami	=1PL.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	delia	0006	=tep	=ANT	=other	=other				
+arta	delia	0006	ti	OBL.DEF	ln	ln				
+arta	delia	0006	ayta	DEM.DIST.OBL	np:p_a	np		p_a		
+arta	delia	0006	#	#	#	#				
+arta	delia	0006	0	0	0.1:a_u	0	1	a_u		
+arta	delia	0006	n-angay	PST-go	v:pred	v		pred		
+arta	delia	0006	anyina	DEM.MED	dem_pro:p_u	dem_pro		p_u		
+arta	delia	0006	=y	=SPC	=rn	=rn				
+arta	delia	0006	wa	PLH	nc	nc				
+arta	delia	0006	=y	=SPC	nc	nc				
+arta	delia	0006	Maddela	Maddela	rn	rn				
+arta	delia	0007	Sumaruno	next	other	other				
+arta	delia	0008	#	#	##	##				
+arta	delia	0008	#	#	#ac	#ac				
+arta	delia	0008	Na-bayag	PST.INTR-long	v:pred	v		pred		
+arta	delia	0008	=ami	=1PL.ABS	=pro.1:s_a	=pro	1	s_a		
+arta	delia	0008	=tina	=DEM.MED.OBL	=other:l	=other		l		
+arta	delia	0008	%	%	%	%				
+arta	delia	0009	ay	FILL	other	other				
+arta	delia	0009	In-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	delia	0009	=ami	=1PL.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	delia	0009	=mandi	=again	=other	=other				
+arta	delia	0009	ti	OBL.DEF	ln	ln				
+arta	delia	0009	aytina	DEM.MED.OBL	ln	ln				
+arta	delia	0009	=y	=SPC	=ln	=ln				
+arta	delia	0009	Disunumgal	Disimungal	np:p_a	np		p_a		
+arta	delia	0010	#	#	##	##				
+arta	delia	0010	Saya	DEM.DIST	other	other				
+arta	delia	0010	manga:-aka:kat	STV-misery	v:pred	v		pred		
+arta	delia	0010	=ami	=1PL.ABS	=pro:s_a	=pro		s_a		
+arta	delia	0011	#	#	##neg	##neg				
+arta	delia	0011	Awan	NEG	other	other				
+arta	delia	0011	ta	OBL	other	other				
+arta	delia	0011	awan	NEG	other:predex	other		predex		
+arta	delia	0011	ta	OBL	ln	ln				
+arta	delia	0011	uma	field	np:ncs_other	np		ncs_other		
+arta	delia	0011	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	delia	0011	#	#	##	##				
+arta	delia	0011	amma	if	other	other				
+arta	delia	0011	ka:rawan	sometimes	other	other				
+arta	delia	0011	awan	NEG	other:predex	other		predex		
+arta	delia	0011	=ami	=1PL.ABS	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	delia	0011	ta	OBL	ln	ln				
+arta	delia	0011	#	#	#rc	#rc				
+arta	delia	0011	0	0	f0:p_u	f0		p_u		
+arta	delia	0011	an-èn	eat-TR	v:pred	v		pred		
+arta	delia	0011	%	%	%	%				
+arta	delia	0011	a	LIG	other	other				
+arta	delia	0011	mabaw	carbohydrate	np:ncs_other	np		ncs_other		
+arta	delia	0011	baggat	rice	other	other				
+arta	delia	0012	#	#	##	##				
+arta	delia	0012	ka:ruwan	sometimes	other	other				
+arta	delia	0012	nam-bugay	PST.INTR-hunt	v:pred	v		pred		
+arta	delia	0012	=ami	=1PL.ABS	=pro.1:s_a	=pro	1	s_a		
+arta	delia	0012	ta	OBL	ln	ln				
+arta	delia	0012	lappul	dog	np:obl	np		obl		
+arta	delia	0012	burog	monkey	np:other	np		other		
+arta	delia	0013	#	#	##	##				
+arta	delia	0013	ma-lèdèp	INTR-get.fish	v:pred	v		pred		
+arta	delia	0013	=ami	=1PL.ABS	=pro:a_a	=pro		a_a		
+arta	delia	0013	ta	OBL	ln	ln				
+arta	delia	0013	wagèt	river	np:p_a	np		p_a		
+arta	delia	0014	#	#	##	##				
+arta	delia	0014	Saya	DEM.DIST	dem_pro:s_np	dem_pro		s_np		
+arta	delia	0014	anèn	food	np:pred	np		pred		
+arta	delia	0014	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	delia	0014	èngka:rawan	sometimes	other	other				
+arta	delia	0015	#	#	##	##				
+arta	delia	0015	0	0	0.1:s_a	0	1	s_a		
+arta	delia	0015	mang-une:	INTR-climb	v:pred	v		pred		
+arta	delia	0015	#	#	#ac	#ac				
+arta	delia	0015	ma	if	other	other				
+arta	delia	0015	man-dalag	INTR-get.honey	v:pred	v		pred		
+arta	delia	0015	=ami	=1PL.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	delia	0015	ta	OBL	ln	ln				
+arta	delia	0015	diyu	honey	np:p_a	np		p_a		
+arta	delia	0016	#	#	##	##				
+arta	delia	0016	Saya	DEM.DIST	dem_pro:s_np	dem_pro		s_np		
+arta	delia	0016	i	DEF	ln	ln				
+arta	delia	0016	an-èn	food	np:pred	np		pred		
+arta	delia	0016	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	delia	0017	#	#	#rc	#rc				
+arta	delia	0017	0	0	f0:s_np	f0		s_np		
+arta	delia	0017	a	LIG	other	other				
+arta	delia	0017	yakkan	viand	np:pred	np		pred		
+arta	delia	0017	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	delia	0017	ta	LIG	ln	ln				
+arta	delia	0017	palagaw	sago	np:other	np		other		
+arta	delia	0017	=i	=SPC	=rn	=rn				
+arta	delia	0018	#	#	#ac.neg	#ac.neg				
+arta	delia	0018	da	because	other	other				
+arta	delia	0018	awan	NEG	other:predex	other		predex		
+arta	delia	0018	=tep	=ANT	=other	=other				
+arta	delia	0018	ta	OBL	ln	ln				
+arta	delia	0018	agani:	non-Negrito	np:ncs_other	np		ncs_other		
+arta	delia	0018	ta	OBL	other	other				
+arta	delia	0018	dutul	before	other	other				
+arta	delia	0018	ta	OBL	ln	ln				
+arta	delia	0018	ayta	DEM.DIST.OBL	dem_pro:l	dem_pro		l		
+arta	delia	0019	#	#	##	##				
+arta	delia	0019	Aytidi	ABS.PL.DEF	ln	ln				
+arta	delia	0019	aturangan	child-in-law	np.h:dt	np	h	dt		
+arta	delia	0019	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	delia	0019	=ti	=SPC	=rn	=rn				
+arta	delia	0019	#	#	#ac	#ac				
+arta	delia	0019	amma	if	other	other				
+arta	delia	0019	mamitta	once	v:pred	v		pred		
+arta	delia	0020	%	%	%	%				
+arta	delia	0020	m-angay	INTR-go	v:pred	v		pred		
+arta	delia	0020	=ami	=1PL.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	delia	0020	ta	OBL	ln	ln				
+arta	delia	0020	lipat	opposite.side	ln	ln				
+arta	delia	0020	ta	OBL	ln	ln				
+arta	delia	0020	Sinabègan	Sinabègan	np:p_a	np		p_a		
+arta	delia	0021	#	#	##neg	##neg				
+arta	delia	0021	Awan	NEG	other:predex	other		predex		
+arta	delia	0021	=ami	=1PL.ABS	=pro.1:s_other	=pro	1	s_other		
+arta	delia	0021	ta	OBL	ln	ln				
+arta	delia	0021	anèn	food	np:obl	np		obl		
+arta	delia	0022	#	#	##neg	##neg				
+arta	delia	0022	Awan	NEG	other:predex	other		predex		
+arta	delia	0022	ta	OBL	ln	ln				
+arta	delia	0022	Ilongot	Ilongot	np:ncs_other	np		ncs_other		
+arta	delia	0022	#	#	##neg	##neg				
+arta	delia	0022	awan	NEG	other:predex	other		predex		
+arta	delia	0022	ta	OBL	ln	ln				
+arta	delia	0022	agani:	non-Negrito	np:ncs_other	np		ncs_other		
+arta	delia	0022	#	#	##neg	##neg				
+arta	delia	0022	awan	NEG	other:pred	other		pred		
+arta	delia	0022	ta	OBL	ln	ln				
+arta	delia	0022	pangalapan	NF-get-LV	np:ncs_other	np		ncs_other		
+arta	delia	0022	=mu	=2SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	delia	0022	ta	OBL	ln	ln				
+arta	delia	0022	anèn	eat-TR	np:other	np		other		
+arta	delia	0022	=mu	=2SG.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	delia	0023	#	#	##	##				
+arta	delia	0023	#	#	#	#				
+arta	delia	0023	0	0	0.h:s_a	0	h	s_a		
+arta	delia	0023	Amma	if	other	other				
+arta	delia	0023	mal-lèdèp	INTR-get.fish	v:pred	v		pred		
+arta	delia	0023	%	%	%	%				
+arta	delia	0023	0	0	0.h:a_a	0	h	a_a		
+arta	delia	0023	mam-bugay	INTR-hunt	v:pred	v		pred		
+arta	delia	0023	ta	OBL	ln	ln				
+arta	delia	0023	bidut	deer	np:p_a	np		p_a		
+arta	delia	0023	aydi:	and	rn	rn				
+arta	delia	0023	laman	wild.pig	rn	rn				
+arta	delia	0024	#	#	##	##				
+arta	delia	0024	naka-'asawa	PST.POT-marry	v:pred	v		pred		
+arta	delia	0024	=d	=POST	=other	=other				
+arta	delia	0024	=tèn	=1SG.ABS	=pro.1:s_ap	=pro	1	s_ap		
+arta	delia	0025	#	#	##	##				
+arta	delia	0025	meddyo	a little	other	other				
+arta	delia	0025	naka-'angès	PST.POT-breathe	v:pred	v		pred		
+arta	delia	0025	=ami	=1PL.ABS	=pro.1:s_ap	=pro	1	s_ap		
+arta	delia	0025	#	#	#ac	#ac				
+arta	delia	0025	ta	OBL	other	other				
+arta	delia	0025	atti:	exist	other:predex	other		predex		
+arta	delia	0025	=di	=POST	=other	=other				
+arta	delia	0025	la:ngin	companion	np:s_other	np		s_other		
+arta	delia	0026	kompaniya	companionship	other	other				
+arta	delia	0027	#	#	##	##				
+arta	delia	0027	Saya	DEM.DIST	other	other				
+arta	delia	0027	nan-taraba:ho	PST.INTR-work	v:pred	v		pred		
+arta	delia	0027	=tèn	=1SG.ABS	=pro.1:s_ap	=pro	1	s_ap		
+arta	delia	0027	#	#	##	##				
+arta	delia	0027	nan-taraba:ho	PST.INTR-work	v:pred	v		pred		
+arta	delia	0027	=ami	=1PL.ABS	=pro.1:s_ap	=pro	1	s_ap		
+arta	delia	0027	tami	1PL	ln	ln				
+arta	delia	0027	attanan	all	ln	ln				
+arta	delia	0027	a	LIG	ln	ln				
+arta	delia	0027	arta	Arta	np.h:dt_s	np	h	dt_s		
+arta	delia	0027	ti	OBL.DEF	rn	rn				
+arta	delia	0027	ayta	DEM.DIST.OBL	rn	rn				
+arta	delia	0027	Disumungal	Disumungal	rn_np	rn_np				
+arta	delia	0028	#	#	##neg	##neg				
+arta	delia	0028	Konta	but	other	other				
+arta	delia	0028	awan	NEG	other:predex	other		predex		
+arta	delia	0028	=tep	=tep	=other	=other				
+arta	delia	0028	kontinto	satisfaction	np:ncs_other	np		ncs_other		
+arta	delia	0028	#	#	#nc	#nc				
+arta	delia	0028	ta	OBL	nc	nc				
+arta	delia	0028	iwa	TR-PLH	nc	nc				
+arta	delia	0028	=mi	=1PL.GEN	nc	nc				
+arta	delia	0029	#	#	#nc	#nc				
+arta	delia	0029	Awan	NEG	nc	nc				
+arta	delia	0029	=tep	=ANT	nc	nc				
+arta	delia	0029	=tèn	=1SG.ABS	nc	nc				
+arta	delia	0029	husto	enough	nc	nc				
+arta	delia	0030	#	#	#nc	#nc				
+arta	delia	0030	Awan	NEG	nc	nc				
+arta	delia	0030	=ku	=1SG.GEN	nc	nc				
+arta	delia	0030	=tep	=ANT	nc	nc				
+arta	delia	0030	ma-'abit	ma'abit	nc	nc				
+arta	delia	0030	i	DEF	nc	nc				
+arta	delia	0030	husto	enough	nc	nc				
+arta	delia	0030	a	LIG	nc	nc				
+arta	delia	0030	attanan	all	nc	nc				
+arta	delia	0031	#	#	#nc	#nc				
+arta	delia	0031	uman	as.if	nc	nc				
+arta	delia	0031	na	GEN	nc	nc				
+arta	delia	0031	atti:	exist	nc	nc				
+arta	delia	0031	pa:ng-ibud	pa:ngibud	nc	nc				
+arta	delia	0031	a	LIG	nc	nc				
+arta	delia	0032	#	#	##neg	##neg				
+arta	delia	0032	awan	NEG	other:predex	other		predex		
+arta	delia	0032	=tep	=ANT	=other	=other				
+arta	delia	0032	#	#	#rc:ncs_other	#rc		ncs_other		
+arta	delia	0032	0	0	f0.h:a_a	f0	h	a_a		
+arta	delia	0032	ta	OBL	ln	ln				
+arta	delia	0032	nang-urub	nangurub	v:pred	v		pred		
+arta	delia	0032	ta	OBL	ln	ln				
+arta	delia	0032	Dios	god	np:p_a	np		p_a		
+arta	delia	0033	inum	drinking	other	other				
+arta	delia	0033	bartik	intoxicatedness	other	other				
+arta	delia	0033	binara:yan	alcohol	other	other				
+arta	delia	0034	#	#	##	##				
+arta	delia	0034	permi	highly	other	other				
+arta	delia	0034	a	LIG	other	other				
+arta	delia	0034	ma	if	other	other				
+arta	delia	0034	mamitta	once	other	other				
+arta	delia	0034	pe:-subèsubèg	pe:subèsubèg	v:pred	v		pred		
+arta	delia	0034	=ami	=1PL.ABS	=pro.1:s_a	=pro	1	s_a		
+arta	delia	0035	#	#	##	##				
+arta	delia	0035	mamitta	once	other	other				
+arta	delia	0035	pa:man-bisibisig	INTR-trial.by.ordeal	v:pred	v		pred		
+arta	delia	0035	=ami	=1PL.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	delia	0036	ta	OBL	ln	ln				
+arta	delia	0036	gilèngan	male	np.h:p_a	np	h	p_a		
+arta	delia	0036	aydi:	and	rn	rn				
+arta	delia	0036	buka:gan	famale	rn	rn				
+arta	delia	0037	#	#	##	##				
+arta	delia	0037	ay	NC	other	other				
+arta	delia	0037	nappati	PST.INTR-die	v:pred	v		pred		
+arta	delia	0037	asawa	spouse	np.h:a_a	np	h	a_a		
+arta	delia	0037	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	delia	0037	=ti	=SPC	=other	=other				
+arta	delia	0037	ti	OBL.DEF	ln	ln				
+arta	delia	0037	ayta	DEM.DIST.OBL	ln	ln				
+arta	delia	0037	ta	OBL	ln	ln				
+arta	delia	0037	Disumungal	Disumungal	np:p_a	np		p_a		
+arta	delia	0038	#	#	##	##				
+arta	delia	0038	saya	DEM.DIST	other	other				
+arta	delia	0038	um-angay	INTR-go	v:pred	v		pred		
+arta	delia	0038	=de:	=POST	=other	=other				
+arta	delia	0038	=tèn	=1SG.ABS	=pro.1:s_a	=pro	1	s_a		
+arta	delia	0038	=ti	=DEM.PROX.OBL	=other	=other				
+arta	delia	0039	#	#	##	##				
+arta	delia	0039	Saya	DEM.DIST	dem_pro.h:s_np	dem_pro	h	s_np		
+arta	delia	0039	ina	mother	np:pred	np		pred		
+arta	delia	0039	de:	PL.GEN.DEF	other	other				
+arta	delia	0039	Mulo	Mulo	rn_np.h:poss	rn_np	h	poss		
+arta	delia	0039	ay	filler	other	other				
+arta	delia	0039	ti	OBL.DEF	ln	ln				
+arta	delia	0039	Brida	Brida	np:other	np		other		
+arta	delia	0040	#	#	##	##				
+arta	delia	0040	Saya	DEM.DIST	dem_pro.h:s_other	dem_pro	h	s_other		
+arta	delia	0040	ta	OBL	other	other				
+arta	delia	0040	dutul	before	other:pred	other		pred		
+arta	delia	0041	#	#	##	##				
+arta	delia	0041	Aytay	now	other	other				
+arta	delia	0041	n-um-angay	PST.INTR-go	v:pred	v		pred		
+arta	delia	0041	=de:	=POST	=other	=other				
+arta	delia	0041	=tèn	=1SG.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	delia	0041	=ti	=DEM.PROX.OBL	=dem_pro:p_a	=dem_pro		p_a		
+arta	delia	0042	#	#	##	##				
+arta	delia	0042	Awan	NEG	other:pred	other		pred		
+arta	delia	0042	=tèn	=1SG.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	delia	0042	ta	OBL	ln	ln				
+arta	delia	0042	asawa	spouse	np.h:p_a	np	h	p_a		
+arta	delia	0042	#	#	#	#				
+arta	delia	0042	in-um-angay	PST-INTR-go	v:pred	v		pred		
+arta	delia	0042	=de:	=POST	=other	=other				
+arta	delia	0042	=tèn	=1SG.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	delia	0042	=ti	=DEM.PROX.OBL	=dem_pro:p_a	=dem_pro		p_a		
+arta	delia	0043	#	#	##	##				
+arta	delia	0043	Saya	DEM.DIST	other	other				
+arta	delia	0043	n-inta	PST.TR-see	v:pred	v		pred		
+arta	delia	0043	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	delia	0043	ti	SG.OBL.DEF	ln	ln				
+arta	delia	0043	bebbe:	aunt	np.h:p_u	np	h	p_u		
+arta	delia	0043	=m	=2SG.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	delia	0044	#	#	##	##				
+arta	delia	0044	Saya	DEM.DIST	other	other				
+arta	delia	0044	na-pi:piya	PST.INTR-good	v:pred	v		pred		
+arta	delia	0044	=d	=POST	=other	=other				
+arta	delia	0044	i	DEF	ln	ln				
+arta	delia	0044	pamilia	family	np:s_a	np		s_a		
+arta	delia	0044	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	delia	0044	#	#	##	##				
+arta	delia	0044	na-pi:piya	PST.INTR-good	v:pred	v		pred		
+arta	delia	0044	=d	=POST	=other	=other				
+arta	delia	0044	i	DEF	ln	ln				
+arta	delia	0044	attanan	all	np:s_a	np		s_a		
+arta	delia	0045	#	#	##	##				
+arta	delia	0045	Na-arawat-an	PST.POT-get-LV	v:pred	v		pred		
+arta	delia	0045	=ku	=1SG.GEN	=pro.1:a_up	=pro	1	a_up		
+arta	delia	0045	=d	=POST	=other	=other				
+arta	delia	0045	i	DEF	ln	ln				
+arta	delia	0045	attanan	all	np:p_up	np		p_up		
+arta	delia	0045	a	LIG	other	other				
+arta	delia	0045	man	as.if	other	other				
+arta	delia	0045	na	GEN	other	other				
+arta	delia	0045	uga:li	customs	other	other				
+arta	delia	0045	a	LIG	other	other				
+arta	delia	0045	meppiya	ADJ-good	other	other				
+arta	delia	0046	#	#	##	##				
+arta	delia	0046	Na-arawat-an	PST.POT-get-LV	v:pred	v		pred		
+arta	delia	0046	=ku	=1SG.GEN	=pro.1:a_up	=pro	1	a_up		
+arta	delia	0046	=d	=POST	=other	=other				
+arta	delia	0046	i	DEF	ln	ln				
+arta	delia	0046	attanan	all	np:p_up	np		p_up		
+arta	delia	0046	a	LIG	rn	rn				
+arta	delia	0046	meddès	ADJ-bad	rn	rn				
+arta	delia	0046	#	#	#	#				
+arta	delia	0046	0	0	f0:p_u	f0		p_u		
+arta	delia	0046	p<in>a-bay-an	<PST>CAUS-ignore-LV	v:pred	v		pred		
+arta	delia	0046	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	delia	0046	=d	=POST	=other	=other				
+arta	delia	0047	#	#	##	##				
+arta	delia	0047	Na-arawat-an	PST.POT-get-LV	v:pred	v		pred		
+arta	delia	0047	=ku	=1SG.GEN	=pro.1:a_up	=pro	1	a_up		
+arta	delia	0047	=d	=POST	=other	=other				
+arta	delia	0047	#	#	#cc:p_up	#cc		p_up		
+arta	delia	0047	0	0	0.1:a_a	0	1	a_a		
+arta	delia	0047	a	LIG	other	other				
+arta	delia	0047	man-dasar	INTR-NC	v:pred	v		pred		
+arta	delia	0047	ta	OBL	ln	ln				
+arta	delia	0047	Dios	god	np:p_a	np		p_a		
+arta	delia	0048	#	#	##	##				
+arta	delia	0048	Tataw	know	v:pred	v		pred		
+arta	delia	0048	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	delia	0048	=d	=POST	=other	=other				
+arta	delia	0048	#	#	#cc:p_u	#cc		p_u		
+arta	delia	0048	0	0	0.1:a_a	0	1	a_a		
+arta	delia	0048	i	DEF	ln	ln				
+arta	delia	0048	mam-pundar	mampundar	v:pred	v		pred		
+arta	delia	0048	ta	OBL	ln	ln				
+arta	delia	0048	mang-u:ma	INTR-field	np:p_a	np		p_a		
+arta	delia	0048	mam-mula	INTR-plant	rn_np	rn_np				
+arta	delia	0049	#	#	##	##				
+arta	delia	0049	Aydi:	and	other	other				
+arta	delia	0049	tataw	know	v:pred	v		pred		
+arta	delia	0049	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	delia	0049	=d	=POST	=other	=other				
+arta	delia	0049	i	DEF	ln	ln				
+arta	delia	0050	#	#	#cc:p_u	#cc		p_u		
+arta	delia	0050	papi:piya	CAUS-good	vother:pred	vother		pred		
+arta	delia	0050	ta	OBL	ln	ln				
+arta	delia	0050	to:top	companion	np.h:p_a	np	h	p_a		
+arta	delia	0051	#	#	##neg	##neg				
+arta	delia	0051	Ay	Ay	other	other				
+arta	delia	0051	ta	OBL	other	other				
+arta	delia	0051	dutul	before	other	other				
+arta	delia	0051	awan	NEG	other:predex	other		predex		
+arta	delia	0051	ta	OBL	ln	ln				
+arta	delia	0051	a:nus	kindness	np:ncs_other	np		ncs_other		
+arta	delia	0052	#	#	##	##				
+arta	delia	0052	Mes-subèg	ADJ-anger	v:pred	v		pred		
+arta	delia	0052	=tèn	=1SG.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	delia	0052	ta	OBL	ln	ln				
+arta	delia	0052	dutul	before	other:p_a	other		p_a		
+arta	delia	0053	#	#	##	##				
+arta	delia	0053	Um-angay	INTR-go	v:pred	v		pred		
+arta	delia	0053	=tèn	=1SG.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	delia	0053	=ti	=DEM.PROX.OBL	=dem_pro:p_a	=dem_pro		p_a		
+arta	delia	0053	#	#	#ac	#ac				
+arta	delia	0053	0	0	0.1:a_up	0	1	a_up		
+arta	delia	0053	man	as.if	other	other				
+arta	delia	0053	na	GEN	other	other				
+arta	delia	0053	n-e:but	PST-loose	v:pred	v		pred		
+arta	delia	0053	attanan	all	ln	ln				
+arta	delia	0053	a	LIG	ln	ln				
+arta	delia	0053	meddès	ADJ-bad	ln	ln				
+arta	delia	0053	a	LIG	ln	ln				
+arta	delia	0053	uga:li	custom	np:p_up	np		p_up		
+arta	delia	0054	#	#	#ac	#ac				
+arta	delia	0054	0	0	0.1:a_a	0	1	a_a		
+arta	delia	0054	Uman	as.if	other	other				
+arta	delia	0054	na	GEN	other	other				
+arta	delia	0054	na-saly-an	PST.POT-change-LV	v:pred	v		pred		
+arta	delia	0054	ta	OBL	ln	ln				
+arta	delia	0054	mep-piya	ADJ-good	ln	ln				
+arta	delia	0054	mepep-piya	ADJ-good	ln	ln				
+arta	delia	0054	uga:li	custom	np:p_up	np		p_up		
+arta	delia	0055	Saya	DEM.DIST	other	other				
+arta	delia	0055	tidi	PL.DEF	ln	ln				
+arta	delia	0055	agani:	non-Negrito	np.h:dt	np	h	dt		
+arta	delia	0055	#	#	##	##				
+arta	delia	0055	#	#	#ac	#ac				
+arta	delia	0055	amma	if	other	other				
+arta	delia	0055	atti:	exist	other	other				
+arta	delia	0055	0	0	0.h:a_a	0	h	a_a		
+arta	delia	0055	um-angay	INTR-go	v:pred	v		pred		
+arta	delia	0055	=ti	=DEM.PROX.OBL	=dem_pro:p_a	=dem_pro		p_a		
+arta	delia	0055	#	#	#	#				
+arta	delia	0055	d<um>arettyo	INTR-direct	v:pred	v		pred		
+arta	delia	0055	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
+arta	delia	0055	dèn	1SG.OBL	pro.1:p_a	pro	1	p_a		
+arta	delia	0056	%	%	%	%				
+arta	delia	0056	tataw	know	v:pred	v		pred		
+arta	delia	0056	=di	=2PL.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	delia	0056	#	#	#cc:p_u	#cc		p_u		
+arta	delia	0056	a	LIG	other	other				
+arta	delia	0056	maka-arawat	POT-get	v:pred	v		pred		
+arta	delia	0056	=tèn	=1SG.ABS	=pro.1:s_ap	=pro	1	s_ap		
+arta	delia	0057	#	#	##	##				
+arta	delia	0057	Konta	but	other	other				
+arta	delia	0057	ta	OBL	other	other				
+arta	delia	0057	dutul	before	other	other				
+arta	delia	0057	awan	NEG	other	other				
+arta	delia	0057	=ku	=1SG.GEN	=pro.1:a_up	=pro	1	a_up		
+arta	delia	0057	na-arawat-an	PST.POT-get-LV	v:pred	v		pred		
+arta	delia	0057	tidi	PL.DEF	ln	ln				
+arta	delia	0057	agani:	non-Negrito	np.h:p_up	np	h	p_up		
+arta	delia	0058	#	#	##	##				
+arta	delia	0058	Pa-gi:nan-an	CAUS-stop-LV	v:pred	v		pred		
+arta	delia	0058	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	delia	0058	=tid	=3PL.ABS	=pro.h:p_u	=pro	h	p_u		
+arta	delia	0059	#	#	##neg	##neg				
+arta	delia	0059	Pabba:lan	hate	v:pred	v		pred		
+arta	delia	0059	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	delia	0059	=tid	=3PL.ABS	=pro.h:p_u	=pro	h	p_u		
+arta	delia	0059	a	LIG	other	other				
+arta	delia	0059	mi	other	other	other				
+arta	delia	0060	#	#	##	##				
+arta	delia	0060	Pabba:lan	hate	v:pred	v		pred		
+arta	delia	0060	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	delia	0060	=tid	=3PL.ABS	=pro.h:p_u	=pro	h	p_u		
+arta	delia	0060	#	#	#cc	#cc				
+arta	delia	0060	0	0	0.1:a_up	0	1	a_up		
+arta	delia	0060	0	0	0.h:p_up	0	h	p_up		
+arta	delia	0060	a	LIG	other	other				
+arta	delia	0060	me:ta	POT-see	v:pred	v		pred		
+arta	delia	0061	#	#	##	##				
+arta	delia	0061	Munata	like.that	ap_other:pred	ap_other		pred		
+arta	delia	0061	uga:li	custom	np:s_np	np		s_np		
+arta	delia	0061	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	delia	0061	ta	OBL	other	other				
+arta	delia	0061	dutul	before	other	other				
+arta	delia	0062	#	#	##	##				
+arta	delia	0062	0	0	0:p_u	0		p_u		
+arta	delia	0062	No:no:t-èn	remember-TR	v:pred	v		pred		
+arta	delia	0062	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	delia	0062	=antu	=really	=other	=other				
+arta	delia	0062	ta	OBL	other	other				
+arta	delia	0062	dutul	before	other	other				
+arta	delia	0063	#	#	##neg	##neg				
+arta	delia	0063	Awan	NEG	other:predex	other		predex		
+arta	delia	0063	=tèn	=1SG.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	delia	0063	ta	OBL	ln	ln				
+arta	delia	0063	ina	mother	np.h:p_a	np	h	p_a		
+arta	delia	0063	#	#	##neg	##neg				
+arta	delia	0063	awan	NEG	other:predex	other		predex		
+arta	delia	0063	=de:	=POST	=other	=other				
+arta	delia	0063	=tèn	=1SG.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	delia	0063	ta	OBL	ln	ln				
+arta	delia	0063	ina	mother	np.h:p_a	np	h	p_a		
+arta	delia	0063	#	#	##	##				
+arta	delia	0063	sissi:pang	only.one	other:pred	other		pred		
+arta	delia	0063	=te:	=only	=other	=other				
+arta	delia	0063	=de:	=POST	=other	=other				
+arta	delia	0063	=tèn	=1SG.ABS	=pro.1:s_other	=pro	1	s_other		
+arta	delia	0064	#	#	##neg	##neg				
+arta	delia	0064	Meddyo	a little	other	other				
+arta	delia	0064	awan	NEG	other	other				
+arta	delia	0064	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	delia	0064	kabbat	want	v:pred	v		pred		
+arta	delia	0064	#	#	#cc:p_u	#cc		p_u		
+arta	delia	0064	0	0	0.1:a_up	0	1	a_up		
+arta	delia	0064	me:te:ta	POT.RDP-see	v:pred	v		pred		
+arta	delia	0064	i	DEF	ln	ln				
+arta	delia	0064	me''a:du	ADJ-plenty	ln	ln				
+arta	delia	0064	a	LIG	ln	ln				
+arta	delia	0064	agani:	non-Negrito	np.h:p_up	np	h	p_up		
+arta	delia	0065	me''a:du	ADJ-plenty	other	other				
+arta	delia	0065	arta	arta	other	other				
+arta	delia	0066	#	#	##	##				
+arta	delia	0066	Ayde:	and	other	other				
+arta	delia	0066	#	#	#ac	#ac				
+arta	delia	0066	ma	if	other	other				
+arta	delia	0066	ma-ke:num	INTR-drank	v:pred	v		pred		
+arta	delia	0066	=de:	=POST	=other	=other				
+arta	delia	0066	=tèn	=1SG.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	delia	0066	ta	OBL	ln	ln				
+arta	delia	0066	kissèk	little	np:p_a	np		p_a		
+arta	delia	0066	%	%	%	%				
+arta	delia	0066	kabbat	want	v:pred	v		pred		
+arta	delia	0066	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	delia	0066	#	#	#cc:p_u	#cc		p_u		
+arta	delia	0066	mes-subèsubèg	ADJ-anger	ap_other:pred	ap_other		pred		
+arta	delia	0066	=de:	=POST	=other	=other				
+arta	delia	0066	=tèn	=1SG.ABS	=pro.1:s_other	=pro	1	s_other		
+arta	delia	0067	#	#	##	##				
+arta	delia	0067	Saya	DEM.DIST	dem_pro:s_other	dem_pro		s_other		
+arta	delia	0067	munata	like.that	other:pred	other		pred		
+arta	delia	0067	#	#	##	##				
+arta	delia	0067	konta	but	other	other				
+arta	delia	0067	=tay	=now	=other	=other				
+arta	delia	0068	n-ibut-an	PST-take.off-LV	v:pred	v		pred		
+arta	delia	0068	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	delia	0068	=d	=POST	=other	=other				
+arta	delia	0068	i	DEF	ln	ln				
+arta	delia	0068	binara:yan	alcohol	np:p_u	np		p_u		
+arta	delia	0069	#	#	##neg	##neg				
+arta	delia	0069	Awan	NEG	other	other				
+arta	delia	0069	=de:	=POST	=other	=other				
+arta	delia	0069	=tèn	=1SG.ABS	=pro.1:s_other	=pro	1	s_other		
+arta	delia	0069	munata	like.that	other:pred	other		pred		
+arta	delia	0069	uga:li	habit	np:other	np		other		
+arta	delia	0069	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	delia	0069	ta	OBL	rn	rn				
+arta	delia	0069	dutul	before	rn	rn				
+arta	delia	0070	#	#	#ac	#ac				
+arta	delia	0070	0	0	0:p_u	0		p_u		
+arta	delia	0070	ta	because	other	other				
+arta	delia	0070	s<in>ali-an	PST.exchange-LV	v:pred	v		pred		
+arta	delia	0070	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	delia	0070	=d	=POST	=other	=other				
+arta	delia	0070	#	#	#	#				
+arta	delia	0070	0	0	f0:s_other	f0		s_other		
+arta	delia	0070	ta	OBL	ln	ln				
+arta	delia	0070	mep-piya	good	ap_other:pred	ap_other		pred		
+arta	delia	0070	=d	=POST	=other	=other				
+arta	delia	0071	#	#	##	##				
+arta	delia	0071	Aydi:	and	other	other				
+arta	delia	0071	i-bud	TR-tell	v:pred	v		pred		
+arta	delia	0071	=ku	=1SG.GEN	=pro:s_ds	=pro		s_ds		
+arta	delia	0071	didi	PL.OBL.DEF	ln	ln				
+arta	delia	0071	a:na:	children	np.h:g_u	np	h	g_u		
+arta	delia	0071	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	delia	0071	=y	=SPC	=rn	=rn				
+arta	delia	0072	#	#	#ds	#ds				
+arta	delia	0072	tèn	1SG.ABS	pro.1:dt_u	pro	1	dt_u		
+arta	delia	0072	awan	NEG	other	other				
+arta	delia	0072	=muyu	=2PL.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	delia	0072	=tèn	=1SG.ABS	=pro.1:p_u	=pro	1	p_u		
+arta	delia	0072	arigèn	arigèn	v:pred	v		pred		
+arta	delia	0072	#	#	##ds	##ds				
+arta	delia	0072	ta	OBL	other	other				
+arta	delia	0072	dutul	before	other	other				
+arta	delia	0072	med-dès	ADJ-bad	ap_other:pred	ap_other		pred		
+arta	delia	0072	i	DEF	ln	ln				
+arta	delia	0072	uga:li	habit	np:s_other	np		s_other		
+arta	delia	0072	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	delia	0072	=y	=SPC	=rn	=rn				
+arta	delia	0073	#	#	##	##				
+arta	delia	0073	0	0	0:a_a	0		a_a		
+arta	delia	0073	Na-sali-an	PST.POT-exchange-LV	v:pred	v		pred		
+arta	delia	0073	=di	=POST	=other	=other				
+arta	delia	0073	ta	OBL	ln	ln				
+arta	delia	0073	mep-piya	good	ln	ln				
+arta	delia	0073	uga:li	habit	np:p_a	np		p_a		
+arta	delia	0073	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	delia	0073	=y	=SPC	=rn	=rn				
+arta	delia	0074	#	#	#nc	#nc				
+arta	delia	0074	Ugali-an	habit-LV	nc	nc				
+arta	delia	0074	=muyu	=2PL.GEN	nc	nc				
+arta	delia	0074	amma	if	nc	nc				
+arta	delia	0074	atti:	exist	nc	nc				
+arta	delia	0074	barka:da	barka:da	nc	nc				
+arta	delia	0074	=muyu	=1PL.GEN	nc	nc				
+arta	delia	0074	meppiya	good	nc	nc				
+arta	delia	0074	i	DEF	nc	nc				
+arta	delia	0074	pitop	pitop	nc	nc				
+arta	delia	0074	=muyu	=2PL.GEN	nc	nc				
+arta	delia	0074	=did	=3PL.OBL	nc	nc				
+arta	delia	0075	#	#	##	##				
+arta	delia	0075	aydi:	and	other	other				
+arta	delia	0075	awan	NEG	other	other				
+arta	delia	0075	=a	=2SG.ABS	=pro.2:a_a	=pro	2	a_a		
+arta	delia	0075	man-tatim	INTR-drink	v:pred	v		pred		
+arta	delia	0075	ta	OBL	ln	ln				
+arta	delia	0075	binara:yan	alcohol	np:p_a	np		p_a		
+arta	delia	0076	Awan	NEG	nc	nc				
+arta	delia	0076	=muyu	=2PL.GEN	nc	nc				
+arta	delia	0076	#	#	##	##				
+arta	delia	0076	awan	NEG	other	other				
+arta	delia	0076	=a	=2SG.ABS	=pro.2:s_a	=pro	2	s_a		
+arta	delia	0076	=d	=POST	=other	=other				
+arta	delia	0076	man-tatim	INTR-drink	v:pred	v		pred		
+arta	delia	0076	#	#	##	##				
+arta	delia	0076	awan	NEG	other	other				
+arta	delia	0076	=am	=2PL.ABS	=pro.2:a_a	=pro	2	a_a		
+arta	delia	0076	pe:barka:da	pe:barka:da	v:pred	v		pred		
+arta	delia	0076	#	#	#rc:p_a	#rc		p_a		
+arta	delia	0076	0	0	f0.h:s_a	f0	h	s_a		
+arta	delia	0076	didi	PL.OBL.DEF	ln	ln				
+arta	delia	0076	mantatim	INTR-drink	v:pred	v		pred		
+arta	delia	0076	=i	=SPC	=rn	=rn				
+arta	delia	0077	#	#	##	##				
+arta	delia	0077	barka:da	social.group	np:pred	np		pred		
+arta	delia	0077	=mu	=2SG.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	delia	0077	#	#	#rc:s_np	#rc		s_np		
+arta	delia	0077	tidi	PL.DEF	ln	ln				
+arta	delia	0077	tataw	know	v:pred	v		pred		
+arta	delia	0077	=muyu	=2PL.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	delia	0077	#	#	#rc.h:p_u	#rc	h	p_u		
+arta	delia	0077	0	0	f0.h:a_a	f0	h	a_a		
+arta	delia	0077	a	LIG	other	other				
+arta	delia	0077	awan	NEG	other	other				
+arta	delia	0077	man-tatim	INTR-drink	v:pred	v		pred		
+arta	delia	0077	ta	OBL	ln	ln				
+arta	delia	0077	binarayan	alcohol	np:p_a	np		p_a		
+arta	delia	0078	#	#	##	##				
+arta	delia	0078	Saya	DEM.DIST	other	other				
+arta	delia	0078	i	DEF	ln	ln				
+arta	delia	0078	ana:	child	np.h:dt_a	np	h	dt_a		
+arta	delia	0078	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
+arta	delia	0078	=ti	=SPC	=rn	=rn				
+arta	delia	0078	a	LIG	rn	rn				
+arta	delia	0078	panga:nay	eldest.child	rn	rn				
+arta	delia	0078	a	LIG	rn	rn				
+arta	delia	0078	buka:gan	female	rn	rn				
+arta	delia	0079	bud	say	v:pred	v		pred		
+arta	delia	0079	=na	=3SG.GEN	=pro:s_ds	=pro		s_ds		
+arta	delia	0079	=dèn	=1SG.OBL	=pro.1:g_u	=pro	1	g_u		
+arta	delia	0080	ti	PSN	ln	ln				
+arta	delia	0080	Carisa	Carisa	np:dt_a	np		dt_a		
+arta	delia	0081	Manga:na	Manga:na	other	other				
+arta	delia	0081	#	#	#ds	#ds				
+arta	delia	0081	kabbat	want	v:pred	v		pred		
+arta	delia	0081	=ku	=1SG.GEN	=pro:a_u	=pro		a_u		
+arta	delia	0081	#	#	#cc:p_u	#cc		p_u		
+arta	delia	0081	0	0	0.1:a_a	0	1	a_a		
+arta	delia	0081	mambibleschool	INTR-bible.school	v:pred	v		pred		
+arta	delia	0082	ni	OBL.DEF	ln	ln				
+arta	delia	0082	apo	polite	ln	ln				
+arta	delia	0082	Dios	god	np:p_a	np		p_a		
+arta	delia	0083	#	#	#nc	#nc				
+arta	delia	0083	taw	2SG	nc	nc				
+arta	delia	0083	amma	if	nc	nc				
+arta	delia	0083	kabbat	want	nc	nc				
+arta	delia	0083	=mu	=2SG.GEN	nc	nc				
+arta	delia	0083	muna	like	nc	nc				
+arta	delia	0083	=tèn	=1SG.ABS	nc	nc				
+arta	delia	0084	#	#	##	##				
+arta	delia	0084	Saya	DEM.DIST	dem_pro:p_u	dem_pro		p_u		
+arta	delia	0084	na-no:no:t	POT-think	v:pred	v		pred		
+arta	delia	0084	=ku	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
+arta	delia	0084	#	#	##	##				
+arta	delia	0084	mep-piya	good	ap_other:pred	ap_other		pred		
+arta	delia	0084	=sika	=MIR	=other	=other				
+arta	delia	0084	#	#	#cc:s_other	#cc		s_other		
+arta	delia	0084	0	0	f0.2:a_a	f0	2	a_a		
+arta	delia	0084	i	DEF	ln	ln				
+arta	delia	0084	d<um>agayday	INTR-follow	v:pred	v		pred		
+arta	delia	0084	ta	OBL	ln	ln				
+arta	delia	0084	Dios	god	np:p_a	np		p_a		
+arta	delia	0085	#	#	##	##				
+arta	delia	0085	nattanan	all	ln	ln				
+arta	delia	0085	a	LIG	ln	ln				
+arta	delia	0085	med-dès	ADJ-bad	ln	ln				
+arta	delia	0085	a	LIG	ln	ln				
+arta	delia	0085	uga:li	habit	np:p_u	np		p_u		
+arta	delia	0085	ay	NC	other	other				
+arta	delia	0085	pili-an	remove-LV	v:pred	v		pred		
+arta	delia	0085	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	delia	0085	=daw	=2SG.OBL	=pro.2:obl_u	=pro	2	obl_u		
+arta	delia	0086	attanan	all	ln	ln				
+arta	delia	0086	a	LIG	ln	ln				
+arta	delia	0086	bendision	bendision	np:other	np		other		
+arta	delia	0087	#	#	##	##				
+arta	delia	0087	tittèkèk	small	v:pred	v		pred		
+arta	delia	0087	=a	=2SG.ABS	=pro.2:a_a	=pro	2	a_a		
+arta	delia	0087	ta	OBL	ln	ln				
+arta	delia	0087	Dios	god	np.d:p_a	np	d	p_a		
+arta	delia	0087	#	#	##neg	##neg				
+arta	delia	0087	#	#	#ac	#ac				
+arta	delia	0087	maski	even	other	other				
+arta	delia	0087	a:no	what	np:pred	np		pred		
+arta	delia	0087	i	DEF	ln	ln				
+arta	delia	0087	digat	difficulty	np:s_np	np		s_np		
+arta	delia	0087	%	%	%	%				
+arta	delia	0087	awan	NEG	other	other				
+arta	delia	0087	=na	=3SG.GEN	=pro.d:a_u	=pro	d	a_u		
+arta	delia	0087	=taw	=2SG.ABS	=pro.2:p_u	=pro	2	p_u		
+arta	delia	0087	pabayan	CAUS-ignore-LV	v:pred	v		pred		
+arta	delia	0088	#	#	##	##				
+arta	delia	0088	#	#	#ac	#ac				
+arta	delia	0088	maski	even	other	other				
+arta	delia	0088	adin	where	np:pred	np		pred		
+arta	delia	0088	#	#	#rc:s_np	#rc		s_np		
+arta	delia	0088	0	0	f0:p_u	f0		p_u		
+arta	delia	0088	i	DEF	ln	ln				
+arta	delia	0088	e:nan	go-LV	v:pred	v		pred		
+arta	delia	0088	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	delia	0088	=y	=SPC	=rn	=rn				
+arta	delia	0088	#	#	#ac	#ac				
+arta	delia	0088	amma	if	other	other				
+arta	delia	0088	muna	like	v:pred	v		pred		
+arta	delia	0088	=taw	=2SG.ABS	=pro.2:a_a	=pro	2	a_a		
+arta	delia	0088	ta	OBL	ln	ln				
+arta	delia	0088	Dios	god	np.d:p_a	np	d	p_a		
+arta	delia	0088	#	#	#	#				
+arta	delia	0088	Dios	god	other	other				
+arta	delia	0088	to:p-an	company-LV	v:pred	v		pred		
+arta	delia	0088	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
+arta	delia	0088	=tèn	=1SG.ABS	=pro.1:p_u	=pro	1	p_u		
+arta	delia	0088	#	#	#	#				
+arta	delia	0088	m-angay	INTR-go	v:pred	v		pred		
+arta	delia	0088	=tèn	=1SG.ABS	=pro.1:a_a	=pro	1	a_a		
+arta	delia	0088	ta	OBL	ln	ln				
+arta	delia	0088	munati	like.this	ln	ln				
+arta	delia	0088	a	LIG	ln	ln				
+arta	delia	0088	lugar	place	np:p_a	np		p_a		
+arta	delia	0089	#	#	##	##				
+arta	delia	0089	To:p-an	company-LV	v:pred	v		pred		
+arta	delia	0089	=na	=3SG.GEN	=pro.h:a_u	=pro	h	a_u		
+arta	delia	0089	=taw	=2SG.ABS	=pro.2:p_u	=pro	2	p_u		
+arta	delia	0090	#	#	##	##				
+arta	delia	0090	0	0	0.2:a_a	0	2	a_a		
+arta	delia	0090	mang-inta	INTR-see	v:pred	v		pred		
+arta	delia	0090	=te:	=only	=other	=other				
+arta	delia	0090	ta	OBL	ln	ln				
+arta	delia	0090	agani:	non-Negrito	np.h:p_a	np	h	p_a		
+arta	delia	0090	#	#	#ac	#ac				
+arta	delia	0090	maski	even	other	other				
+arta	delia	0090	awan	NEG	other:predex	other		predex		
+arta	delia	0090	=taw	=2SG.ABS	=pro.2:a_a	=pro	2	a_a		
+arta	delia	0090	ta	OBL	ln	ln				
+arta	delia	0090	kuwarto	money	np:p_a	np		p_a		
+arta	delia	0091	#	#	##	##				
+arta	delia	0091	0	0	0.2:a_a	0	2	a_a		
+arta	delia	0091	mang-inta	INTR-see	v:pred	v		pred		
+arta	delia	0091	ti	OBL.DEF	ln	ln				
+arta	delia	0091	agani:	non-Negrito	np.h:p_a	np	h	p_a		
+arta	delia	0091	#	#	#	#				
+arta	delia	0091	oh	oh	other	other				
+arta	delia	0091	bahag	come.closer	v:pred	v		pred		
+arta	delia	0091	=a	=2SG.ABS	=pro.2:a_a	=pro	2	a_a		
+arta	delia	0091	=d	=POST	=other	=other				
+arta	delia	0091	=ti	=DEM.PROX.OBL	=dem_pro:p_a	=dem_pro		p_a		
+arta	delia	0092	oh	oh	other	other				
+arta	delia	0092	#	#	##	##				
+arta	delia	0092	si:ye:	DEM.PROX	dem_pro:s_np	dem_pro		s_np		
+arta	delia	0092	wa	PLH	nc	nc				
+arta	delia	0092	=m	=2SG.GEN	nc	nc				
+arta	delia	0092	kuwarto	money	np:pred	np		pred		
+arta	delia	0092	=m	=2SG.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
+arta	delia	0093	#	#	#nc	#nc				
+arta	delia	0093	saya	DEM.DIST	nc	nc				
+arta	delia	0093	i	DEF	nc	nc				
+arta	delia	0093	ma:ng-uwa	INTR-PLH	nc	nc				
+arta	delia	0093	mina-ita	POT.PST-see	nc	nc				
+arta	delia	0093	a	LIG	nc	nc				
+arta	delia	0094	#	#	#nc	#nc				
+arta	delia	0094	wad-èn	PLH-TR	nc	nc				
+arta	delia	0094	na	GEN	nc	nc				
+arta	delia	0094	Dios	god	nc	nc				
+arta	delia	0094	a	LIG	nc	nc				
+arta	delia	0094	blessing	blessing	nc	nc				
+arta	delia	0095	#	#	#nc	#nc				
+arta	delia	0095	tèn	1SG.ABS	nc	nc				
+arta	delia	0095	awan	NEG	nc	nc				
+arta	delia	0095	=ku	=1SG.GEN	nc	nc				
+arta	delia	0095	kabbat	want	nc	nc				
+arta	delia	0095	so:li	return	nc	nc				
+arta	delia	0095	a	LIG	nc	nc				
+arta	delia	0095	ni-dutul	PST.CV-long.ago	nc	nc				
+arta	delia	0095	a	LIG	nc	nc				
+arta	delia	0095	med-dèdès	ADJ-bad	nc	nc				
+arta	delia	0095	a	LIG	nc	nc				
+arta	delia	0095	uga:li	habit	nc	nc				
