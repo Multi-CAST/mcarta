@@ -31,7 +31,7 @@ lxml==5.3.0
 Markdown==3.7
 MarkupSafe==3.0.2
 matplotlib==3.9.2
--e git+https://github.com/Multi-CAST/multicastpy.git@39970d4d6fcf4707bb80c61a364f0abdc2327134#egg=multicastpy
+-e git+https://github.com/Multi-CAST/multicastpy.git@c74871053ad553055650d5a39543da6bedeb0a79#egg=multicastpy
 multipledispatch==1.0.0
 nameparser==1.1.3
 newick==1.9.0
@@ -44,6 +44,7 @@ pybtex==0.24.0
 -e git+https://github.com/cldf/pycldf@f71522aebbc3aa57f6bbc6a13f8274c1196ac984#egg=pycldf
 pycountry==24.6.1
 pyglottolog==3.14.0
+pyigt==2.1.0
 pylatexenc==2.10
 pyparsing==3.2.0
 pytest==8.3.3
@@ -51,9 +52,11 @@ python-dateutil==2.9.0.post0
 python-frontmatter==1.1.0
 rdflib==7.1.1
 referencing==0.35.1
+regex==2024.11.6
 reportlab==4.2.5
 requests==2.32.3
 rfc3986==1.5.0
+segments==2.2.1
 six==1.16.0
 smmap==5.0.1
 soupsieve==2.6
