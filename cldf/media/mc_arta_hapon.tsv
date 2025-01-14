@@ -1,4 +1,4 @@
-corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 arta	hapon	0001	#	#	##	##				
 arta	hapon	0001	Aydi:ti	before	other	other				
 arta	hapon	0002	historia	story	np:pred	np		pred		
@@ -404,7 +404,7 @@ arta	hapon	0051	manganting	STV-afraid	v:pred	v		pred
 arta	hapon	0051	tidi	PL.DEF	ln	ln				
 arta	hapon	0051	ama	father	np.h:s_stv	np	h	s_stv		
 arta	hapon	0051	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
-arta	hapon	0051	deydia	NA	other	other				
+arta	hapon	0051	deydia	NC	other	other				
 arta	hapon	0052	#	#	##	##				
 arta	hapon	0052	m-angay	AV-go	v:pred	v		pred		
 arta	hapon	0052	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		

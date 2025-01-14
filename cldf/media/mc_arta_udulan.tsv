@@ -1,4 +1,4 @@
-corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 arta	udulan	0001	#	#	##	##				
 arta	udulan	0001	istoria	story	np:predex	np		predex		
 arta	udulan	0001	=na	=3SG.GEN	=rn_pro.h:poss	=rn_pro	h	poss		

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1908">
+<multicast version="2001">
     <corpus c_name="arta">
         <text t_name="typhoon" annotators="Yukinori Kimoto" speaker="AR01">
             <file f_name="mc_arta_typhoon" audio="mc_arta_typhoon.wav" updated="2019-08-30">
