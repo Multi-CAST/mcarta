@@ -133,7 +133,7 @@ arta	udulan	0018	n-um-angay	PST-INTR-go	v:pred	v		pred
 arta	udulan	0018	ta	OBL	ln	ln				
 arta	udulan	0018	Danak	Danak	np:p_a	np		p_a		
 arta	udulan	0019	#	#	##	##				
-arta	udulan	0019	#	#	#ds:p_u	#ds		p_u		
+arta	udulan	0019	#	#	#ds_cc:p_u	#ds_cc		p_u		
 arta	udulan	0019	Saya	DEM.DIST	other	other				
 arta	udulan	0019	i	DEF	ln	ln				
 arta	udulan	0019	pangal	arrow	np:pred	np		pred		
@@ -311,8 +311,8 @@ arta	udulan	0041	#	#	#rc	#rc
 arta	udulan	0041	a	LIG	other	other				
 arta	udulan	0041	pang-kasar-an	NF-wedding-LV	vother:pred	vother		pred		
 arta	udulan	0041	=ta	=1+2SG	=pro.1:s_u	=pro	1	s_u		
-arta	udulan	0042	##]	#	##	##				
-arta	udulan	0042	#	#	#ds:p_u	#ds		p_u		
+arta	udulan	0042	##	#	##	##				
+arta	udulan	0042	#	#	#ds_cc:p_u	#ds_cc		p_u		
 arta	udulan	0042	O:ni	Yes	other:pred	other		pred		
 arta	udulan	0042	%	%	%	%				
 arta	udulan	0042	Punan	according.to	v:pred	v		pred		

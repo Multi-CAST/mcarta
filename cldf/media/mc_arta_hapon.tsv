@@ -757,7 +757,7 @@ arta	hapon	0096	=i	=SPC	nc	nc
 arta	hapon	0096	a	LIG	nc	nc				
 arta	hapon	0096	pe:be:bud	ask	nc	nc				
 arta	hapon	0096	=u	=1SG.GEN	nc	nc				
-arta	hapon	0097	#	#	## neg	## neg				
+arta	hapon	0097	#	#	##neg	##neg				
 arta	hapon	0097	awan	NEG	other:predex	other		predex		
 arta	hapon	0097	=de:ta	=POST:OBL	=other	=other				
 arta	hapon	0097	subèg	anger	np:ncs_other	np		ncs_other		
