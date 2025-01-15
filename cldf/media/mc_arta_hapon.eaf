@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2019-09-21T15:51:52+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2020-08-06T00:44:44+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_arta_hapon.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:46f5827c-76b7-438e-aa56-e8fc49c7838f</PROPERTY>
@@ -4806,12 +4806,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a5966" ANNOTATION_REF="a313" PREVIOUS_ANNOTATION="a1322">
-                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1324" ANNOTATION_REF="a313" PREVIOUS_ANNOTATION="a5966">
+            <REF_ANNOTATION ANNOTATION_ID="a1324" ANNOTATION_REF="a313" PREVIOUS_ANNOTATION="a1322">
                 <ANNOTATION_VALUE>puna-n</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -9888,11 +9883,6 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a5970" ANNOTATION_REF="a5966">
-                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2695" ANNOTATION_REF="a1324">
                 <ANNOTATION_VALUE>do-PV</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -14966,11 +14956,6 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6678" ANNOTATION_REF="a2693">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a6679" ANNOTATION_REF="a5970">
                 <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>

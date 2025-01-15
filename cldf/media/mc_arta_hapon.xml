@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="arta">
         <text t_name="hapon" annotators="Yukinori Kimoto" speaker="AR02">
-            <file f_name="mc_arta_hapon" audio="mc_arta_hapon.wav" updated="2019-09-21">
+            <file f_name="mc_arta_hapon" audio="mc_arta_hapon.wav" updated="2020-08-06">
                 <unit uid="0001" start_time="440" end_time="1595">
                     <utterance_id>arta_hapon_0001</utterance_id>
                     <utterance>Aydi:ti</utterance>
@@ -3758,11 +3758,6 @@
                         <segment>
                             <gword>=di</gword>
                             <gloss>=POST</gloss>
-                            <graid>nc</graid>
-                        </segment>
-                        <segment>
-                            <gword>0</gword>
-                            <gloss>0</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>

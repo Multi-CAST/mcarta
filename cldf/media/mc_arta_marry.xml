@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="arta">
         <text t_name="marry" annotators="Yukinori Kimoto" speaker="AR02">
             <file f_name="mc_arta_marry" audio="mc_arta_marry.wav" updated="2019-08-28">
