@@ -1,4 +1,4 @@
-corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 arta	disubu	0001	#	#	##	##				
 arta	disubu	0001	Ay	FILL	ln	ln				
 arta	disubu	0001	ilus	yam	np:pred	np		pred		
