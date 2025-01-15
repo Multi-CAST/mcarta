@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2207">
+<multicast version="2311">
  <corpus c_name="arta">
   <text t_name="disubu" annotators="Yukinori Kimoto" speaker="AR03">
    <file f_name="mc_arta_disubu" audio="mc_arta_disubu.wav" updated="2019-08-29">

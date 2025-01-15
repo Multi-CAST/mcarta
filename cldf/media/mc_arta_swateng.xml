@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2207">
+<multicast version="2311">
  <corpus c_name="arta">
   <text t_name="swateng" annotators="Yukinori Kimoto" speaker="AR03">
-   <file f_name="mc_arta_swateng" audio="mc_arta_swateng.wav" updated="2022-03-18">
+   <file f_name="mc_arta_swateng" audio="mc_arta_swateng.wav" updated="2023-07-09">
     <unit uid="0001" start_time="110" end_time="2900">
      <utterance_id>arta_swateng_0001</utterance_id>
      <utterance>Historia na Sanuwa:tèng.</utterance>
@@ -2135,7 +2135,7 @@
       <segment>
        <gword>#</gword>
        <gloss>#</gloss>
-       <graid>#ds.neg:p_u</graid>
+       <graid>#ds_cc.neg:p_u</graid>
       </segment>
       <segment>
        <gword>Awan</gword>
@@ -2167,7 +2167,7 @@
     <unit uid="0034" start_time="219582" end_time="224749">
      <utterance_id>arta_swateng_0034</utterance_id>
      <utterance>Mansu:bèg. Numantingdi buka:gani.</utterance>
-     <utterance_translation>He was angery, so the woman was scared.</utterance_translation>
+     <utterance_translation>He was angry, so the woman was scared.</utterance_translation>
      <annotations>
       <segment>
        <gword>#</gword>
@@ -7078,7 +7078,7 @@
       <segment>
        <gword>pa-pati-n</gword>
        <gloss>CAUS-die-TR</gloss>
-       <graid>:pred</graid>
+       <graid>v:pred</graid>
       </segment>
       <segment>
        <gword>=di</gword>

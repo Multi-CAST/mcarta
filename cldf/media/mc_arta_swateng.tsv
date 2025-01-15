@@ -379,7 +379,7 @@ arta	swateng	0033	Pab-bud	NF-say	other	other
 arta	swateng	0033	ni-bara:wèng	PST.CV-command	v:pred	v		pred		
 arta	swateng	0033	ni	GEN.DEF	ln	ln				
 arta	swateng	0033	Sanuwatèng	Sanuwatèng	np.h:a_u	np	h	a_u		
-arta	swateng	0033	#	#	#ds.neg:p_u	#ds.neg		p_u		
+arta	swateng	0033	#	#	#ds_cc.neg:p_u	#ds_cc.neg		p_u		
 arta	swateng	0033	Awan	NEG	other	other				
 arta	swateng	0033	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
 arta	swateng	0033	=tep	=still	=rv	=rv				
@@ -1250,7 +1250,7 @@ arta	swateng	0117	Ta	OBL	other	other
 arta	swateng	0117	talaga	really	other	other				
 arta	swateng	0117	sigura:do	really	other	other				
 arta	swateng	0117	a	LIG	other	other				
-arta	swateng	0117	pa-pati-n	CAUS-die-TR	:pred			pred		
+arta	swateng	0117	pa-pati-n	CAUS-die-TR	v:pred	v		pred		
 arta	swateng	0117	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 arta	swateng	0117	=mina	=HYPO	=other	=other				
 arta	swateng	0117	ti	PSN	ln	ln				
