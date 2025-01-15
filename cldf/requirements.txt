@@ -31,7 +31,7 @@ lxml==5.3.0
 Markdown==3.7
 MarkupSafe==3.0.2
 matplotlib==3.9.2
--e git+https://github.com/Multi-CAST/multicastpy.git@c74871053ad553055650d5a39543da6bedeb0a79#egg=multicastpy
+-e git+https://github.com/Multi-CAST/multicastpy.git@092e645978c101b09580196c4280e5b9198a0748#egg=multicastpy
 multipledispatch==1.0.0
 nameparser==1.1.3
 newick==1.9.0
@@ -41,7 +41,7 @@ packaging==24.2
 platformdirs==4.3.6
 pluggy==1.5.0
 pybtex==0.24.0
--e git+https://github.com/cldf/pycldf@f71522aebbc3aa57f6bbc6a13f8274c1196ac984#egg=pycldf
+-e git+https://github.com/cldf/pycldf@6df05dfc4932db17460ea91189cf6014e66a6d13#egg=pycldf
 pycountry==24.6.1
 pyglottolog==3.14.0
 pyigt==2.1.0

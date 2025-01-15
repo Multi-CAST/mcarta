@@ -1,4 +1,4 @@
-corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
 arta	arsenyo	0001	#	#	##neg	##neg				
 arta	arsenyo	0001	Awan	NEG	other:predex	other		predex		
 arta	arsenyo	0001	ta	OBL	ln	ln				
