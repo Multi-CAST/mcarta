@@ -1,4 +1,4 @@
-corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 arta	child	0001	NC	NC	nc	nc				
 arta	child	0002	#	#	##neg	##neg				
 arta	child	0002	Awan	NEG	other	other				

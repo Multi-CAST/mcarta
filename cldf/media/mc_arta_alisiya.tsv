@@ -1,4 +1,4 @@
-corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 arta	alisiya	0001	#	#	##	##				
 arta	alisiya	0001	#	#	#ac	#ac				
 arta	alisiya	0001	Atti:	exist	other:pred	other		pred		
