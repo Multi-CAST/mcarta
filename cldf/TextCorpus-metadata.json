@@ -5,7 +5,7 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Kimoto, Yukinori. 2022. Multi-CAST Arta. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2207. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#arta) (date accessed)",
+    "dc:bibliographicCitation": "Kimoto, Yukinori. 2019. Multi-CAST Arta. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1908. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#arta) (date accessed)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TextCorpus",
     "dc:description": "**Arta** ([arta1239](https://glottolog.org/resource/languoid/id/arta1239)) is an endangered Austronesian language spoken by a group of hunter-gatherers living in Luzon, the Philippines. The number of fluent speakers is between nine and eleven, most of which are over the age of forty. Since all speakers have settled down in the communities of neighboring Negrito groups (Casiguran/Nagitupunan Agta people), the language is not in active use and no longer taught to children. All of the speakers are multilingual with Casiguran/Nagtipunan Agta and Ilokano.\n\nThe texts were collected by Yukinori Kimoto during fieldwork in the Quirino and Aurora provinces in Luzon between 2012 and 2018. See [Kimoto (2017)](Source#cldf:kimoto2017) for [a description of the language](MediaTable#cldf:Kimoto2017_a-grammar-of-Arta.pdf).",
     "dc:identifier": "https://multicast.aspra.uni-bamberg.de/#arta",
@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Multi-CAST/mcarta",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2101",
+            "dc:created": "6f894b9",
             "dc:title": "Repository"
         },
         {

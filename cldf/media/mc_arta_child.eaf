@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2022-05-21T20:05:43+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2019-08-29T22:46:59+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_arta_child.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:aaac5ff1-682f-4473-8ec6-dcd577a9ba5b</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">12097</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">12094</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
@@ -3967,7 +3967,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a12095" ANNOTATION_REF="a262" PREVIOUS_ANNOTATION="a1105">
+            <REF_ANNOTATION ANNOTATION_ID="a6389" ANNOTATION_REF="a262">
                 <ANNOTATION_VALUE>aydi:ti</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -10064,11 +10064,6 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a12096" ANNOTATION_REF="a12095">
-                <ANNOTATION_VALUE>NC</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9893" ANNOTATION_REF="a9401">
                 <ANNOTATION_VALUE>NC</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -16158,11 +16153,6 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a11111" ANNOTATION_REF="a9892">
                 <ANNOTATION_VALUE>rn</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a12097" ANNOTATION_REF="a12096">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

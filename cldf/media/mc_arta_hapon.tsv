@@ -1,4 +1,4 @@
-corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
 arta	hapon	0001	#	#	##	##				
 arta	hapon	0001	Aydi:ti	before	other	other				
 arta	hapon	0002	historia	story	np:pred	np		pred		
@@ -404,7 +404,7 @@ arta	hapon	0051	manganting	STV-afraid	v:pred	v		pred
 arta	hapon	0051	tidi	PL.DEF	ln	ln				
 arta	hapon	0051	ama	father	np.h:s_stv	np	h	s_stv		
 arta	hapon	0051	=ku	=1SG.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
-arta	hapon	0051	deydia	NC	other	other				
+arta	hapon	0051	deydia	NA	other	other				
 arta	hapon	0052	#	#	##	##				
 arta	hapon	0052	m-angay	AV-go	v:pred	v		pred		
 arta	hapon	0052	=tid	=3PL.ABS	=pro.h:a_a	=pro	h	a_a		
@@ -636,6 +636,7 @@ arta	hapon	0081	=ti	=DEM.PROX.OBL	=other	=other
 arta	hapon	0082	#	#	#nc	#nc				
 arta	hapon	0082	Alap-èn	get-UV	nc	nc				
 arta	hapon	0082	=di	=POST	nc	nc				
+arta	hapon	0082	0	0	nc	nc				
 arta	hapon	0082	puna-n	do-PV	nc	nc				
 arta	hapon	0082	=di	=3SG.GEN	nc	nc				
 arta	hapon	0082	=ta	=DEM.DIST.OBL	nc	nc				
@@ -757,7 +758,7 @@ arta	hapon	0096	=i	=SPC	nc	nc
 arta	hapon	0096	a	LIG	nc	nc				
 arta	hapon	0096	pe:be:bud	ask	nc	nc				
 arta	hapon	0096	=u	=1SG.GEN	nc	nc				
-arta	hapon	0097	#	#	##neg	##neg				
+arta	hapon	0097	#	#	## neg	## neg				
 arta	hapon	0097	awan	NEG	other:predex	other		predex		
 arta	hapon	0097	=de:ta	=POST:OBL	=other	=other				
 arta	hapon	0097	subèg	anger	np:ncs_other	np		ncs_other		

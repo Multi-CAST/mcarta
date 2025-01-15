@@ -1,4 +1,4 @@
-corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
 arta	child	0001	NC	NC	nc	nc				
 arta	child	0002	#	#	##neg	##neg				
 arta	child	0002	Awan	NEG	other	other				
@@ -485,7 +485,7 @@ arta	child	0048	ana:	child	np.h:a_a	np	h	a_a
 arta	child	0048	=mi	=1PL.GEN	=rn_pro.1:poss	=rn_pro	1	poss		
 arta	child	0048	a	LIG	rn	rn				
 arta	child	0048	gilangan	male	rn	rn				
-arta	child	0048	aydi:ti	NC	nc	nc				
+arta	child	0048	aydi:ti							
 arta	child	0049	NC	NC	nc	nc				
 arta	child	0050	#	#	#nc	#nc				
 arta	child	0050	Ay	TOP	nc	nc				
