@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Kimoto, Yukinori. 2022. Multi-CAST Arta. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2207. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#arta) (date accessed)
+  > Kimoto, Yukinori. 2023. Multi-CAST Arta. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2311. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#arta) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
