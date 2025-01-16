@@ -379,7 +379,7 @@ arta	swateng	0033	Pab-bud	NF-say	other	other
 arta	swateng	0033	ni-bara:wèng	PST.CV-command	v:pred	v		pred		
 arta	swateng	0033	ni	GEN.DEF	ln	ln				
 arta	swateng	0033	Sanuwatèng	Sanuwatèng	np.h:a_u	np	h	a_u		
-arta	swateng	0033	#	#	#ds_cc.neg:p_u	#ds_cc.neg		p_u		
+arta	swateng	0033	#	#	#ds.neg:p_u	#ds.neg		p_u		
 arta	swateng	0033	Awan	NEG	other	other				
 arta	swateng	0033	=mu	=2SG.GEN	=pro.2:a_u	=pro	2	a_u		
 arta	swateng	0033	=tep	=still	=rv	=rv				
@@ -643,7 +643,7 @@ arta	swateng	0058	gissa	one	rn	rn
 arta	swateng	0058	wadi	younger.sibling	rn_np.h	rn_np	h			
 arta	swateng	0058	ni	GEN.DEF	rn	rn				
 arta	swateng	0058	ayni	PROX.GEN	rn	rn				
-arta	swateng	0059	#	#	#ds_cc:p_u	#ds_cc		p_u		
+arta	swateng	0059	#	#	#ds:p_u	#ds		p_u		
 arta	swateng	0059	0	0	0:p_u	0		p_u		
 arta	swateng	0059	Ballan	dislike	v:pred	v		pred		
 arta	swateng	0059	=u	=1SG.GEN	=pro.1:a_u	=pro	1	a_u		
@@ -684,7 +684,7 @@ arta	swateng	0062	ti	OBL.DEF	ln	ln
 arta	swateng	0062	aka	elder.sibling	np.h:p_a	np	h	p_a		
 arta	swateng	0062	=mu	=2SG.GEN	=rn_pro.2:poss	=rn_pro	2	poss		
 arta	swateng	0063	#	#	##	##				
-arta	swateng	0063	#	#	#ds_cc:p_u	#ds_cc		p_u		
+arta	swateng	0063	#	#	#ds:p_u	#ds		p_u		
 arta	swateng	0063	0	0	0:p_u	0		p_u		
 arta	swateng	0063	Saya	DIST	other	other				
 arta	swateng	0063	pasensi-an	tolerate-LV	v:pred	v		pred		
@@ -1250,7 +1250,7 @@ arta	swateng	0117	Ta	OBL	other	other
 arta	swateng	0117	talaga	really	other	other				
 arta	swateng	0117	sigura:do	really	other	other				
 arta	swateng	0117	a	LIG	other	other				
-arta	swateng	0117	pa-pati-n	CAUS-die-TR	v:pred	v		pred		
+arta	swateng	0117	pa-pati-n	CAUS-die-TR	:pred			pred		
 arta	swateng	0117	=di	=3PL.GEN	=pro.h:a_u	=pro	h	a_u		
 arta	swateng	0117	=mina	=HYPO	=other	=other				
 arta	swateng	0117	ti	PSN	ln	ln				

@@ -636,6 +636,7 @@ arta	hapon	0081	=ti	=DEM.PROX.OBL	=other	=other
 arta	hapon	0082	#	#	#nc	#nc				
 arta	hapon	0082	Alap-èn	get-UV	nc	nc				
 arta	hapon	0082	=di	=POST	nc	nc				
+arta	hapon	0082	0	0	nc	nc				
 arta	hapon	0082	puna-n	do-PV	nc	nc				
 arta	hapon	0082	=di	=3SG.GEN	nc	nc				
 arta	hapon	0082	=ta	=DEM.DIST.OBL	nc	nc				
@@ -757,7 +758,7 @@ arta	hapon	0096	=i	=SPC	nc	nc
 arta	hapon	0096	a	LIG	nc	nc				
 arta	hapon	0096	pe:be:bud	ask	nc	nc				
 arta	hapon	0096	=u	=1SG.GEN	nc	nc				
-arta	hapon	0097	#	#	##neg	##neg				
+arta	hapon	0097	#	#	## neg	## neg				
 arta	hapon	0097	awan	NEG	other:predex	other		predex		
 arta	hapon	0097	=de:ta	=POST:OBL	=other	=other				
 arta	hapon	0097	subèg	anger	np:ncs_other	np		ncs_other		
